@@ -113,8 +113,8 @@ async function run() {
     generated_at: new Date().toISOString(),
     has_thumbnail: thumbnailWritten,
     top_description: topDescription,
-    articles: top.map(a => ({
-      rank: a.rank,
+    articles: top.map((a, i) => ({
+      rank: i + 1,
       title: a.article.replace(/_/g, ' '),
       views: a.views,
     })),
