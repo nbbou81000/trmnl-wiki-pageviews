@@ -1,49 +1,49 @@
 {
   "lang": "es",
-  "date": "2026-09-11",
-  "generated_at": "2026-09-12T18:37:40.269Z",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-13T09:35:49.924Z",
   "has_thumbnail": true,
   "top_description": "ataques ocurridos en los Estados Unidos en 2001",
   "articles": [
     {
-      "rank": 2,
+      "rank": 1,
       "title": "Atentados del 11 de septiembre de 2001",
-      "views": 148511
+      "views": 100746
+    },
+    {
+      "rank": 2,
+      "title": "Elena Rybákina",
+      "views": 47989
+    },
+    {
+      "rank": 3,
+      "title": "Aryna Sabalenka",
+      "views": 40921
     },
     {
       "rank": 4,
-      "title": "World Trade Center (1973-2001)",
-      "views": 24468
+      "title": "Mikel Landa",
+      "views": 30683
     },
     {
       "rank": 5,
-      "title": "Osama bin Laden",
-      "views": 23936
+      "title": "Michael Polansky",
+      "views": 25110
     },
     {
       "rank": 6,
-      "title": "Astrid de Noruega",
-      "views": 20043
+      "title": "Osama bin Laden",
+      "views": 24087
     },
     {
       "rank": 7,
-      "title": "Elena Rybákina",
-      "views": 19931
+      "title": "Ben Shelton",
+      "views": 23901
     },
     {
       "rank": 8,
-      "title": "Día de Cataluña",
-      "views": 17545
-    },
-    {
-      "rank": 9,
-      "title": "James Rodríguez",
-      "views": 15335
-    },
-    {
-      "rank": 10,
-      "title": "Aryna Sabalenka",
-      "views": 14498
+      "title": "World Trade Center (1973-2001)",
+      "views": 21860
     }
   ]
 }
