@@ -1,47 +1,47 @@
 {
   "lang": "fr",
   "date": "2026-09-12",
-  "generated_at": "2026-09-13T08:49:31.503Z",
+  "generated_at": "2026-09-13T09:35:49.497Z",
   "has_thumbnail": false,
   "top_description": "témoin du protocole HTTP permettant aux sites web de stocker des données",
   "articles": [
     {
-      "rank": 2,
+      "rank": 1,
       "title": "Cookie (informatique)",
       "views": 69150
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Attentats du 11 septembre 2001",
       "views": 41550
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Céline Dion",
       "views": 40670
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Elena Rybakina",
       "views": 29568
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Affaire Omar Raddad",
       "views": 25547
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Tomer Sisley",
       "views": 22587
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Lionel Messi",
       "views": 21399
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Aryna Sabalenka",
       "views": 20353
     }
