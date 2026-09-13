@@ -1,6 +1,8 @@
 // Fetches yesterday's top-viewed Wikipedia articles for one language edition,
-// filters out non-article pages (Main Page, Special:, Portal:, etc.), and
-// downloads/processes a thumbnail for the #1 article if one exists.
+// filters out non-article pages, and enriches each article with:
+//   - percent change in views vs the previous day
+//   - a 7-day view history, pre-normalised into SVG polyline points
+// Also downloads a thumbnail for the #1 article if one exists.
 //
 // Writes:
 //   docs/images/<lang>/latest.png   (thumbnail for #1, if available)
@@ -27,30 +29,84 @@ const SKIP_PREFIXES = {
   es: ['Especial:', 'Wikipedia:', 'Portal:', 'Archivo:', 'Discusión:'],
 };
 
-const UA = { 'User-Agent': 'trmnl-wiki-pageviews/1.0 (personal e-ink project)' };
+// Wikimedia requires a descriptive User-Agent with contact details.
+// A vague UA gets HTTP 429 rate limiting.
+const UA = {
+  'User-Agent':
+    'trmnl-wiki-pageviews/1.0 (https://github.com/nbbou81000/trmnl-wiki-pageviews; nb.bouteiller@gmail.com)',
+};
+
+const TOP_COUNT = 8;          // articles shown
+const COMPARE_DEPTH = 50;     // how deep to look in yesterday's list for rank/view deltas
+const HISTORY_DAYS = 7;       // sparkline window
+const SPARK_W = 100;          // sparkline viewBox width
+const SPARK_H = 24;           // sparkline viewBox height
+
 const OUT_IMG_DIR = path.join(__dirname, '..', 'docs', 'images', LANG);
 const OUT_DATA_DIR = path.join(__dirname, '..', 'docs', 'data');
 
-function yesterday() {
+function dayOffset(n) {
   const d = new Date();
-  d.setUTCDate(d.getUTCDate() - 1);
+  d.setUTCDate(d.getUTCDate() - n);
   return {
     y: d.getUTCFullYear(),
     m: String(d.getUTCMonth() + 1).padStart(2, '0'),
     day: String(d.getUTCDate()).padStart(2, '0'),
     iso: d.toISOString().slice(0, 10),
+    compact: d.toISOString().slice(0, 10).replace(/-/g, ''),
   };
 }
 
-async function fetchTopArticles() {
-  const { y, m, day } = yesterday();
-  const url = `https://wikimedia.org/api/rest_v1/metrics/pageviews/top/${LANG}.wikipedia/all-access/${y}/${m}/${day}`;
+async function getJson(url) {
   const res = await fetch(url, { headers: UA, timeout: 30000 });
-  if (!res.ok) throw new Error(`pageviews HTTP ${res.status}`);
-  const json = await res.json();
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  return res.json();
+}
+
+async function fetchTopArticles(offsetDays) {
+  const { y, m, day } = dayOffset(offsetDays);
+  const url = `https://wikimedia.org/api/rest_v1/metrics/pageviews/top/${LANG}.wikipedia/all-access/${y}/${m}/${day}`;
+  const json = await getJson(url);
   const articles = json.items[0].articles;
   const skip = SKIP_PREFIXES[LANG];
   return articles.filter(a => !skip.some(prefix => a.article.startsWith(prefix)));
+}
+
+async function fetchHistory(title) {
+  const start = dayOffset(HISTORY_DAYS).compact;
+  const end = dayOffset(1).compact;
+  const enc = encodeURIComponent(title);
+  const url =
+    `https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/` +
+    `${LANG}.wikipedia/all-access/all-agents/${enc}/daily/${start}/${end}`;
+  const json = await getJson(url);
+  return json.items.map(it => it.views);
+}
+
+// Turn a series of view counts into SVG bar rectangles, normalised to the
+// SPARK_W x SPARK_H box. Every bar keeps a minimum height so that low days
+// stay visible as a baseline tick rather than vanishing. Flat series render
+// as bars of equal mid height rather than dividing by zero.
+function toSparklineBars(values) {
+  if (!values || values.length < 2) return [];
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const range = max - min;
+
+  const gap = 2;
+  const barW = (SPARK_W - gap * (values.length - 1)) / values.length;
+  const minH = 2;
+
+  return values.map((v, i) => {
+    const ratio = range === 0 ? 0.5 : (v - min) / range;
+    const h = Math.max(minH, Math.round(ratio * SPARK_H));
+    return {
+      x: Math.round(i * (barW + gap) * 100) / 100,
+      y: SPARK_H - h,
+      w: Math.round(barW * 100) / 100,
+      h,
+    };
+  });
 }
 
 async function fetchSummary(title) {
@@ -75,11 +131,40 @@ async function downloadAndProcessThumbnail(thumbUrl) {
     .toBuffer();
 }
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 async function run() {
-  const { iso } = yesterday();
+  const { iso } = dayOffset(1);
   console.log(`[${LANG}] fetching top articles for ${iso}`);
-  const clean = await fetchTopArticles();
-  const top = clean.slice(0, 8);
+  const clean = await fetchTopArticles(1);
+  const top = clean.slice(0, TOP_COUNT);
+
+  // Previous day, looked at more deeply so we can still place an article
+  // that was ranked well below today's cut-off.
+  let prevMap = new Map();
+  try {
+    const prev = await fetchTopArticles(2);
+    prev.slice(0, COMPARE_DEPTH).forEach((a, i) => {
+      prevMap.set(a.article, { rank: i + 1, views: a.views });
+    });
+    console.log(`[${LANG}] previous day: ${prevMap.size} articles for comparison`);
+  } catch (e) {
+    console.warn(`[${LANG}] previous day unavailable: ${e.message}`);
+  }
+
+  // 7-day history per article, sequentially with a small delay to stay
+  // well inside Wikimedia's rate limits.
+  const histories = [];
+  for (const a of top) {
+    try {
+      const values = await fetchHistory(a.article);
+      histories.push(values);
+    } catch (e) {
+      console.warn(`[${LANG}] history failed for ${a.article}: ${e.message}`);
+      histories.push(null);
+    }
+    await sleep(150);
+  }
 
   let thumbnailWritten = false;
   let topDescription = null;
@@ -106,6 +191,30 @@ async function run() {
     }
   }
 
+  const articles = top.map((a, i) => {
+    const prev = prevMap.get(a.article);
+    let changePct = null;
+    let isNew = true;
+    if (prev && prev.views > 0) {
+      changePct = Math.round(((a.views - prev.views) / prev.views) * 100);
+      isNew = false;
+    }
+    const history = histories[i];
+    return {
+      rank: i + 1,
+      title: a.article.replace(/_/g, ' '),
+      views: a.views,
+      views_label: a.views.toLocaleString('fr-FR').replace(/\u202f|\u00a0/g, ' '),
+      is_new: isNew,
+      change_pct: changePct,
+      change_label: isNew
+        ? 'NOUVEAU'
+        : `${changePct > 0 ? '+' : ''}${changePct}%`,
+      history: history || [],
+      sparkline_bars: history ? toSparklineBars(history) : [],
+    };
+  });
+
   fs.mkdirSync(OUT_DATA_DIR, { recursive: true });
   const data = {
     lang: LANG,
@@ -113,17 +222,17 @@ async function run() {
     generated_at: new Date().toISOString(),
     has_thumbnail: thumbnailWritten,
     top_description: topDescription,
-    articles: top.map(a => ({
-      rank: a.rank,
-      title: a.article.replace(/_/g, ' '),
-      views: a.views,
-    })),
+    spark_width: SPARK_W,
+    spark_height: SPARK_H,
+    articles,
   };
   fs.writeFileSync(
     path.join(OUT_DATA_DIR, `${LANG}.json`),
     JSON.stringify(data, null, 2)
   );
-  console.log(`[${LANG}] done -> ${top.length} articles, thumbnail=${thumbnailWritten}`);
+  console.log(
+    `[${LANG}] done -> ${articles.length} articles, thumbnail=${thumbnailWritten}`
+  );
 }
 
 run().catch(err => {

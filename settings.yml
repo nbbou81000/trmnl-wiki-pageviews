@@ -5,21 +5,29 @@ polling_verb: get
 refresh_frequency: 3600
 
 custom_fields:
-  - keyname: doesnt_matter
+  - keyname: instance_bio
     name: About This Plugin
-    category: news,discovery
     field_type: author_bio
-    description: Shows yesterday's most-viewed Wikipedia articles for a language edition of your choice, with a thumbnail for the #1 article when one is available.
+    description: Shows yesterday's most-viewed Wikipedia articles for a language edition of your choice.
     github_url: https://github.com/nbbou81000/trmnl-wiki-pageviews
-    learn_more_url: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+    category: news
 
-  - keyname: lang
+  - keyname: wiki_lang
     name: Language
     field_type: select
+    default: en
+    description: Which Wikipedia language edition to show
     options:
       - English: en
       - Français: fr
       - Deutsch: de
       - Español: es
-    default: en
-    description: Which Wikipedia language edition to show.
+
+  - keyname: display_mode
+    name: Display Mode
+    field_type: select
+    default: image
+    description: Thumbnail of the top article, or per-article trend stats
+    options:
+      - Thumbnail: image
+      - Trends (no image): stats
