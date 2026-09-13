@@ -36,7 +36,7 @@ const UA = {
     'trmnl-wiki-pageviews/1.0 (https://github.com/nbbou81000/trmnl-wiki-pageviews; nb.bouteiller@gmail.com)',
 };
 
-const TOP_COUNT = 15;          // articles shown
+const TOP_COUNT = 15;         // articles fetched (trends mode shows all, image mode limits in Liquid)
 const COMPARE_DEPTH = 50;     // how deep to look in yesterday's list for rank/view deltas
 const HISTORY_DAYS = 7;       // sparkline window
 const SPARK_W = 100;          // sparkline viewBox width
@@ -133,6 +133,16 @@ async function downloadAndProcessThumbnail(thumbUrl) {
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Thousands separators differ by locale: 434,567 in English, 434 567 in
+// French, 434.567 in German and Spanish.
+const NUMBER_LOCALE = { en: 'en-US', fr: 'fr-FR', de: 'de-DE', es: 'es-ES' };
+
+function formatNumber(n) {
+  return n
+    .toLocaleString(NUMBER_LOCALE[LANG] || 'en-US')
+    .replace(/\u202f|\u00a0/g, ' ');
+}
+
 async function run() {
   const { iso } = dayOffset(1);
   console.log(`[${LANG}] fetching top articles for ${iso}`);
@@ -204,16 +214,21 @@ async function run() {
       rank: i + 1,
       title: a.article.replace(/_/g, ' '),
       views: a.views,
-      views_label: a.views.toLocaleString('fr-FR').replace(/\u202f|\u00a0/g, ' '),
+      views_label: formatNumber(a.views),
       is_new: isNew,
       change_pct: changePct,
-      change_label: isNew
-        ? 'NOUVEAU'
-        : `${changePct > 0 ? '+' : ''}${changePct}%`,
+      change_abs: changePct === null ? null : Math.abs(changePct),
+      change_sign: changePct === null ? '' : (changePct > 0 ? '+' : (changePct < 0 ? '-' : '')),
       history: history || [],
       sparkline_bars: history ? toSparklineBars(history) : [],
     };
   });
+
+  // Summary band: cumulative views and the sharpest riser of the day.
+  const totalViews = articles.reduce((sum, a) => sum + a.views, 0);
+  const risers = articles.filter(a => !a.is_new && a.change_pct !== null);
+  risers.sort((a, b) => b.change_pct - a.change_pct);
+  const topRiser = risers.length > 0 ? risers[0] : null;
 
   fs.mkdirSync(OUT_DATA_DIR, { recursive: true });
   const data = {
@@ -224,6 +239,10 @@ async function run() {
     top_description: topDescription,
     spark_width: SPARK_W,
     spark_height: SPARK_H,
+    total_views: totalViews,
+    total_views_label: formatNumber(totalViews),
+    top_riser_title: topRiser ? topRiser.title : null,
+    top_riser_pct: topRiser ? topRiser.change_pct : null,
     articles,
   };
   fs.writeFileSync(
