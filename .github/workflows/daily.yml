@@ -4,6 +4,7 @@ on:
   schedule:
     # 08:00 UTC - Wikimedia's pageview data for "yesterday" is reliably ready by then
     - cron: '23 3 * * *'
+    - cron: '23 7 * * *'
   workflow_dispatch: {}
 
 permissions:
