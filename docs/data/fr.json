@@ -1,11 +1,15 @@
 {
   "lang": "fr",
   "date": "2026-09-12",
-  "generated_at": "2026-09-13T11:21:08.957Z",
+  "generated_at": "2026-09-13T11:57:38.540Z",
   "has_thumbnail": false,
   "top_description": "témoin du protocole HTTP permettant aux sites web de stocker des données",
   "spark_width": 100,
   "spark_height": 24,
+  "total_views": 386626,
+  "total_views_label": "386 626",
+  "top_riser_title": "Aryna Sabalenka",
+  "top_riser_pct": 169,
   "articles": [
     {
       "rank": 1,
@@ -14,7 +18,8 @@
       "views_label": "69 150",
       "is_new": false,
       "change_pct": 34,
-      "change_label": "+34%",
+      "change_abs": 34,
+      "change_sign": "+",
       "history": [
         3430846,
         126821,
@@ -76,7 +81,8 @@
       "views_label": "41 550",
       "is_new": false,
       "change_pct": -55,
-      "change_label": "-55%",
+      "change_abs": 55,
+      "change_sign": "-",
       "history": [
         7688,
         6727,
@@ -138,7 +144,8 @@
       "views_label": "40 670",
       "is_new": false,
       "change_pct": 119,
-      "change_label": "+119%",
+      "change_abs": 119,
+      "change_sign": "+",
       "history": [
         25482,
         7567,
@@ -200,7 +207,8 @@
       "views_label": "29 568",
       "is_new": false,
       "change_pct": 158,
-      "change_label": "+158%",
+      "change_abs": 158,
+      "change_sign": "+",
       "history": [
         981,
         2511,
@@ -262,7 +270,8 @@
       "views_label": "25 547",
       "is_new": true,
       "change_pct": null,
-      "change_label": "NOUVEAU",
+      "change_abs": null,
+      "change_sign": "",
       "history": [
         222,
         225,
@@ -324,7 +333,8 @@
       "views_label": "22 587",
       "is_new": true,
       "change_pct": null,
-      "change_label": "NOUVEAU",
+      "change_abs": null,
+      "change_sign": "",
       "history": [
         4204,
         19103,
@@ -386,7 +396,8 @@
       "views_label": "21 399",
       "is_new": false,
       "change_pct": -29,
-      "change_label": "-29%",
+      "change_abs": 29,
+      "change_sign": "-",
       "history": [
         20776,
         18767,
@@ -448,7 +459,8 @@
       "views_label": "20 353",
       "is_new": false,
       "change_pct": 169,
-      "change_label": "+169%",
+      "change_abs": 169,
+      "change_sign": "+",
       "history": [
         2303,
         1583,
@@ -510,7 +522,8 @@
       "views_label": "19 286",
       "is_new": true,
       "change_pct": null,
-      "change_label": "NOUVEAU",
+      "change_abs": null,
+      "change_sign": "",
       "history": [
         417,
         388,
@@ -572,7 +585,8 @@
       "views_label": "18 523",
       "is_new": true,
       "change_pct": null,
-      "change_label": "NOUVEAU",
+      "change_abs": null,
+      "change_sign": "",
       "history": [
         779,
         2409,
@@ -634,7 +648,8 @@
       "views_label": "16 964",
       "is_new": true,
       "change_pct": null,
-      "change_label": "NOUVEAU",
+      "change_abs": null,
+      "change_sign": "",
       "history": [
         1714,
         2172,
@@ -696,7 +711,8 @@
       "views_label": "16 272",
       "is_new": false,
       "change_pct": -34,
-      "change_label": "-34%",
+      "change_abs": 34,
+      "change_sign": "-",
       "history": [
         1896,
         1624,
@@ -758,7 +774,8 @@
       "views_label": "15 271",
       "is_new": false,
       "change_pct": -22,
-      "change_label": "-22%",
+      "change_abs": 22,
+      "change_sign": "-",
       "history": [
         703,
         338,
@@ -820,7 +837,8 @@
       "views_label": "14 986",
       "is_new": false,
       "change_pct": -8,
-      "change_label": "-8%",
+      "change_abs": 8,
+      "change_sign": "-",
       "history": [
         23005,
         20599,
@@ -882,7 +900,8 @@
       "views_label": "14 500",
       "is_new": false,
       "change_pct": -38,
-      "change_label": "-38%",
+      "change_abs": 38,
+      "change_sign": "-",
       "history": [
         1837,
         1260,
