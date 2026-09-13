@@ -3,7 +3,7 @@ name: Daily Wikipedia pageviews
 on:
   schedule:
     # 08:00 UTC - Wikimedia's pageview data for "yesterday" is reliably ready by then
-    - cron: '0 8 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch: {}
 
 permissions:
