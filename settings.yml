@@ -1,0 +1,25 @@
+name: Top Wikipedia
+strategy: polling
+polling_url: "https://cdn.jsdelivr.net/gh/nbbou81000/trmnl-wiki-pageviews@main/docs/data/all.json"
+polling_verb: get
+refresh_frequency: 3600
+
+custom_fields:
+  - keyname: doesnt_matter
+    name: About This Plugin
+    category: news,discovery
+    field_type: author_bio
+    description: Shows yesterday's most-viewed Wikipedia articles for a language edition of your choice, with a thumbnail for the #1 article when one is available.
+    github_url: https://github.com/nbbou81000/trmnl-wiki-pageviews
+    learn_more_url: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+
+  - keyname: lang
+    name: Language
+    field_type: select
+    options:
+      - English: en
+      - Français: fr
+      - Deutsch: de
+      - Español: es
+    default: en
+    description: Which Wikipedia language edition to show.

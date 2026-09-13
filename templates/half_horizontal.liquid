@@ -1,0 +1,30 @@
+{% assign chosen_lang = lang | default: "en" %}
+
+<div class="layout layout--row">
+  <div class="stretch-x">
+    {% for entry in data %}
+      {% if entry.lang == chosen_lang %}
+        <div class="columns">
+          <div class="column">
+            {% for article in entry.articles limit: 4 %}
+              <div class="item">
+                <div class="meta">
+                  <span class="index">{{ article.rank }}</span>
+                </div>
+                <div class="content">
+                  <span class="title title--small">{{ article.title }}</span>
+                  <span class="description">{{ article.views }} vues</span>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">Top Wikipedia</span>
+  <span class="instance">{{ chosen_lang | upcase }}</span>
+</div>

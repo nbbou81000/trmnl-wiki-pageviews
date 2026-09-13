@@ -1,0 +1,41 @@
+name: Daily Wikipedia pageviews
+
+on:
+  schedule:
+    # 08:00 UTC - Wikimedia's pageview data for "yesterday" is reliably ready by then
+    - cron: '0 8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate snapshot for each language
+        run: |
+          for lang in $(node -e "console.log(require('./config.json').langs.join(' '))"); do
+            echo "=== $lang ==="
+            node scripts/fetch-pageviews.js "$lang" || echo "$lang failed, keeping previous data"
+          done
+
+      - name: Build combined index
+        run: node scripts/build-index.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Daily pageviews update $(date -u +%F)"
+          git push

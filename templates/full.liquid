@@ -1,0 +1,46 @@
+{% assign repo_base = "https://cdn.jsdelivr.net/gh/nbbou81000/trmnl-wiki-pageviews@main/docs" %}
+{% assign chosen_lang = lang | default: "en" %}
+
+<div class="layout layout--row portrait:layout--col gap--large">
+
+  {% for entry in data %}
+    {% if entry.lang == chosen_lang and entry.has_thumbnail %}
+      <div class="w--[200px] lg:w--[300px] portrait:w--base">
+        <img
+          class="image image-dither image--cover h--[360px] lg:h--[520px] portrait:h--[280px]"
+          src="{{ repo_base }}/images/{{ chosen_lang }}/latest.png"
+        />
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <div class="stretch-x">
+    {% for entry in data %}
+      {% if entry.lang == chosen_lang %}
+        <span class="label label--underline">{{ entry.date }} &mdash; {{ entry.lang | upcase }}.wikipedia</span>
+
+        <div class="columns">
+          <div class="column">
+            {% for article in entry.articles %}
+              <div class="item">
+                <div class="meta">
+                  <span class="index">{{ article.rank }}</span>
+                </div>
+                <div class="content">
+                  <span class="title title--small lg:title--base">{{ article.title }}</span>
+                  <span class="description">{{ article.views }} vues</span>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
+
+<div class="title_bar">
+  <span class="title">Top Wikipedia</span>
+  <span class="instance">{{ chosen_lang | upcase }}</span>
+</div>
