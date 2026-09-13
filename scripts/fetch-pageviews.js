@@ -1,8 +1,9 @@
 // Fetches yesterday's top-viewed Wikipedia articles for one language edition,
 // filters out non-article pages, and enriches each article with:
 //   - percent change in views vs the previous day
-//   - a 7-day view history, pre-normalised into SVG polyline points
-// Also downloads a thumbnail for the #1 article if one exists.
+//   - a 7-day view history, pre-normalised into SVG bar rectangles
+// Also downloads a thumbnail for the #1 article if one exists, and records
+// the site-wide daily total for the title bar.
 //
 // Writes:
 //   docs/images/<lang>/latest.png   (thumbnail for #1, if available)
@@ -36,11 +37,13 @@ const UA = {
     'trmnl-wiki-pageviews/1.0 (https://github.com/nbbou81000/trmnl-wiki-pageviews; nb.bouteiller@gmail.com)',
 };
 
-const TOP_COUNT = 30;         // articles fetched (trends mode shows all, image mode limits in Liquid)
+const TOP_COUNT = 30;         // fetched; views reveal more rows on larger screens via CSS
 const COMPARE_DEPTH = 50;     // how deep to look in yesterday's list for rank/view deltas
 const HISTORY_DAYS = 7;       // sparkline window
 const SPARK_W = 100;          // sparkline viewBox width
 const SPARK_H = 24;           // sparkline viewBox height
+
+const NUMBER_LOCALE = { en: 'en-US', fr: 'fr-FR', de: 'de-DE', es: 'es-ES' };
 
 const OUT_IMG_DIR = path.join(__dirname, '..', 'docs', 'images', LANG);
 const OUT_DATA_DIR = path.join(__dirname, '..', 'docs', 'data');
@@ -55,6 +58,20 @@ function dayOffset(n) {
     iso: d.toISOString().slice(0, 10),
     compact: d.toISOString().slice(0, 10).replace(/-/g, ''),
   };
+}
+
+function formatNumber(n) {
+  return n
+    .toLocaleString(NUMBER_LOCALE[LANG] || 'en-US')
+    .replace(/\u202f|\u00a0/g, ' ');
+}
+
+// Compact form for the title bar: 213.0M rather than 213,033,713.
+function formatCompact(n) {
+  const sep = LANG === 'en' ? '.' : ',';
+  if (n >= 1000000) return String((n / 1000000).toFixed(1)).replace('.', sep) + 'M';
+  if (n >= 1000) return String(Math.round(n / 1000)) + 'k';
+  return String(n);
 }
 
 async function getJson(url) {
@@ -81,6 +98,32 @@ async function fetchHistory(title) {
     `${LANG}.wikipedia/all-access/all-agents/${enc}/daily/${start}/${end}`;
   const json = await getJson(url);
   return json.items.map(it => it.views);
+}
+
+// Site-wide pageviews for the whole language edition, yesterday and the day
+// before, in one request. Agent is restricted to "user": all-agents includes
+// crawlers and automation, which run about a third of the raw total and would
+// overstate anything labelled "pages read".
+async function fetchSiteTotals() {
+  const yesterday = dayOffset(1).compact;
+  const dayBefore = dayOffset(2).compact;
+  const url =
+    `https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/` +
+    `${LANG}.wikipedia/all-access/user/daily/${dayBefore}/${yesterday}`;
+  try {
+    const json = await getJson(url);
+    const byDay = {};
+    for (const it of json.items) byDay[it.timestamp.slice(0, 8)] = it.views;
+    const current = byDay[yesterday];
+    const previous = byDay[dayBefore];
+    if (!current) return null;
+    const pct =
+      previous > 0 ? Math.round(((current - previous) / previous) * 100) : null;
+    return { current, previous: previous || null, pct };
+  } catch (e) {
+    console.warn(`[${LANG}] site totals failed: ${e.message}`);
+    return null;
+  }
 }
 
 // Turn a series of view counts into SVG bar rectangles, normalised to the
@@ -132,16 +175,6 @@ async function downloadAndProcessThumbnail(thumbUrl) {
 }
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
-
-// Thousands separators differ by locale: 434,567 in English, 434 567 in
-// French, 434.567 in German and Spanish.
-const NUMBER_LOCALE = { en: 'en-US', fr: 'fr-FR', de: 'de-DE', es: 'es-ES' };
-
-function formatNumber(n) {
-  return n
-    .toLocaleString(NUMBER_LOCALE[LANG] || 'en-US')
-    .replace(/\u202f|\u00a0/g, ' ');
-}
 
 async function run() {
   const { iso } = dayOffset(1);
@@ -224,6 +257,8 @@ async function run() {
     };
   });
 
+  const site = await fetchSiteTotals();
+
   // Summary band: cumulative views and the sharpest riser of the day.
   const totalViews = articles.reduce((sum, a) => sum + a.views, 0);
   const risers = articles.filter(a => !a.is_new && a.change_pct !== null);
@@ -239,6 +274,15 @@ async function run() {
     top_description: topDescription,
     spark_width: SPARK_W,
     spark_height: SPARK_H,
+    site_total: site ? site.current : null,
+    site_total_label: site ? formatNumber(site.current) : null,
+    site_total_compact: site ? formatCompact(site.current) : null,
+    site_vs_pct: site ? site.pct : null,
+    site_vs_abs: site && site.pct !== null ? Math.abs(site.pct) : null,
+    site_vs_sign:
+      site && site.pct !== null
+        ? (site.pct > 0 ? '+' : (site.pct < 0 ? '-' : ''))
+        : '',
     total_views: totalViews,
     total_views_label: formatNumber(totalViews),
     top_riser_title: topRiser ? topRiser.title : null,
