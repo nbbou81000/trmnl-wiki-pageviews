@@ -36,7 +36,7 @@ const UA = {
     'trmnl-wiki-pageviews/1.0 (https://github.com/nbbou81000/trmnl-wiki-pageviews; nb.bouteiller@gmail.com)',
 };
 
-const TOP_COUNT = 15;         // articles fetched (trends mode shows all, image mode limits in Liquid)
+const TOP_COUNT = 30;         // articles fetched (trends mode shows all, image mode limits in Liquid)
 const COMPARE_DEPTH = 50;     // how deep to look in yesterday's list for rank/view deltas
 const HISTORY_DAYS = 7;       // sparkline window
 const SPARK_W = 100;          // sparkline viewBox width
