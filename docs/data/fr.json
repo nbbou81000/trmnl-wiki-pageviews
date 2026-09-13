@@ -1,49 +1,49 @@
 {
   "lang": "fr",
-  "date": "2026-09-12",
-  "generated_at": "2026-09-13T09:35:49.497Z",
-  "has_thumbnail": false,
-  "top_description": "témoin du protocole HTTP permettant aux sites web de stocker des données",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-12T18:37:39.540Z",
+  "has_thumbnail": true,
+  "top_description": "série d'attentats-suicides aux États-Unis, perpétrés au moyen d’avions",
   "articles": [
-    {
-      "rank": 1,
-      "title": "Cookie (informatique)",
-      "views": 69150
-    },
     {
       "rank": 2,
       "title": "Attentats du 11 septembre 2001",
-      "views": 41550
-    },
-    {
-      "rank": 3,
-      "title": "Céline Dion",
-      "views": 40670
+      "views": 91863
     },
     {
       "rank": 4,
-      "title": "Elena Rybakina",
-      "views": 29568
+      "title": "Cookie (informatique)",
+      "views": 51556
     },
     {
       "rank": 5,
-      "title": "Affaire Omar Raddad",
-      "views": 25547
+      "title": "Lionel Messi",
+      "views": 29978
     },
     {
       "rank": 6,
-      "title": "Tomer Sisley",
-      "views": 22587
+      "title": "Paolo Rotelli",
+      "views": 25727
     },
     {
       "rank": 7,
-      "title": "Lionel Messi",
-      "views": 21399
+      "title": "Juliette Plumecocq-Mech",
+      "views": 25442
     },
     {
       "rank": 8,
-      "title": "Aryna Sabalenka",
-      "views": 20353
+      "title": "Adèle Haenel",
+      "views": 24520
+    },
+    {
+      "rank": 9,
+      "title": "World Trade Center",
+      "views": 23315
+    },
+    {
+      "rank": 10,
+      "title": "Astrid de Norvège",
+      "views": 22879
     }
   ]
 }

@@ -1,49 +1,49 @@
 {
   "lang": "de",
-  "date": "2026-09-12",
-  "generated_at": "2026-09-13T09:35:49.685Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-12T18:37:39.877Z",
   "has_thumbnail": true,
   "top_description": "Flugzeugentführungen mit anschließenden Selbstmordattentaten in den Vereinigten Staaten",
   "articles": [
     {
-      "rank": 1,
-      "title": "Terroranschläge am 11. September 2001",
-      "views": 64363
-    },
-    {
       "rank": 2,
-      "title": "Cansın Köktürk",
-      "views": 54563
-    },
-    {
-      "rank": 3,
-      "title": "Astrid von Norwegen",
-      "views": 48305
+      "title": "Terroranschläge am 11. September 2001",
+      "views": 170553
     },
     {
       "rank": 4,
-      "title": "Liste der größten Auslegerbrücken",
-      "views": 28570
+      "title": "Astrid von Norwegen",
+      "views": 92007
     },
     {
       "rank": 5,
-      "title": "Maria Furtwängler",
-      "views": 27314
+      "title": "World Trade Center",
+      "views": 46932
     },
     {
       "rank": 6,
-      "title": "The Green Mile (Film)",
-      "views": 25658
+      "title": "Cansın Köktürk",
+      "views": 43807
     },
     {
       "rank": 7,
-      "title": "World Trade Center",
-      "views": 24221
+      "title": "AC/DC",
+      "views": 35230
     },
     {
       "rank": 8,
-      "title": "Jelena Rybakina",
-      "views": 24062
+      "title": "Marianne Koch",
+      "views": 32698
+    },
+    {
+      "rank": 9,
+      "title": "Liste der größten Auslegerbrücken",
+      "views": 29349
+    },
+    {
+      "rank": 10,
+      "title": "Björn Engholm",
+      "views": 25888
     }
   ]
 }
