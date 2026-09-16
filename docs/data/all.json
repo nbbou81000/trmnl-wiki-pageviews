@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T08:12:53.246Z",
+    "generated_at": "2026-09-16T08:42:48.230Z",
     "has_thumbnail": true,
     "top_description": null,
     "spark_width": 100,
@@ -1818,44 +1818,51 @@
           98590,
           57992,
           57332,
-          79558
+          79558,
+          97549
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 9,
-            "w": 15,
+            "w": 12.57,
             "h": 15
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 2,
-            "w": 15,
+            "w": 12.57,
             "h": 22
           },
           {
-            "x": 51,
+            "x": 43.71,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 68,
+            "x": 58.29,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 85,
+            "x": 72.86,
             "y": 12,
-            "w": 15,
+            "w": 12.57,
             "h": 12
+          },
+          {
+            "x": 87.43,
+            "y": 2,
+            "w": 12.57,
+            "h": 22
           }
         ]
       }
@@ -1864,7 +1871,7 @@
   {
     "lang": "fr",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T08:13:00.300Z",
+    "generated_at": "2026-09-16T08:42:56.466Z",
     "has_thumbnail": true,
     "top_description": "auteure-compositrice-interprète, multi-instrumentiste de rock et actrice de cinéma française",
     "spark_width": 100,
@@ -3775,7 +3782,7 @@
   {
     "lang": "de",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T08:13:07.926Z",
+    "generated_at": "2026-09-16T08:43:04.242Z",
     "has_thumbnail": true,
     "top_description": "deutscher Schauspieler (1957–2026)",
     "spark_width": 100,
@@ -5686,7 +5693,7 @@
   {
     "lang": "es",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T08:13:15.302Z",
+    "generated_at": "2026-09-16T08:43:11.974Z",
     "has_thumbnail": true,
     "top_description": "ataques ocurridos en los Estados Unidos en 2001",
     "spark_width": 100,
