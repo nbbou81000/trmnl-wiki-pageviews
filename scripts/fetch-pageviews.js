@@ -129,16 +129,32 @@ async function fetchSiteTotals() {
 // Turn a series of view counts into SVG bar rectangles, normalised to the
 // SPARK_W x SPARK_H box. Every bar keeps a minimum height so that low days
 // stay visible as a baseline tick rather than vanishing. Flat series render
-// as bars of equal mid height rather than dividing by zero.
+// as bars of equal mid height rather than dividing by zero. A page created
+// yesterday comes back with a single data point: it gets one full-height bar
+// in the rightmost slot rather than an empty cell.
 function toSparklineBars(values) {
-  if (!values || values.length < 2) return [];
+  if (!values || values.length === 0) return [];
+
+  const gap = 2;
+  const minH = 2;
+
+  if (values.length === 1) {
+    const barW = (SPARK_W - gap * (HISTORY_DAYS - 1)) / HISTORY_DAYS;
+    return [
+      {
+        x: Math.round((HISTORY_DAYS - 1) * (barW + gap) * 100) / 100,
+        y: 0,
+        w: Math.round(barW * 100) / 100,
+        h: SPARK_H,
+      },
+    ];
+  }
+
   const min = Math.min(...values);
   const max = Math.max(...values);
   const range = max - min;
 
-  const gap = 2;
   const barW = (SPARK_W - gap * (values.length - 1)) / values.length;
-  const minH = 2;
 
   return values.map((v, i) => {
     const ratio = range === 0 ? 0.5 : (v - min) / range;
