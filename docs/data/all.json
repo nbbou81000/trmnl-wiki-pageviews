@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T07:20:03.255Z",
+    "generated_at": "2026-09-16T08:12:53.246Z",
     "has_thumbnail": true,
     "top_description": null,
     "spark_width": 100,
@@ -30,7 +30,14 @@
         "history": [
           1310989
         ],
-        "sparkline_bars": []
+        "sparkline_bars": [
+          {
+            "x": 87.43,
+            "y": 0,
+            "w": 12.57,
+            "h": 24
+          }
+        ]
       },
       {
         "rank": 2,
@@ -1811,51 +1818,44 @@
           98590,
           57992,
           57332,
-          79558,
-          97549
+          79558
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 0,
-            "w": 12.57,
+            "w": 15,
             "h": 24
           },
           {
-            "x": 14.57,
+            "x": 17,
             "y": 9,
-            "w": 12.57,
+            "w": 15,
             "h": 15
           },
           {
-            "x": 29.14,
+            "x": 34,
             "y": 2,
-            "w": 12.57,
+            "w": 15,
             "h": 22
           },
           {
-            "x": 43.71,
+            "x": 51,
             "y": 22,
-            "w": 12.57,
+            "w": 15,
             "h": 2
           },
           {
-            "x": 58.29,
+            "x": 68,
             "y": 22,
-            "w": 12.57,
+            "w": 15,
             "h": 2
           },
           {
-            "x": 72.86,
+            "x": 85,
             "y": 12,
-            "w": 12.57,
+            "w": 15,
             "h": 12
-          },
-          {
-            "x": 87.43,
-            "y": 2,
-            "w": 12.57,
-            "h": 22
           }
         ]
       }
@@ -1864,7 +1864,7 @@
   {
     "lang": "fr",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T07:20:10.863Z",
+    "generated_at": "2026-09-16T08:13:00.300Z",
     "has_thumbnail": true,
     "top_description": "auteure-compositrice-interprète, multi-instrumentiste de rock et actrice de cinéma française",
     "spark_width": 100,
@@ -3775,7 +3775,7 @@
   {
     "lang": "de",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T07:20:18.515Z",
+    "generated_at": "2026-09-16T08:13:07.926Z",
     "has_thumbnail": true,
     "top_description": "deutscher Schauspieler (1957–2026)",
     "spark_width": 100,
@@ -5686,7 +5686,7 @@
   {
     "lang": "es",
     "date": "2026-09-15",
-    "generated_at": "2026-09-16T07:20:26.173Z",
+    "generated_at": "2026-09-16T08:13:15.302Z",
     "has_thumbnail": true,
     "top_description": "ataques ocurridos en los Estados Unidos en 2001",
     "spark_width": 100,
