@@ -1,20 +1,32 @@
 {% assign chosen_lang = trmnl.plugin_settings.custom_fields_values.wiki_lang | default: "en" %}
 
-<div class="layout layout--col">
+<div class="layout layout--col layout--left layout--top">
   <div class="stretch-x">
     {% for entry in data %}
       {% if entry.lang == chosen_lang %}
-        <div class="columns">
-          <div class="column">
-            {% for article in entry.articles limit: 3 %}
-              <div class="item">
-                <div class="content">
-                  <span class="title title--small">{{ article.rank }}. {{ article.title }}</span>
-                </div>
-              </div>
+        <table class="table table--small w--full">
+          <tbody>
+            {% for article in entry.articles %}
+              {% if forloop.index <= 5 %}
+                {% assign row_class = "" %}
+              {% elsif forloop.index <= 10 %}
+                {% assign row_class = "hidden lg:table-row" %}
+              {% elsif forloop.index <= 14 %}
+                {% assign row_class = "hidden lg:portrait:table-row" %}
+              {% else %}
+                {% assign row_class = "hidden" %}
+              {% endif %}
+              <tr class="{{ row_class }}">
+                <td class="w--[28px] text--right pr--2">
+                  <span class="value value--xsmall value--tnums">{{ article.rank }}</span>
+                </td>
+                <td class="text--left">
+                  <span class="title title--small">{{ article.title }}</span>
+                </td>
+              </tr>
             {% endfor %}
-          </div>
-        </div>
+          </tbody>
+        </table>
       {% endif %}
     {% endfor %}
   </div>

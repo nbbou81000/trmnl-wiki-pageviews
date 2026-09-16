@@ -1,24 +1,60 @@
 {% assign chosen_lang = trmnl.plugin_settings.custom_fields_values.wiki_lang | default: "en" %}
 
-<div class="layout layout--row">
+{% case chosen_lang %}
+  {% when "fr" %}
+    {% assign t_views = "vues" %}{% assign t_vs = "vs veille" %}{% assign t_new = "NOUVEAU" %}
+  {% when "de" %}
+    {% assign t_views = "Aufrufe" %}{% assign t_vs = "vs Vortag" %}{% assign t_new = "NEU" %}
+  {% when "es" %}
+    {% assign t_views = "visitas" %}{% assign t_vs = "vs ayer" %}{% assign t_new = "NUEVO" %}
+  {% else %}
+    {% assign t_views = "views" %}{% assign t_vs = "vs yesterday" %}{% assign t_new = "NEW" %}
+{% endcase %}
+
+<div class="layout layout--col layout--left layout--top">
   <div class="stretch-x">
     {% for entry in data %}
       {% if entry.lang == chosen_lang %}
-        <div class="columns">
-          <div class="column">
-            {% for article in entry.articles limit: 4 %}
-              <div class="item">
-                <div class="meta">
-                  <span class="index">{{ article.rank }}</span>
-                </div>
-                <div class="content">
+        <table class="table table--small w--full">
+          <thead>
+            <tr>
+              <th class="w--[36px]"></th>
+              <th class="text--left">
+                <span class="label label--small">{{ entry.lang | upcase }}.wikipedia</span>
+              </th>
+              <th class="w--[80px] text--right">
+                <span class="label label--small">{{ t_vs }}</span>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for article in entry.articles %}
+              {% if forloop.index <= 5 %}
+                {% assign row_class = "" %}
+              {% elsif forloop.index <= 10 %}
+                {% assign row_class = "hidden lg:table-row" %}
+              {% elsif forloop.index <= 14 %}
+                {% assign row_class = "hidden lg:portrait:table-row" %}
+              {% else %}
+                {% assign row_class = "hidden" %}
+              {% endif %}
+              <tr class="{{ row_class }}">
+                <td class="text--right pr--2">
+                  <span class="value value--xsmall value--tnums">{{ article.rank }}</span>
+                </td>
+                <td class="text--left">
                   <span class="title title--small">{{ article.title }}</span>
-                  <span class="description">{{ article.views_label }} vues</span>
-                </div>
-              </div>
+                  <span class="description">{{ article.views_label }} {{ t_views }}</span>
+                </td>
+                <td class="text--right">
+                  <span class="label label--small">
+                    {%- if article.is_new -%}{{ t_new }}{%- else -%}{{ article.change_sign }}{{ article.change_abs }}%{%- endif -%}
+                  </span>
+                </td>
+              </tr>
             {% endfor %}
-          </div>
-        </div>
+          </tbody>
+        </table>
       {% endif %}
     {% endfor %}
   </div>

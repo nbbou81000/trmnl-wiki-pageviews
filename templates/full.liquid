@@ -1,8 +1,39 @@
-{% assign repo_base = "https://cdn.jsdelivr.net/gh/nbbou81000/trmnl-wiki-pageviews@main/docs" %}
+{% assign repo_base = "https://raw.githubusercontent.com/nbbou81000/trmnl-wiki-pageviews/main/docs" %}
 {% assign chosen_lang = trmnl.plugin_settings.custom_fields_values.wiki_lang | default: "en" %}
 {% assign display_mode = trmnl.plugin_settings.custom_fields_values.display_mode | default: "image" %}
 
-<div class="layout layout--row portrait:layout--col gap--large">
+{% case chosen_lang %}
+  {% when "fr" %}
+    {% assign t_views = "vues" %}
+    {% assign t_vs = "vs veille" %}
+    {% assign t_days = "7 jours" %}
+    {% assign t_new = "NOUVEAU" %}
+    {% assign t_total = "vues cumulées" %}
+    {% assign t_riser = "plus forte hausse" %}
+  {% when "de" %}
+    {% assign t_views = "Aufrufe" %}
+    {% assign t_vs = "vs Vortag" %}
+    {% assign t_days = "7 Tage" %}
+    {% assign t_new = "NEU" %}
+    {% assign t_total = "Aufrufe gesamt" %}
+    {% assign t_riser = "stärkster Anstieg" %}
+  {% when "es" %}
+    {% assign t_views = "visitas" %}
+    {% assign t_vs = "vs ayer" %}
+    {% assign t_days = "7 días" %}
+    {% assign t_new = "NUEVO" %}
+    {% assign t_total = "visitas totales" %}
+    {% assign t_riser = "mayor subida" %}
+  {% else %}
+    {% assign t_views = "views" %}
+    {% assign t_vs = "vs yesterday" %}
+    {% assign t_days = "7 days" %}
+    {% assign t_new = "NEW" %}
+    {% assign t_total = "total views" %}
+    {% assign t_riser = "biggest rise" %}
+{% endcase %}
+
+<div class="layout layout--row layout--left layout--top portrait:layout--col gap--large">
 
   {% if display_mode == "image" %}
     {% for entry in data %}
@@ -23,58 +54,110 @@
 
         {% if display_mode == "image" %}
 
-          <span class="label label--underline">{{ entry.date }} &mdash; {{ entry.lang | upcase }}.wikipedia</span>
-
-          <div class="columns">
-            <div class="column">
+          <table class="table table--small w--full" data-table-limit="true" data-overflow-counter="false">
+            <thead>
+              <tr>
+                <th class="w--[44px]"></th>
+                <th class="text--left">
+                  <span class="label label--small">{{ entry.date }} UTC &mdash; {{ entry.lang | upcase }}.wikipedia</span>
+                </th>
+                <th class="w--[84px] text--right">
+                  <span class="label label--small">{{ t_vs }}</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
               {% for article in entry.articles %}
-                <div class="item">
-                  <div class="meta">
-                    <span class="index">{{ article.rank }}</span>
-                  </div>
-                  <div class="content">
+                {% if forloop.index <= 8 %}
+                  {% assign row_class = "" %}
+                {% elsif forloop.index <= 19 %}
+                  {% assign row_class = "hidden lg:table-row" %}
+                {% elsif forloop.index <= 20 %}
+                  {% assign row_class = "hidden lg:portrait:table-row" %}
+                {% else %}
+                  {% assign row_class = "hidden" %}
+                {% endif %}
+                <tr class="{{ row_class }}">
+                  <td class="text--right pr--3">
+                    <span class="value value--xsmall value--tnums">{{ article.rank }}</span>
+                  </td>
+                  <td class="text--left">
                     <span class="title title--small lg:title--base">{{ article.title }}</span>
-                    <span class="description">{{ article.views_label }} vues</span>
-                  </div>
-                </div>
+                    <span class="description">{{ article.views_label }} {{ t_views }}</span>
+                  </td>
+                  <td class="text--right">
+                    <span class="label">
+                      {%- if article.is_new -%}{{ t_new }}{%- else -%}{{ article.change_sign }}{{ article.change_abs }}%{%- endif -%}
+                    </span>
+                  </td>
+                </tr>
               {% endfor %}
+            </tbody>
+          </table>
+
+          <div class="flex flex--row flex--between gap pt--4">
+            <div class="flex flex--col">
+              <span class="label label--small">{{ t_total }}</span>
+              <span class="value value--xsmall value--tnums">{{ entry.total_views_label }}</span>
             </div>
+            {% if entry.top_riser_title %}
+              <div class="flex flex--col text--right">
+                <span class="label label--small">{{ t_riser }}</span>
+                <span class="value value--xsmall">{{ entry.top_riser_title }} +{{ entry.top_riser_pct }}%</span>
+              </div>
+            {% endif %}
           </div>
 
         {% else %}
 
-          <div class="flex flex--row flex--center-y gap">
-            <span class="label label--underline grow">{{ entry.date }} &mdash; {{ entry.lang | upcase }}.wikipedia</span>
-            <span class="label label--small no-shrink w--[76px] text--right">vs veille</span>
-            <span class="label label--small no-shrink w--[100px] text--center">7 jours</span>
-          </div>
-
-          <div class="flex flex--col gap--small">
-            {% for article in entry.articles %}
-              <div class="flex flex--row flex--center-y gap">
-                <span class="index no-shrink">{{ article.rank }}</span>
-
-                <div class="grow">
-                  <span class="title title--small lg:title--base">{{ article.title }}</span>
-                  <span class="description">{{ article.views_label }} vues</span>
-                </div>
-
-                <span class="label no-shrink w--[76px] text--right">{{ article.change_label }}</span>
-
-                <svg class="no-shrink" width="100" height="24" viewBox="0 0 100 24">
-                  {% for bar in article.sparkline_bars %}
-                    <rect
-                      x="{{ bar.x }}"
-                      y="{{ bar.y }}"
-                      width="{{ bar.w }}"
-                      height="{{ bar.h }}"
-                      fill="currentColor"
-                    />
-                  {% endfor %}
-                </svg>
-              </div>
-            {% endfor %}
-          </div>
+          <table class="table table--small w--full" data-table-limit="true" data-overflow-counter="false">
+            <thead>
+              <tr>
+                <th class="w--[44px]"></th>
+                <th class="text--left">
+                  <span class="label label--small">{{ entry.date }} UTC &mdash; {{ entry.lang | upcase }}.wikipedia</span>
+                </th>
+                <th class="w--[84px] text--right">
+                  <span class="label label--small">{{ t_vs }}</span>
+                </th>
+                <th class="w--[112px] text--center">
+                  <span class="label label--small">{{ t_days }}</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for article in entry.articles %}
+                {% if forloop.index <= 12 %}
+                  {% assign row_class = "" %}
+                {% elsif forloop.index <= 22 %}
+                  {% assign row_class = "hidden lg:table-row" %}
+                {% else %}
+                  {% assign row_class = "hidden lg:portrait:table-row" %}
+                {% endif %}
+                <tr class="{{ row_class }}">
+                  <td class="text--right pr--3">
+                    <span class="value value--xsmall value--tnums">{{ article.rank }}</span>
+                  </td>
+                  <td class="text--left">
+                    <span class="title title--small lg:title--base">{{ article.title }}</span>
+                    <span class="description">{{ article.views_label }} {{ t_views }}</span>
+                  </td>
+                  <td class="text--right">
+                    <span class="label">
+                      {%- if article.is_new -%}{{ t_new }}{%- else -%}{{ article.change_sign }}{{ article.change_abs }}%{%- endif -%}
+                    </span>
+                  </td>
+                  <td class="text--center">
+                    <svg width="100" height="24" viewBox="0 0 100 24">
+                      {% for bar in article.sparkline_bars %}
+                        <rect x="{{ bar.x }}" y="{{ bar.y }}" width="{{ bar.w }}" height="{{ bar.h }}" fill="currentColor" />
+                      {% endfor %}
+                    </svg>
+                  </td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
 
         {% endif %}
       {% endif %}
@@ -85,5 +168,14 @@
 
 <div class="title_bar">
   <span class="title">Top Wikipedia</span>
-  <span class="instance">{{ chosen_lang | upcase }}</span>
+  <span class="instance">
+    {%- for entry in data -%}
+      {%- if entry.lang == chosen_lang -%}
+        {{ chosen_lang | upcase }}
+        {%- if entry.site_total_compact %} &middot; {{ entry.site_total_compact }} {{ t_views }}
+          {%- if entry.site_vs_abs %} &middot; {{ entry.site_vs_sign }}{{ entry.site_vs_abs }}%{% endif -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </span>
 </div>
