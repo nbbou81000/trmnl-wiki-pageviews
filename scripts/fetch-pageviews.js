@@ -30,6 +30,17 @@ const SKIP_PREFIXES = {
   es: ['Especial:', 'Wikipedia:', 'Portal:', 'Archivo:', 'Discusión:'],
 };
 
+// Exact titles to drop. The cookie articles sit near the top of every daily
+// ranking because consent banners across the web link to them: the traffic is
+// real but not editorial (99% desktop, almost no mobile), so it crowds out
+// genuine trending pages.
+const SKIP_TITLES = {
+  en: ['HTTP_cookie'],
+  fr: ['Cookie_(informatique)'],
+  de: ['HTTP-Cookie'],
+  es: ['Galleta_(informática)'],
+};
+
 // Wikimedia requires a descriptive User-Agent with contact details.
 // A vague UA gets HTTP 429 rate limiting.
 const UA = {
@@ -86,7 +97,12 @@ async function fetchTopArticles(offsetDays) {
   const json = await getJson(url);
   const articles = json.items[0].articles;
   const skip = SKIP_PREFIXES[LANG];
-  return articles.filter(a => !skip.some(prefix => a.article.startsWith(prefix)));
+  const skipTitles = SKIP_TITLES[LANG] || [];
+  return articles.filter(
+    a =>
+      !skip.some(prefix => a.article.startsWith(prefix)) &&
+      !skipTitles.includes(a.article)
+  );
 }
 
 async function fetchHistory(title) {
