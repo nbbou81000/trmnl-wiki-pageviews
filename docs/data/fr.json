@@ -1,9 +1,9 @@
 {
   "lang": "fr",
   "date": "2026-09-18",
-  "generated_at": "2026-09-19T08:10:16.202Z",
-  "has_thumbnail": false,
-  "top_description": "témoin du protocole HTTP permettant aux sites web de stocker des données",
+  "generated_at": "2026-09-19T08:36:53.879Z",
+  "has_thumbnail": true,
+  "top_description": "femme américaine accusée d'avoir assassiné son père et sa belle-mère à la hache",
   "spark_width": 100,
   "spark_height": 24,
   "site_total": 17819672,
@@ -12,76 +12,13 @@
   "site_vs_pct": 0,
   "site_vs_abs": 0,
   "site_vs_sign": "",
-  "total_views": 1299999,
-  "total_views_label": "1 299 999",
-  "top_riser_title": "Cookie (informatique)",
-  "top_riser_pct": 199,
+  "total_views": 729636,
+  "total_views_label": "729 636",
+  "top_riser_title": "Céline Dion",
+  "top_riser_pct": 30,
   "articles": [
     {
       "rank": 1,
-      "title": "Cookie (informatique)",
-      "views": 579567,
-      "views_label": "579 567",
-      "is_new": false,
-      "change_pct": 199,
-      "change_abs": 199,
-      "change_sign": "+",
-      "history": [
-        72182,
-        68200,
-        1257669,
-        487905,
-        300852,
-        194680,
-        581188
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 43.71,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 58.29,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Lizzie Borden",
       "views": 123292,
       "views_label": "123 292",
@@ -144,7 +81,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Catherine Ringer",
       "views": 78449,
       "views_label": "78 449",
@@ -207,7 +144,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Lucas Da Cunha",
       "views": 63247,
       "views_label": "63 247",
@@ -270,7 +207,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Fred Chichin",
       "views": 41841,
       "views_label": "41 841",
@@ -333,7 +270,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Monstre : L'Histoire de Lizzie Borden",
       "views": 29210,
       "views_label": "29 210",
@@ -396,7 +333,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Andy Diouf",
       "views": 28561,
       "views_label": "28 561",
@@ -459,7 +396,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Estéban Lepaul",
       "views": 23763,
       "views_label": "23 763",
@@ -522,7 +459,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Et au milieu coule une rivière",
       "views": 23684,
       "views_label": "23 684",
@@ -585,7 +522,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Lionel Messi",
       "views": 22454,
       "views_label": "22 454",
@@ -648,7 +585,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Kelly Massol",
       "views": 21053,
       "views_label": "21 053",
@@ -711,7 +648,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Les Rita Mitsouko",
       "views": 20035,
       "views_label": "20 035",
@@ -774,7 +711,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Jérémy Jacquet",
       "views": 19312,
       "views_label": "19 312",
@@ -837,7 +774,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Céline Dion",
       "views": 18553,
       "views_label": "18 553",
@@ -900,7 +837,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Sarah Knafo",
       "views": 17870,
       "views_label": "17 870",
@@ -963,7 +900,7 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Ginger Romàn",
       "views": 17831,
       "views_label": "17 831",
@@ -1026,7 +963,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "On (entreprise)",
       "views": 17314,
       "views_label": "17 314",
@@ -1089,7 +1026,7 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Adrien Truffert",
       "views": 16018,
       "views_label": "16 018",
@@ -1152,7 +1089,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "Liste de sondages sur l'élection présidentielle française de 2027",
       "views": 14487,
       "views_label": "14 487",
@@ -1215,7 +1152,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "Aileen Wuornos",
       "views": 13959,
       "views_label": "13 959",
@@ -1278,7 +1215,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Éric Zemmour",
       "views": 12523,
       "views_label": "12 523",
@@ -1341,7 +1278,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "Gourou (film)",
       "views": 12397,
       "views_label": "12 397",
@@ -1404,7 +1341,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "Jeanne Herry",
       "views": 11948,
       "views_label": "11 948",
@@ -1467,7 +1404,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "Jean-Louis Borloo",
       "views": 11117,
       "views_label": "11 117",
@@ -1530,7 +1467,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Zinédine Zidane",
       "views": 10644,
       "views_label": "10 644",
@@ -1593,7 +1530,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Vicky Krieps",
       "views": 10584,
       "views_label": "10 584",
@@ -1656,7 +1593,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "Philippe de Villiers",
       "views": 10231,
       "views_label": "10 231",
@@ -1719,7 +1656,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Ella Beatty",
       "views": 10160,
       "views_label": "10 160",
@@ -1782,7 +1719,7 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "Charlie Hunnam",
       "views": 10112,
       "views_label": "10 112",
@@ -1845,7 +1782,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Guillaume Restes",
       "views": 9783,
       "views_label": "9 783",
@@ -1904,6 +1841,69 @@
           "y": 0,
           "w": 12.57,
           "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "title": "René Angélil",
+      "views": 9204,
+      "views_label": "9 204",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        12772,
+        16927,
+        9191,
+        7417,
+        5239,
+        5284,
+        9370
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 14.57,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 29.14,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 43.71,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     }
