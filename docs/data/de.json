@@ -1,39 +1,39 @@
 {
   "lang": "de",
-  "date": "2026-09-30",
-  "generated_at": "2026-10-01T14:37:24.357Z",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-02T04:32:54.537Z",
   "has_thumbnail": false,
   "top_description": "US-amerikanische Mörderin",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 20355618,
-  "site_total_label": "20.355.618",
-  "site_total_compact": "20,4M",
-  "site_vs_pct": -3,
+  "site_total": 20899830,
+  "site_total_label": "20.899.830",
+  "site_total_compact": "20,9M",
+  "site_vs_pct": 3,
   "site_vs_abs": 3,
-  "site_vs_sign": "-",
-  "total_views": 586622,
-  "total_views_label": "586.622",
-  "top_riser_title": "Christa Pike",
-  "top_riser_pct": 131,
+  "site_vs_sign": "+",
+  "total_views": 960789,
+  "total_views_label": "960.789",
+  "top_riser_title": "Luna Jordan",
+  "top_riser_pct": 219,
   "articles": [
     {
       "rank": 1,
       "title": "Christa Pike",
-      "views": 81656,
-      "views_label": "81.656",
+      "views": 230534,
+      "views_label": "230.534",
       "is_new": false,
-      "change_pct": 131,
-      "change_abs": 131,
+      "change_pct": 182,
+      "change_abs": 182,
       "change_sign": "+",
       "history": [
-        3178,
         2477,
         2663,
         4763,
         32324,
         35970,
-        84878
+        84878,
+        235475
       ],
       "sparkline_bars": [
         {
@@ -56,21 +56,21 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
-          "y": 15,
+          "y": 21,
           "w": 12.57,
-          "h": 9
+          "h": 3
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 16,
           "w": 12.57,
-          "h": 10
+          "h": 8
         },
         {
           "x": 87.43,
@@ -82,21 +82,21 @@
     },
     {
       "rank": 2,
-      "title": "Erwin Hagedorn",
-      "views": 37281,
-      "views_label": "37.281",
+      "title": "Mika Baur",
+      "views": 66570,
+      "views_label": "66.570",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        154,
-        113,
-        108,
-        123,
-        436,
-        634,
-        37568
+        328,
+        231,
+        478,
+        440,
+        5536,
+        3779,
+        67066
       ],
       "sparkline_bars": [
         {
@@ -145,21 +145,21 @@
     },
     {
       "rank": 3,
-      "title": "Norbert Poehlke",
-      "views": 35120,
-      "views_label": "35.120",
+      "title": "Pentobarbital",
+      "views": 51282,
+      "views_label": "51.282",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        293,
-        276,
-        235,
-        360,
-        823,
-        1368,
-        35465
+        251,
+        257,
+        319,
+        297,
+        379,
+        607,
+        52282
       ],
       "sparkline_bars": [
         {
@@ -208,21 +208,21 @@
     },
     {
       "rank": 4,
-      "title": "Andrea Kdolsky",
-      "views": 30293,
-      "views_label": "30.293",
+      "title": "Tom Bischof",
+      "views": 44850,
+      "views_label": "44.850",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        27,
-        76,
-        84,
-        57,
-        35,
-        28,
-        30881
+        271,
+        612,
+        415,
+        292,
+        239,
+        233,
+        45085
       ],
       "sparkline_bars": [
         {
@@ -271,46 +271,46 @@
     },
     {
       "rank": 5,
-      "title": "Liste der größten Auslegerbrücken",
-      "views": 29500,
-      "views_label": "29.500",
-      "is_new": false,
-      "change_pct": 2,
-      "change_abs": 2,
-      "change_sign": "+",
+      "title": "Derry Scherhant",
+      "views": 42006,
+      "views_label": "42.006",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        29488,
-        29350,
-        28738,
-        28721,
-        28386,
-        28879,
-        29603
+        158,
+        135,
+        377,
+        380,
+        233,
+        191,
+        42347
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 5,
+          "y": 22,
           "w": 12.57,
-          "h": 19
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 58.29,
@@ -320,9 +320,9 @@
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 87.43,
@@ -334,21 +334,21 @@
     },
     {
       "rank": 6,
-      "title": "Rote Hilfe (Verein)",
-      "views": 24714,
-      "views_label": "24.714",
+      "title": "Luna Jordan",
+      "views": 33062,
+      "views_label": "33.062",
       "is_new": false,
-      "change_pct": 40,
-      "change_abs": 40,
+      "change_pct": 219,
+      "change_abs": 219,
       "change_sign": "+",
       "history": [
-        105,
-        88,
-        95,
-        100,
-        100,
-        18476,
-        28192
+        673,
+        585,
+        449,
+        430,
+        482,
+        10466,
+        33285
       ],
       "sparkline_bars": [
         {
@@ -383,9 +383,9 @@
         },
         {
           "x": 72.86,
-          "y": 8,
+          "y": 17,
           "w": 12.57,
-          "h": 16
+          "h": 7
         },
         {
           "x": 87.43,
@@ -397,46 +397,109 @@
     },
     {
       "rank": 7,
-      "title": "Lizzie Borden",
-      "views": 23780,
-      "views_label": "23.780",
-      "is_new": false,
-      "change_pct": -12,
-      "change_abs": 12,
-      "change_sign": "-",
+      "title": "Markus Baur",
+      "views": 32978,
+      "views_label": "32.978",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        46734,
-        41455,
-        40592,
-        45785,
-        34013,
-        28916,
-        25463
+        120,
+        130,
+        128,
+        113,
+        3564,
+        3029,
+        33237
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 6,
+          "y": 22,
           "w": 12.57,
-          "h": 18
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Liste der größten Auslegerbrücken",
+      "views": 29338,
+      "views_label": "29.338",
+      "is_new": false,
+      "change_pct": -1,
+      "change_abs": 1,
+      "change_sign": "-",
+      "history": [
+        29350,
+        28738,
+        28721,
+        28386,
+        28879,
+        29603,
+        29452
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 14.57,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 29.14,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 58.29,
@@ -446,117 +509,54 @@
         },
         {
           "x": 72.86,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 87.43,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Kaugummi",
-      "views": 22217,
-      "views_label": "22.217",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        224,
-        165,
-        159,
-        153,
-        118,
-        906,
-        23718
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Elif Eralp",
-      "views": 21149,
-      "views_label": "21.149",
+      "title": "Andrea Kdolsky",
+      "views": 29296,
+      "views_label": "29.296",
       "is_new": false,
-      "change_pct": 2,
-      "change_abs": 2,
-      "change_sign": "+",
+      "change_pct": -3,
+      "change_abs": 3,
+      "change_sign": "-",
       "history": [
-        29375,
-        27371,
-        22572,
-        14077,
-        17430,
-        21747,
-        22081
+        76,
+        84,
+        57,
+        35,
+        28,
+        30881,
+        30305
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 3,
+          "y": 22,
           "w": 12.57,
-          "h": 21
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 43.71,
@@ -566,230 +566,230 @@
         },
         {
           "x": 58.29,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 12,
+          "y": 0,
           "w": 12.57,
-          "h": 12
+          "h": 24
         },
         {
           "x": 87.43,
-          "y": 11,
+          "y": 0,
           "w": 12.57,
-          "h": 13
+          "h": 24
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Ted Kaczynski",
-      "views": 20513,
-      "views_label": "20.513",
-      "is_new": false,
-      "change_pct": -1,
-      "change_abs": 1,
-      "change_sign": "-",
-      "history": [
-        997,
-        17221,
-        29416,
-        33388,
-        21105,
-        21263,
-        21015
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 29.14,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        },
-        {
-          "x": 43.71,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 58.29,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 72.86,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 87.43,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "title": "PAC (Wrestler)",
-      "views": 19091,
-      "views_label": "19.091",
-      "is_new": false,
-      "change_pct": -30,
-      "change_abs": 30,
-      "change_sign": "-",
-      "history": [
-        23,
-        11,
-        17,
-        47,
-        22135,
-        28103,
-        19887
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "Philipp Amthor",
-      "views": 18654,
-      "views_label": "18.654",
-      "is_new": false,
-      "change_pct": -45,
-      "change_abs": 45,
-      "change_sign": "-",
-      "history": [
-        10714,
-        12756,
-        13331,
-        15852,
-        38258,
-        34800,
-        19174
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 58.29,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 72.86,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        },
-        {
-          "x": 87.43,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "Elisabeth Kaiser",
-      "views": 18536,
-      "views_label": "18.536",
+      "title": "Vitaly Janelt",
+      "views": 28188,
+      "views_label": "28.188",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        79,
-        60,
-        62,
-        73,
-        374,
-        177,
-        18765
+        232,
+        140,
+        590,
+        687,
+        5221,
+        4253,
+        28500
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Jürgen Klopp",
+      "views": 28187,
+      "views_label": "28.187",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        19863,
+        12128,
+        53431,
+        18046,
+        5188,
+        5660,
+        28606
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 14.57,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 29.14,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Saïd El Mala",
+      "views": 27541,
+      "views_label": "27.541",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        247,
+        218,
+        669,
+        606,
+        354,
+        620,
+        27776
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Per Mertesacker",
+      "views": 27343,
+      "views_label": "27.343",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        196,
+        626,
+        1133,
+        485,
+        505,
+        434,
+        27534
       ],
       "sparkline_bars": [
         {
@@ -838,21 +838,21 @@
     },
     {
       "rank": 14,
-      "title": "Digger (2026)",
-      "views": 18118,
-      "views_label": "18.118",
+      "title": "Jonas Urbig",
+      "views": 23256,
+      "views_label": "23.256",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        4248,
-        3759,
-        3921,
-        3468,
-        3551,
-        5461,
-        18474
+        279,
+        294,
+        636,
+        302,
+        281,
+        1724,
+        23476
       ],
       "sparkline_bars": [
         {
@@ -887,9 +887,9 @@
         },
         {
           "x": 72.86,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 87.43,
@@ -901,84 +901,84 @@
     },
     {
       "rank": 15,
-      "title": "Mordechai Vanunu",
-      "views": 17356,
-      "views_label": "17.356",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Lizzie Borden",
+      "views": 20291,
+      "views_label": "20.291",
+      "is_new": false,
+      "change_pct": -15,
+      "change_abs": 15,
+      "change_sign": "-",
       "history": [
-        28,
-        16,
-        18,
-        27,
-        32,
-        813,
-        18132
+        41455,
+        40592,
+        45785,
+        34013,
+        28916,
+        25463,
+        22127
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 5,
           "w": 12.57,
-          "h": 2
+          "h": 19
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 58.29,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 16,
-      "title": "Cheryl Ben Tov",
-      "views": 14622,
-      "views_label": "14.622",
+      "title": "Sommer auf Asphalt",
+      "views": 20037,
+      "views_label": "20.037",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        11,
-        4,
-        11,
-        9,
-        29,
-        651,
-        15259
+        260,
+        196,
+        194,
+        237,
+        310,
+        615,
+        20308
       ],
       "sparkline_bars": [
         {
@@ -1027,21 +1027,21 @@
     },
     {
       "rank": 17,
-      "title": "Walther Muthmann",
-      "views": 12932,
-      "views_label": "12.932",
+      "title": "Serge Gnabry",
+      "views": 19580,
+      "views_label": "19.580",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        53,
-        42,
-        7,
-        29,
-        11,
-        646,
-        13492
+        822,
+        307,
+        2922,
+        788,
+        372,
+        360,
+        19713
       ],
       "sparkline_bars": [
         {
@@ -1058,9 +1058,9 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 43.71,
@@ -1090,21 +1090,21 @@
     },
     {
       "rank": 18,
-      "title": "Nürnberger Prozess gegen die Hauptkriegsverbrecher",
-      "views": 12600,
-      "views_label": "12.600",
+      "title": "Nick Woltemade",
+      "views": 19482,
+      "views_label": "19.482",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        781,
-        798,
-        1538,
-        1207,
-        981,
-        1220,
-        13294
+        385,
+        402,
+        1786,
+        742,
+        454,
+        512,
+        19626
       ],
       "sparkline_bars": [
         {
@@ -1153,28 +1153,28 @@
     },
     {
       "rank": 19,
-      "title": "Carsten Linnemann",
-      "views": 12437,
-      "views_label": "12.437",
+      "title": "Eckhard Seeber",
+      "views": 19010,
+      "views_label": "19.010",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        3845,
-        2269,
-        2078,
-        5598,
-        5035,
-        5374,
-        12628
+        19,
+        23,
+        19,
+        18,
+        2982,
+        3719,
+        19869
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1190,21 +1190,21 @@
         },
         {
           "x": 43.71,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 17,
+          "y": 20,
           "w": 12.57,
-          "h": 7
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 20,
           "w": 12.57,
-          "h": 7
+          "h": 4
         },
         {
           "x": 87.43,
@@ -1216,34 +1216,34 @@
     },
     {
       "rank": 20,
-      "title": "Hauptseite",
-      "views": 11891,
-      "views_label": "11.891",
-      "is_new": false,
-      "change_pct": 7,
-      "change_abs": 7,
-      "change_sign": "+",
+      "title": "UEFA Nations League",
+      "views": 18370,
+      "views_label": "18.370",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        13878,
-        22192,
-        55660,
-        13857,
-        15549,
-        18720,
-        12716
+        14153,
+        9116,
+        31305,
+        14476,
+        7236,
+        4550,
+        18664
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 14.57,
-          "y": 19,
+          "y": 20,
           "w": 12.57,
-          "h": 5
+          "h": 4
         },
         {
           "x": 29.14,
@@ -1253,9 +1253,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 58.29,
@@ -1265,35 +1265,35 @@
         },
         {
           "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Backstreet Boys",
-      "views": 11845,
-      "views_label": "11.845",
-      "is_new": false,
-      "change_pct": 21,
-      "change_abs": 21,
-      "change_sign": "+",
+      "title": "Flydubai",
+      "views": 16348,
+      "views_label": "16.348",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        3803,
-        15278,
-        22396,
-        19016,
-        13623,
-        10032,
-        12163
+        26,
+        24,
+        34,
+        36,
+        39,
+        6069,
+        17385
       ],
       "sparkline_bars": [
         {
@@ -1304,27 +1304,27 @@
         },
         {
           "x": 14.57,
-          "y": 9,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 4,
+          "y": 22,
           "w": 12.57,
-          "h": 20
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1334,29 +1334,29 @@
         },
         {
           "x": 87.43,
-          "y": 13,
+          "y": 0,
           "w": 12.57,
-          "h": 11
+          "h": 24
         }
       ]
     },
     {
       "rank": 22,
-      "title": "30. September",
-      "views": 11678,
-      "views_label": "11.678",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Ted Kaczynski",
+      "views": 16168,
+      "views_label": "16.168",
+      "is_new": false,
+      "change_pct": -21,
+      "change_abs": 21,
+      "change_sign": "-",
       "history": [
-        101,
-        113,
-        88,
-        157,
-        304,
-        1173,
-        12474
+        17221,
+        29416,
+        33388,
+        21105,
+        21263,
+        21015,
+        16717
       ],
       "sparkline_bars": [
         {
@@ -1367,72 +1367,72 @@
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 6,
           "w": 12.57,
-          "h": 2
+          "h": 18
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 58.29,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 72.86,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 23,
-      "title": "Nekrolog 2026",
-      "views": 11025,
-      "views_label": "11.025",
-      "is_new": false,
-      "change_pct": 1,
-      "change_abs": 1,
-      "change_sign": "+",
+      "title": "Aleksandar Pavlović",
+      "views": 15495,
+      "views_label": "15.495",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        12346,
-        11335,
-        9819,
-        10088,
-        12963,
-        11933,
-        12002
+        180,
+        180,
+        420,
+        287,
+        216,
+        239,
+        15634
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 5,
+          "y": 22,
           "w": 12.57,
-          "h": 19
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 29.14,
@@ -1448,48 +1448,48 @@
         },
         {
           "x": 58.29,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 7,
+          "y": 0,
           "w": 12.57,
-          "h": 17
+          "h": 24
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Erika Pluhar",
-      "views": 10404,
-      "views_label": "10.404",
+      "title": "Filip Kostić",
+      "views": 15124,
+      "views_label": "15.124",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1645,
-        735,
-        410,
-        801,
-        260,
-        989,
-        10501
+        85,
+        65,
+        350,
+        97,
+        70,
+        109,
+        15195
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1531,21 +1531,21 @@
     },
     {
       "rank": 25,
-      "title": "Luna Jordan",
-      "views": 10368,
-      "views_label": "10.368",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Digger (2026)",
+      "views": 14839,
+      "views_label": "14.839",
+      "is_new": false,
+      "change_pct": -18,
+      "change_abs": 18,
+      "change_sign": "-",
       "history": [
-        509,
-        673,
-        585,
-        449,
-        430,
-        482,
-        10466
+        3759,
+        3921,
+        3468,
+        3551,
+        5461,
+        18474,
+        15187
       ],
       "sparkline_bars": [
         {
@@ -1574,41 +1574,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Der Hammermörder",
-      "views": 10262,
-      "views_label": "10.262",
+      "title": "Hape Kerkeling",
+      "views": 14518,
+      "views_label": "14.518",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        159,
-        114,
-        106,
-        165,
-        353,
-        490,
-        10347
+        661,
+        724,
+        790,
+        651,
+        607,
+        3977,
+        14949
       ],
       "sparkline_bars": [
         {
@@ -1643,9 +1643,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 87.43,
@@ -1657,34 +1657,34 @@
     },
     {
       "rank": 27,
-      "title": "Matthias Brandt",
-      "views": 10010,
-      "views_label": "10.010",
+      "title": "Letale Injektion",
+      "views": 14482,
+      "views_label": "14.482",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        6761,
-        2702,
-        2161,
-        1771,
-        1381,
-        1670,
-        10223
+        231,
+        210,
+        288,
+        570,
+        901,
+        1607,
+        14694
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 9,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 29.14,
@@ -1720,21 +1720,21 @@
     },
     {
       "rank": 28,
-      "title": "Amira Aly",
-      "views": 9778,
-      "views_label": "9.778",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Verity – Dunkle Geheimnisse",
+      "views": 14397,
+      "views_label": "14.397",
+      "is_new": false,
+      "change_pct": 85,
+      "change_abs": 85,
+      "change_sign": "+",
       "history": [
-        364,
-        311,
-        342,
-        687,
-        748,
-        785,
-        9893
+        2219,
+        2322,
+        2476,
+        3348,
+        3694,
+        7935,
+        14607
       ],
       "sparkline_bars": [
         {
@@ -1763,15 +1763,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 13,
           "w": 12.57,
-          "h": 2
+          "h": 11
         },
         {
           "x": 87.43,
@@ -1783,127 +1783,120 @@
     },
     {
       "rank": 29,
-      "title": "Babylon Berlin",
-      "views": 9631,
-      "views_label": "9.631",
-      "is_new": false,
-      "change_pct": -21,
-      "change_abs": 21,
-      "change_sign": "-",
+      "title": "Ricarda Seifried",
+      "views": 14218,
+      "views_label": "14.218",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        13554,
-        19389,
-        19145,
-        17364,
-        13987,
-        12838,
-        10312
+        21,
+        92,
+        37,
+        25,
+        19,
+        20,
+        14401
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 14.57,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 29.14,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
-          "x": 43.71,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 58.29,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 72.86,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 87.43,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 30,
-      "title": "ChatGPT",
-      "views": 9161,
-      "views_label": "9.161",
-      "is_new": false,
-      "change_pct": -3,
-      "change_abs": 3,
-      "change_sign": "-",
+      "title": "Sabra Sport",
+      "views": 13999,
+      "views_label": "13.999",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        10230,
-        8457,
-        5701,
-        7024,
-        10147,
-        10259,
-        9999
+        5,
+        31,
+        5,
+        10,
+        791,
+        14608
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 14.57,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 29.14,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 43.71,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
+          "x": 17,
+          "y": 22,
+          "w": 15,
+          "h": 2
         },
         {
-          "x": 58.29,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
+          "x": 34,
+          "y": 22,
+          "w": 15,
+          "h": 2
         },
         {
-          "x": 72.86,
+          "x": 51,
+          "y": 22,
+          "w": 15,
+          "h": 2
+        },
+        {
+          "x": 68,
+          "y": 22,
+          "w": 15,
+          "h": 2
+        },
+        {
+          "x": 85,
           "y": 0,
-          "w": 12.57,
+          "w": 15,
           "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
         }
       ]
     }
