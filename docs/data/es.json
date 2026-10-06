@@ -1,39 +1,39 @@
 {
   "lang": "es",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-05T16:14:06.225Z",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-06T04:45:43.474Z",
   "has_thumbnail": true,
   "top_description": "proceso electoral presidencial y de otros cargos en Brasil a nivel nacional en 2026",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 16333685,
-  "site_total_label": "16.333.685",
-  "site_total_compact": "16,3M",
-  "site_vs_pct": 12,
-  "site_vs_abs": 12,
-  "site_vs_sign": "+",
-  "total_views": 662865,
-  "total_views_label": "662.865",
-  "top_riser_title": "Elecciones generales de Brasil de 2026",
-  "top_riser_pct": 507,
+  "site_total": 15546839,
+  "site_total_label": "15.546.839",
+  "site_total_compact": "15,5M",
+  "site_vs_pct": -5,
+  "site_vs_abs": 5,
+  "site_vs_sign": "-",
+  "total_views": 614951,
+  "total_views_label": "614.951",
+  "top_riser_title": "Augusto Cury",
+  "top_riser_pct": 80,
   "articles": [
     {
       "rank": 1,
       "title": "Elecciones generales de Brasil de 2026",
-      "views": 89077,
-      "views_label": "89.077",
+      "views": 58152,
+      "views_label": "58.152",
       "is_new": false,
-      "change_pct": 507,
-      "change_abs": 507,
-      "change_sign": "+",
+      "change_pct": -35,
+      "change_abs": 35,
+      "change_sign": "-",
       "history": [
-        6152,
         6182,
         5947,
         6482,
         10758,
         17303,
-        103820
+        103820,
+        67371
       ],
       "sparkline_bars": [
         {
@@ -62,41 +62,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 87.43,
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Burkina Faso",
-      "views": 45343,
-      "views_label": "45.343",
+      "title": "Flávio Bolsonaro",
+      "views": 54283,
+      "views_label": "54.283",
       "is_new": false,
-      "change_pct": 119,
-      "change_abs": 119,
+      "change_pct": 46,
+      "change_abs": 46,
       "change_sign": "+",
       "history": [
-        1339,
-        1792,
-        2017,
-        4561,
-        7668,
-        23580,
-        52496
+        1788,
+        1751,
+        1750,
+        3758,
+        5400,
+        42369,
+        61834
       ],
       "sparkline_bars": [
         {
@@ -125,15 +125,15 @@
         },
         {
           "x": 58.29,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 8,
           "w": 12.57,
-          "h": 10
+          "h": 16
         },
         {
           "x": 87.43,
@@ -145,21 +145,21 @@
     },
     {
       "rank": 3,
-      "title": "Flávio Bolsonaro",
-      "views": 37107,
-      "views_label": "37.107",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Jair Bolsonaro",
+      "views": 46198,
+      "views_label": "46.198",
+      "is_new": false,
+      "change_pct": 62,
+      "change_abs": 62,
+      "change_sign": "+",
       "history": [
-        1552,
-        1788,
-        1751,
-        1750,
-        3758,
-        5400,
-        42369
+        1781,
+        1697,
+        1739,
+        3661,
+        5397,
+        32448,
+        52101
       ],
       "sparkline_bars": [
         {
@@ -194,9 +194,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 87.43,
@@ -208,40 +208,40 @@
     },
     {
       "rank": 4,
-      "title": "Lizzie Borden",
-      "views": 35848,
-      "views_label": "35.848",
+      "title": "Luiz Inácio Lula da Silva",
+      "views": 29864,
+      "views_label": "29.864",
       "is_new": false,
-      "change_pct": 25,
-      "change_abs": 25,
+      "change_pct": 21,
+      "change_abs": 21,
       "change_sign": "+",
       "history": [
-        63404,
-        44780,
-        37905,
-        32227,
-        31240,
-        33927,
-        42116
+        2807,
+        2834,
+        3048,
+        5681,
+        7820,
+        28421,
+        34022
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 43.71,
@@ -251,79 +251,37 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 87.43,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Dua Lipa",
-      "views": 34980,
-      "views_label": "34.980",
-      "is_new": false,
-      "change_pct": 144,
-      "change_abs": 144,
-      "change_sign": "+",
+      "title": "Elecciones generales de España de 2026",
+      "views": 25647,
+      "views_label": "25.647",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        2354,
-        2140,
-        1544,
-        1263,
-        1458,
-        15349,
-        39036
+        27741
       ],
       "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
         {
           "x": 87.43,
           "y": 0,
@@ -334,103 +292,103 @@
     },
     {
       "rank": 6,
-      "title": "Christa Pike",
-      "views": 31079,
-      "views_label": "31.079",
+      "title": "Lizzie Borden",
+      "views": 25584,
+      "views_label": "25.584",
       "is_new": false,
-      "change_pct": -28,
-      "change_abs": 28,
+      "change_pct": -29,
+      "change_abs": 29,
       "change_sign": "-",
       "history": [
-        3578,
-        16716,
-        94838,
-        215289,
-        100053,
-        48873,
-        35456
+        44780,
+        37905,
+        32227,
+        31240,
+        33927,
+        42116,
+        30791
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 43.71,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 58.29,
-          "y": 13,
+          "x": 14.57,
+          "y": 12,
           "w": 12.57,
-          "h": 11
+          "h": 12
         },
         {
-          "x": 72.86,
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
           "y": 19,
           "w": 12.57,
           "h": 5
         },
         {
-          "x": 87.43,
-          "y": 20,
+          "x": 72.86,
+          "y": 5,
           "w": 12.57,
-          "h": 4
+          "h": 19
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Theodore Kaczynski",
-      "views": 29591,
-      "views_label": "29.591",
-      "is_new": false,
-      "change_pct": 14,
-      "change_abs": 14,
-      "change_sign": "+",
+      "title": "Frente Amplio (España)",
+      "views": 24772,
+      "views_label": "24.772",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        48044,
-        34787,
-        32668,
-        24173,
-        22748,
-        29045,
-        33262
+        189,
+        160,
+        158,
+        542,
+        649,
+        4691,
+        26131
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 43.71,
@@ -446,35 +404,35 @@
         },
         {
           "x": 72.86,
-          "y": 18,
+          "y": 20,
           "w": 12.57,
-          "h": 6
+          "h": 4
         },
         {
           "x": 87.43,
-          "y": 14,
+          "y": 0,
           "w": 12.57,
-          "h": 10
+          "h": 24
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Francisco de Asís",
-      "views": 28954,
-      "views_label": "28.954",
+      "title": "Augusto Cury",
+      "views": 24170,
+      "views_label": "24.170",
       "is_new": false,
-      "change_pct": 258,
-      "change_abs": 258,
+      "change_pct": 80,
+      "change_abs": 80,
       "change_sign": "+",
       "history": [
-        2486,
-        2417,
-        2591,
-        3042,
-        3981,
-        9426,
-        34290
+        172,
+        178,
+        185,
+        302,
+        385,
+        14924,
+        26760
       ],
       "sparkline_bars": [
         {
@@ -509,9 +467,9 @@
         },
         {
           "x": 72.86,
-          "y": 19,
+          "y": 11,
           "w": 12.57,
-          "h": 5
+          "h": 13
         },
         {
           "x": 87.43,
@@ -523,21 +481,21 @@
     },
     {
       "rank": 9,
-      "title": "Jair Bolsonaro",
-      "views": 28571,
-      "views_label": "28.571",
+      "title": "Pedro Sánchez",
+      "views": 22900,
+      "views_label": "22.900",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1570,
-        1781,
-        1697,
-        1739,
-        3661,
-        5397,
-        32448
+        2542,
+        2849,
+        3024,
+        5767,
+        4738,
+        4260,
+        24223
       ],
       "sparkline_bars": [
         {
@@ -557,132 +515,6 @@
           "y": 22,
           "w": 12.57,
           "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Luiz Inácio Lula da Silva",
-      "views": 24751,
-      "views_label": "24.751",
-      "is_new": false,
-      "change_pct": 268,
-      "change_abs": 268,
-      "change_sign": "+",
-      "history": [
-        2832,
-        2807,
-        2834,
-        3048,
-        5681,
-        7820,
-        28421
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "title": "La bola negra (película)",
-      "views": 23172,
-      "views_label": "23.172",
-      "is_new": false,
-      "change_pct": 4,
-      "change_abs": 4,
-      "change_sign": "+",
-      "history": [
-        38622,
-        31158,
-        29050,
-        22304,
-        19056,
-        23353,
-        24311
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 14.57,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 29.14,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
         },
         {
           "x": 43.71,
@@ -698,35 +530,35 @@
         },
         {
           "x": 72.86,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 18,
+          "y": 0,
           "w": 12.57,
-          "h": 6
+          "h": 24
         }
       ]
     },
     {
-      "rank": 12,
-      "title": "Gianluca Prestianni",
-      "views": 18098,
-      "views_label": "18.098",
+      "rank": 10,
+      "title": "Ángel Arroyo",
+      "views": 18004,
+      "views_label": "18.004",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        144,
-        187,
-        1454,
-        17960,
-        673,
-        763,
-        20831
+        124,
+        86,
+        71,
+        68,
+        41,
+        75,
+        18628
       ],
       "sparkline_bars": [
         {
@@ -749,9 +581,135 @@
         },
         {
           "x": 43.71,
-          "y": 3,
+          "y": 22,
           "w": 12.57,
-          "h": 21
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Elecciones generales de España de 2023",
+      "views": 17914,
+      "views_label": "17.914",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        949,
+        1094,
+        1294,
+        4007,
+        3005,
+        3308,
+        18946
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Ana Peleteiro",
+      "views": 17794,
+      "views_label": "17.794",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        103,
+        69,
+        436,
+        247,
+        298,
+        304,
+        18350
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 58.29,
@@ -775,40 +733,40 @@
     },
     {
       "rank": 13,
-      "title": "Guitarricadelafuente",
-      "views": 17286,
-      "views_label": "17.286",
+      "title": "Dua Lipa",
+      "views": 17794,
+      "views_label": "17.794",
       "is_new": false,
-      "change_pct": -19,
-      "change_abs": 19,
+      "change_pct": -49,
+      "change_abs": 49,
       "change_sign": "-",
       "history": [
-        14197,
-        13015,
-        13323,
-        11765,
-        12109,
-        22036,
-        17997
+        2140,
+        1544,
+        1263,
+        1458,
+        15349,
+        39036,
+        20053
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 43.71,
@@ -818,9 +776,9 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 72.86,
@@ -830,29 +788,29 @@
         },
         {
           "x": 87.43,
-          "y": 9,
+          "y": 12,
           "w": 12.57,
-          "h": 15
+          "h": 12
         }
       ]
     },
     {
       "rank": 14,
       "title": "Elecciones generales de Brasil de 2022",
-      "views": 15998,
-      "views_label": "15.998",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 17660,
+      "views_label": "17.660",
+      "is_new": false,
+      "change_pct": 10,
+      "change_abs": 10,
+      "change_sign": "+",
       "history": [
-        760,
         803,
         794,
         800,
         1486,
         2293,
-        18286
+        18286,
+        20110
       ],
       "sparkline_bars": [
         {
@@ -887,9 +845,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 2,
           "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 87.43,
@@ -901,28 +859,28 @@
     },
     {
       "rank": 15,
-      "title": "Rafael Rodríguez Rapún",
-      "views": 15755,
-      "views_label": "15.755",
-      "is_new": false,
-      "change_pct": 29,
-      "change_abs": 29,
-      "change_sign": "+",
+      "title": "Maribel Verdú",
+      "views": 15987,
+      "views_label": "15.987",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        12350,
-        9361,
-        12398,
-        9969,
-        8752,
-        12661,
-        16349
+        1173,
+        1074,
+        887,
+        1369,
+        1236,
+        1171,
+        16542
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 14.57,
@@ -932,15 +890,15 @@
         },
         {
           "x": 29.14,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 58.29,
@@ -950,9 +908,9 @@
         },
         {
           "x": 72.86,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 87.43,
@@ -964,21 +922,21 @@
     },
     {
       "rank": 16,
-      "title": "Teresa Rodríguez",
-      "views": 15328,
-      "views_label": "15.328",
+      "title": "Elecciones generales de España",
+      "views": 15806,
+      "views_label": "15.806",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        51,
-        65,
-        56,
-        218,
-        350,
-        515,
-        15768
+        854,
+        949,
+        1232,
+        3149,
+        1646,
+        2051,
+        16753
       ],
       "sparkline_bars": [
         {
@@ -1001,9 +959,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
@@ -1027,21 +985,21 @@
     },
     {
       "rank": 17,
-      "title": "Digger (película)",
-      "views": 15193,
-      "views_label": "15.193",
-      "is_new": false,
-      "change_pct": 0,
-      "change_abs": 0,
+      "title": "Gabriel Rufián",
+      "views": 15545,
+      "views_label": "15.545",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
       "change_sign": "",
       "history": [
-        6725,
-        7376,
-        9068,
-        9495,
-        15069,
-        16554,
-        16638
+        1772,
+        1771,
+        1846,
+        12111,
+        7281,
+        4491,
+        16164
       ],
       "sparkline_bars": [
         {
@@ -1058,27 +1016,27 @@
         },
         {
           "x": 29.14,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 17,
+          "y": 7,
           "w": 12.57,
-          "h": 7
+          "h": 17
         },
         {
           "x": 58.29,
-          "y": 4,
+          "y": 15,
           "w": 12.57,
-          "h": 20
+          "h": 9
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 19,
           "w": 12.57,
-          "h": 24
+          "h": 5
         },
         {
           "x": 87.43,
@@ -1090,133 +1048,147 @@
     },
     {
       "rank": 18,
-      "title": "Federico García Lorca",
-      "views": 15113,
-      "views_label": "15.113",
+      "title": "Theodore Kaczynski",
+      "views": 14793,
+      "views_label": "14.793",
       "is_new": false,
-      "change_pct": 23,
-      "change_abs": 23,
-      "change_sign": "+",
+      "change_pct": -50,
+      "change_abs": 50,
+      "change_sign": "-",
       "history": [
-        14244,
-        11110,
-        13042,
-        11779,
-        10149,
-        12901,
-        15886
+        34787,
+        32668,
+        24173,
+        22748,
+        29045,
+        33262,
+        17066
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 14.57,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 29.14,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 43.71,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        },
+        {
+          "x": 29.14,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 43.71,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 58.29,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 72.86,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Verity (película)",
-      "views": 14939,
-      "views_label": "14.939",
+      "title": "La bola negra (película)",
+      "views": 14428,
+      "views_label": "14.428",
       "is_new": false,
-      "change_pct": -3,
-      "change_abs": 3,
+      "change_pct": -38,
+      "change_abs": 38,
       "change_sign": "-",
       "history": [
-        676,
-        7854,
-        13318,
-        16909,
-        16670
+        31158,
+        29050,
+        22304,
+        19056,
+        23353,
+        24311,
+        15390
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 18.4,
-          "h": 2
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         },
         {
-          "x": 20.4,
+          "x": 14.57,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        },
+        {
+          "x": 29.14,
           "y": 13,
-          "w": 18.4,
+          "w": 12.57,
           "h": 11
         },
         {
-          "x": 40.8,
-          "y": 5,
-          "w": 18.4,
-          "h": 19
+          "x": 43.71,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         },
         {
-          "x": 61.2,
-          "y": 0,
-          "w": 18.4,
-          "h": 24
+          "x": 58.29,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
         },
         {
-          "x": 81.6,
-          "y": 0,
-          "w": 18.4,
-          "h": 24
+          "x": 72.86,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 20,
-      "title": "Al este del Edén (novela)",
-      "views": 14372,
-      "views_label": "14.372",
-      "is_new": false,
-      "change_pct": 23,
-      "change_abs": 23,
-      "change_sign": "+",
+      "title": "Avante (partido político)",
+      "views": 14302,
+      "views_label": "14.302",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        752,
-        610,
-        545,
-        6059,
-        9055,
-        12531,
-        15448
+        239,
+        224,
+        238,
+        398,
+        680,
+        6114,
+        15781
       ],
       "sparkline_bars": [
         {
@@ -1239,21 +1211,21 @@
         },
         {
           "x": 43.71,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 5,
+          "y": 15,
           "w": 12.57,
-          "h": 19
+          "h": 9
         },
         {
           "x": 87.43,
@@ -1265,84 +1237,84 @@
     },
     {
       "rank": 21,
-      "title": "Anexo:Películas con las mayores recaudaciones",
-      "views": 13570,
-      "views_label": "13.570",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Digger (película)",
+      "views": 14196,
+      "views_label": "14.196",
+      "is_new": false,
+      "change_pct": -7,
+      "change_abs": 7,
+      "change_sign": "-",
       "history": [
-        11409,
-        7989,
-        6561,
-        5576,
-        5213,
-        5393,
-        15927
+        7376,
+        9068,
+        9495,
+        15069,
+        16554,
+        16638,
+        15524
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 18,
+          "y": 20,
           "w": 12.57,
-          "h": 6
+          "h": 4
         },
         {
           "x": 29.14,
-          "y": 21,
+          "y": 19,
           "w": 12.57,
-          "h": 3
+          "h": 5
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Augusto Cury",
-      "views": 13456,
-      "views_label": "13.456",
+      "title": "Mariana Ochoa",
+      "views": 14149,
+      "views_label": "14.149",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        191,
-        172,
-        178,
-        185,
-        302,
-        385,
-        14924
+        720,
+        783,
+        771,
+        1184,
+        853,
+        1433,
+        15693
       ],
       "sparkline_bars": [
         {
@@ -1391,21 +1363,21 @@
     },
     {
       "rank": 23,
-      "title": "Evento:Mes de América Latina 2026",
-      "views": 11634,
-      "views_label": "11.634",
+      "title": "Christa Pike",
+      "views": 14043,
+      "views_label": "14.043",
       "is_new": false,
-      "change_pct": 1,
-      "change_abs": 1,
-      "change_sign": "+",
+      "change_pct": -55,
+      "change_abs": 55,
+      "change_sign": "-",
       "history": [
-        41,
-        70,
-        56,
-        23810,
-        14936,
-        13279,
-        13930
+        16716,
+        94838,
+        215289,
+        100053,
+        48873,
+        35456,
+        16097
       ],
       "sparkline_bars": [
         {
@@ -1416,59 +1388,59 @@
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 58.29,
-          "y": 9,
+          "x": 43.71,
+          "y": 14,
           "w": 12.57,
-          "h": 15
+          "h": 10
+        },
+        {
+          "x": 58.29,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Matías Soulé",
-      "views": 11517,
-      "views_label": "11.517",
+      "title": "Diego González Rivas",
+      "views": 12254,
+      "views_label": "12.254",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        111,
-        1448,
-        2226,
-        1424,
-        414,
-        481,
-        13231
+        242,
+        227,
+        261,
+        187,
+        229,
+        366,
+        12626
       ],
       "sparkline_bars": [
         {
@@ -1485,9 +1457,9 @@
         },
         {
           "x": 29.14,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 43.71,
@@ -1518,20 +1490,20 @@
     {
       "rank": 25,
       "title": "Francis Allison",
-      "views": 11279,
-      "views_label": "11.279",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 12127,
+      "views_label": "12.127",
+      "is_new": false,
+      "change_pct": 8,
+      "change_abs": 8,
+      "change_sign": "+",
       "history": [
-        983,
         781,
         899,
         997,
         1642,
         2264,
-        13235
+        13235,
+        14141
       ],
       "sparkline_bars": [
         {
@@ -1560,15 +1532,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
         },
         {
           "x": 87.43,
@@ -1580,210 +1552,21 @@
     },
     {
       "rank": 26,
-      "title": "Shakira",
-      "views": 10603,
-      "views_label": "10.603",
+      "title": "Evento:Mes de América Latina 2026",
+      "views": 12020,
+      "views_label": "12.020",
       "is_new": false,
-      "change_pct": -8,
-      "change_abs": 8,
-      "change_sign": "-",
-      "history": [
-        4751,
-        3639,
-        3388,
-        3265,
-        3810,
-        12327,
-        11645
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 2,
-          "w": 12.57,
-          "h": 22
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "title": "Nico Paz",
-      "views": 10205,
-      "views_label": "10.205",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        484,
-        635,
-        1583,
-        24182,
-        4465,
-        3116,
-        11820
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 58.29,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "title": "Liga de Naciones de la UEFA",
-      "views": 10181,
-      "views_label": "10.181",
-      "is_new": false,
-      "change_pct": -15,
-      "change_abs": 15,
-      "change_sign": "-",
-      "history": [
-        10528,
-        16369,
-        7872,
-        6922,
-        7649,
-        13105,
-        11235
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 14.57,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 87.43,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "title": "Al este del Edén (miniserie 2026)",
-      "views": 9984,
-      "views_label": "9984",
-      "is_new": false,
-      "change_pct": 27,
-      "change_abs": 27,
+      "change_pct": 3,
+      "change_abs": 3,
       "change_sign": "+",
       "history": [
-        275,
-        267,
-        296,
-        3492,
-        6977,
-        8538,
-        10868
+        70,
+        56,
+        23810,
+        14936,
+        13279,
+        13930,
+        13964
       ],
       "sparkline_bars": [
         {
@@ -1800,27 +1583,216 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 43.71,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 58.29,
           "y": 9,
           "w": 12.57,
           "h": 15
         },
         {
+          "x": 58.29,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
           "x": 72.86,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 87.43,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "title": "Al este del Edén (novela)",
+      "views": 11741,
+      "views_label": "11.741",
+      "is_new": false,
+      "change_pct": -18,
+      "change_abs": 18,
+      "change_sign": "-",
+      "history": [
+        610,
+        545,
+        6059,
+        9055,
+        12531,
+        15448,
+        12715
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 43.71,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 58.29,
           "y": 5,
           "w": 12.57,
           "h": 19
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 4,
+          "w": 12.57,
+          "h": 20
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "Benjamin Compaoré",
+      "views": 11295,
+      "views_label": "11.295",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        30,
+        26,
+        312,
+        88,
+        83,
+        71,
+        11619
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "Renan Santos",
+      "views": 10886,
+      "views_label": "10.886",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        357,
+        362,
+        401,
+        908,
+        895,
+        6638,
+        12113
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
         },
         {
           "x": 87.43,
@@ -1832,21 +1804,21 @@
     },
     {
       "rank": 30,
-      "title": "Santiago Tomás Castro",
-      "views": 9881,
-      "views_label": "9881",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Elecciones regionales y municipales de Perú de 2026",
+      "views": 10643,
+      "views_label": "10.643",
+      "is_new": false,
+      "change_pct": 40,
+      "change_abs": 40,
+      "change_sign": "+",
       "history": [
-        97,
-        115,
-        159,
-        958,
-        89,
-        126,
-        11428
+        981,
+        933,
+        1043,
+        1105,
+        1447,
+        9160,
+        12459
       ],
       "sparkline_bars": [
         {
@@ -1881,9 +1853,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 87.43,
