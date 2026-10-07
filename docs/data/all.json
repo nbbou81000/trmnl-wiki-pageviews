@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-10-06",
-    "generated_at": "2026-10-07T10:26:59.460Z",
+    "generated_at": "2026-10-07T14:37:01.594Z",
     "has_thumbnail": true,
     "top_description": "American football player (born 1977)",
     "spark_width": 100,
@@ -1906,7 +1906,7 @@
   {
     "lang": "fr",
     "date": "2026-10-06",
-    "generated_at": "2026-10-07T10:27:06.196Z",
+    "generated_at": "2026-10-07T14:37:07.235Z",
     "has_thumbnail": true,
     "top_description": "footballeur franco-britannique",
     "spark_width": 100,
@@ -3768,7 +3768,7 @@
   {
     "lang": "de",
     "date": "2026-10-06",
-    "generated_at": "2026-10-07T10:27:14.181Z",
+    "generated_at": "2026-10-07T14:37:12.776Z",
     "has_thumbnail": false,
     "top_description": "deutscher Politiker (AfD), MdL, Landtagspräsident von Sachsen-Anhalt",
     "spark_width": 100,
@@ -5623,7 +5623,7 @@
   {
     "lang": "es",
     "date": "2026-10-06",
-    "generated_at": "2026-10-07T10:27:19.859Z",
+    "generated_at": "2026-10-07T14:37:23.499Z",
     "has_thumbnail": true,
     "top_description": "país de África Occidental",
     "spark_width": 100,
@@ -6215,59 +6215,8 @@
         "change_pct": -79,
         "change_abs": 79,
         "change_sign": "-",
-        "history": [
-          5947,
-          6482,
-          10758,
-          17303,
-          103820,
-          67371,
-          14387
-        ],
-        "sparkline_bars": [
-          {
-            "x": 0,
-            "y": 22,
-            "w": 12.57,
-            "h": 2
-          },
-          {
-            "x": 14.57,
-            "y": 22,
-            "w": 12.57,
-            "h": 2
-          },
-          {
-            "x": 29.14,
-            "y": 22,
-            "w": 12.57,
-            "h": 2
-          },
-          {
-            "x": 43.71,
-            "y": 21,
-            "w": 12.57,
-            "h": 3
-          },
-          {
-            "x": 58.29,
-            "y": 0,
-            "w": 12.57,
-            "h": 24
-          },
-          {
-            "x": 72.86,
-            "y": 9,
-            "w": 12.57,
-            "h": 15
-          },
-          {
-            "x": 87.43,
-            "y": 22,
-            "w": 12.57,
-            "h": 2
-          }
-        ]
+        "history": [],
+        "sparkline_bars": []
       },
       {
         "rank": 11,
