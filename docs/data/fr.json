@@ -1,46 +1,46 @@
 {
   "lang": "fr",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-06T14:18:01.550Z",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-07T04:14:21.708Z",
   "has_thumbnail": true,
   "top_description": "footballeur franco-britannique",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 17495638,
-  "site_total_label": "17 495 638",
-  "site_total_compact": "17,5M",
-  "site_vs_pct": -7,
-  "site_vs_abs": 7,
+  "site_total": 16920560,
+  "site_total_label": "16 920 560",
+  "site_total_compact": "16,9M",
+  "site_vs_pct": -3,
+  "site_vs_abs": 3,
   "site_vs_sign": "-",
-  "total_views": 556328,
-  "total_views_label": "556 328",
-  "top_riser_title": "Prince Waly",
-  "top_riser_pct": 85,
+  "total_views": 536586,
+  "total_views_label": "536 586",
+  "top_riser_title": "Résultats détaillés des élections générales québécoises de 2026",
+  "top_riser_pct": 394,
   "articles": [
     {
       "rank": 1,
       "title": "Michael Olise",
-      "views": 62838,
-      "views_label": "62 838",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 44276,
+      "views_label": "44 276",
+      "is_new": false,
+      "change_pct": -30,
+      "change_abs": 30,
+      "change_sign": "-",
       "history": [
-        12024,
         4164,
         2501,
         19168,
         9509,
         8202,
-        63628
+        63628,
+        45339
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 14.57,
@@ -50,53 +50,53 @@
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
           "y": 17,
           "w": 12.57,
           "h": 7
         },
         {
-          "x": 58.29,
+          "x": 43.71,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 72.86,
+          "x": 58.29,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 87.43,
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Police Python 357",
-      "views": 39446,
-      "views_label": "39 446",
+      "title": "Paul St-Pierre Plamondon",
+      "views": 40860,
+      "views_label": "40 860",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        268,
-        323,
-        343,
-        344,
-        700,
-        1238,
-        39743
+        2382,
+        2568,
+        2118,
+        2055,
+        3155,
+        5399,
+        42329
       ],
       "sparkline_bars": [
         {
@@ -145,21 +145,21 @@
     },
     {
       "rank": 3,
-      "title": "Prince Waly",
-      "views": 35839,
-      "views_label": "35 839",
+      "title": "Résultats détaillés des élections générales québécoises de 2026",
+      "views": 40508,
+      "views_label": "40 508",
       "is_new": false,
-      "change_pct": 85,
-      "change_abs": 85,
+      "change_pct": 394,
+      "change_abs": 394,
       "change_sign": "+",
       "history": [
-        21,
-        43,
-        113,
-        88,
-        56,
-        19739,
-        36561
+        1024,
+        1007,
+        1111,
+        919,
+        1393,
+        8790,
+        42943
       ],
       "sparkline_bars": [
         {
@@ -194,9 +194,9 @@
         },
         {
           "x": 72.86,
-          "y": 11,
+          "y": 20,
           "w": 12.57,
-          "h": 13
+          "h": 4
         },
         {
           "x": 87.43,
@@ -208,46 +208,46 @@
     },
     {
       "rank": 4,
-      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
-      "views": 22135,
-      "views_label": "22 135",
+      "title": "Élections générales québécoises de 2026",
+      "views": 30687,
+      "views_label": "30 687",
       "is_new": false,
-      "change_pct": 7,
-      "change_abs": 7,
+      "change_pct": 306,
+      "change_abs": 306,
       "change_sign": "+",
       "history": [
-        25086,
-        27038,
-        25150,
-        24705,
-        21250,
-        23848,
-        25333
+        1717,
+        1669,
+        1727,
+        1775,
+        2766,
+        7998,
+        31939
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 58.29,
@@ -257,35 +257,35 @@
         },
         {
           "x": 72.86,
-          "y": 13,
+          "y": 19,
           "w": 12.57,
-          "h": 11
+          "h": 5
         },
         {
           "x": 87.43,
-          "y": 7,
+          "y": 0,
           "w": 12.57,
-          "h": 17
+          "h": 24
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Élection présidentielle brésilienne de 2026",
-      "views": 21597,
-      "views_label": "21 597",
-      "is_new": false,
-      "change_pct": -5,
-      "change_abs": 5,
-      "change_sign": "-",
+      "title": "Parti québécois",
+      "views": 23335,
+      "views_label": "23 335",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        957,
-        1024,
-        1439,
-        2128,
-        3400,
-        23763,
-        22722
+        833,
+        865,
+        805,
+        899,
+        1486,
+        3650,
+        23971
       ],
       "sparkline_bars": [
         {
@@ -314,72 +314,72 @@
         },
         {
           "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 72.86,
+          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Rayan Cherki",
-      "views": 20728,
-      "views_label": "20 728",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Lionel Messi",
+      "views": 22778,
+      "views_label": "22 778",
+      "is_new": false,
+      "change_pct": 15,
+      "change_abs": 15,
+      "change_sign": "+",
       "history": [
-        2004,
-        1172,
-        760,
-        8479,
-        2266,
-        1377,
-        21085
+        26051,
+        30784,
+        26417,
+        22918,
+        23960,
+        21799,
+        25063
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 13,
           "w": 12.57,
-          "h": 2
+          "h": 11
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 12,
           "w": 12.57,
-          "h": 2
+          "h": 12
         },
         {
           "x": 43.71,
-          "y": 15,
+          "y": 21,
           "w": 12.57,
-          "h": 9
+          "h": 3
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 72.86,
@@ -389,29 +389,29 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 15,
           "w": 12.57,
-          "h": 24
+          "h": 9
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Flávio Bolsonaro",
-      "views": 20227,
-      "views_label": "20 227",
+      "title": "Mort de Thomas Perotto",
+      "views": 22634,
+      "views_label": "22 634",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        277,
-        263,
-        625,
-        853,
-        1285,
-        8627,
-        20788
+        435,
+        617,
+        738,
+        1128,
+        1619,
+        2727,
+        22791
       ],
       "sparkline_bars": [
         {
@@ -446,9 +446,9 @@
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 87.43,
@@ -460,70 +460,84 @@
     },
     {
       "rank": 8,
-      "title": "Christa Pike",
-      "views": 20178,
-      "views_label": "20 178",
+      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
+      "views": 21970,
+      "views_label": "21 970",
       "is_new": false,
-      "change_pct": -34,
-      "change_abs": 34,
+      "change_pct": -1,
+      "change_abs": 1,
       "change_sign": "-",
       "history": [
-        57536,
-        43546,
-        38345,
-        31242,
-        20599
+        27038,
+        25150,
+        24705,
+        21250,
+        23848,
+        25333,
+        25257
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 0,
-          "w": 18.4,
+          "w": 12.57,
           "h": 24
         },
         {
-          "x": 20.4,
-          "y": 9,
-          "w": 18.4,
-          "h": 15
+          "x": 14.57,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         },
         {
-          "x": 40.8,
-          "y": 12,
-          "w": 18.4,
-          "h": 12
+          "x": 29.14,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
         },
         {
-          "x": 61.2,
-          "y": 17,
-          "w": 18.4,
-          "h": 7
-        },
-        {
-          "x": 81.6,
+          "x": 43.71,
           "y": 22,
-          "w": 18.4,
+          "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 72.86,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
+        },
+        {
+          "x": 87.43,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Jair Bolsonaro",
-      "views": 20017,
-      "views_label": "20 017",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Aimé Jacquet",
+      "views": 19845,
+      "views_label": "19 845",
+      "is_new": false,
+      "change_pct": 18,
+      "change_abs": 18,
+      "change_sign": "+",
       "history": [
-        369,
-        318,
-        703,
-        1015,
-        1559,
-        8575,
-        20442
+        472,
+        700,
+        3069,
+        829,
+        571,
+        16984,
+        20246
       ],
       "sparkline_bars": [
         {
@@ -540,9 +554,9 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 43.71,
@@ -558,9 +572,9 @@
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 4,
           "w": 12.57,
-          "h": 10
+          "h": 20
         },
         {
           "x": 87.43,
@@ -572,21 +586,21 @@
     },
     {
       "rank": 10,
-      "title": "Lionel Messi",
-      "views": 19798,
-      "views_label": "19 798",
+      "title": "Sarah Knafo",
+      "views": 18123,
+      "views_label": "18 123",
       "is_new": false,
-      "change_pct": -9,
-      "change_abs": 9,
-      "change_sign": "-",
+      "change_pct": 82,
+      "change_abs": 82,
+      "change_sign": "+",
       "history": [
-        20964,
-        26051,
-        30784,
-        26417,
-        22918,
-        23960,
-        21799
+        6468,
+        9071,
+        13947,
+        14152,
+        12640,
+        10423,
+        18658
       ],
       "sparkline_bars": [
         {
@@ -597,59 +611,59 @@
         },
         {
           "x": 14.57,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 29.14,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 43.71,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
-          "x": 58.29,
           "y": 19,
           "w": 12.57,
           "h": 5
         },
         {
-          "x": 72.86,
-          "y": 17,
+          "x": 29.14,
+          "y": 9,
           "w": 12.57,
-          "h": 7
+          "h": 15
+        },
+        {
+          "x": 43.71,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 58.29,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 72.86,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         }
       ]
     },
     {
       "rank": 11,
       "title": "Lizzie Borden",
-      "views": 18568,
-      "views_label": "18 568",
+      "views": 16965,
+      "views_label": "16 965",
       "is_new": false,
-      "change_pct": -35,
-      "change_abs": 35,
+      "change_pct": -9,
+      "change_abs": 9,
       "change_sign": "-",
       "history": [
-        35614,
         33230,
         29244,
         24919,
         26758,
         32201,
-        21969
+        21969,
+        20336
       ],
       "sparkline_bars": [
         {
@@ -660,33 +674,33 @@
         },
         {
           "x": 14.57,
-          "y": 4,
+          "y": 7,
           "w": 12.57,
-          "h": 20
+          "h": 17
         },
         {
           "x": 29.14,
-          "y": 11,
+          "y": 15,
           "w": 12.57,
-          "h": 13
+          "h": 9
         },
         {
           "x": 43.71,
-          "y": 19,
+          "y": 12,
           "w": 12.57,
-          "h": 5
+          "h": 12
         },
         {
           "x": 58.29,
-          "y": 16,
+          "y": 2,
           "w": 12.57,
-          "h": 8
+          "h": 22
         },
         {
           "x": 72.86,
-          "y": 6,
+          "y": 21,
           "w": 12.57,
-          "h": 18
+          "h": 3
         },
         {
           "x": 87.43,
@@ -698,21 +712,21 @@
     },
     {
       "rank": 12,
-      "title": "Romelu Lukaku",
-      "views": 18366,
-      "views_label": "18 366",
+      "title": "Christine Fréchette",
+      "views": 15313,
+      "views_label": "15 313",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        971,
-        552,
-        448,
-        3452,
-        1992,
-        826,
-        18582
+        1050,
+        955,
+        1017,
+        993,
+        1353,
+        2605,
+        15776
       ],
       "sparkline_bars": [
         {
@@ -735,9 +749,9 @@
         },
         {
           "x": 43.71,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 58.29,
@@ -747,9 +761,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 87.43,
@@ -761,147 +775,147 @@
     },
     {
       "rank": 13,
-      "title": "Ligue des nations de l'UEFA",
-      "views": 18086,
-      "views_label": "18 086",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "David Lisnard",
+      "views": 14984,
+      "views_label": "14 984",
+      "is_new": false,
+      "change_pct": -3,
+      "change_abs": 3,
+      "change_sign": "-",
       "history": [
-        12832,
-        5405,
-        5182,
-        16598,
-        10302,
-        8401,
-        18531
+        14392,
+        14797,
+        14245,
+        13463,
+        18050,
+        16153,
+        15595
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        },
+        {
+          "x": 14.57,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 72.86,
           "y": 10,
           "w": 12.57,
           "h": 14
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        },
-        {
-          "x": 58.29,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 72.86,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
           "x": 87.43,
-          "y": 0,
+          "y": 13,
           "w": 12.57,
-          "h": 24
+          "h": 11
         }
       ]
     },
     {
       "rank": 14,
-      "title": "Zinédine Zidane",
-      "views": 16968,
-      "views_label": "16 968",
+      "title": "Robert Pirès",
+      "views": 14649,
+      "views_label": "14 649",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        14150,
-        7127,
-        6197,
-        24173,
-        9150,
-        6325,
-        17568
+        951,
+        6523,
+        3051,
+        1085,
+        961,
+        2829,
+        14872
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 58.29,
           "y": 20,
           "w": 12.57,
           "h": 4
         },
         {
-          "x": 72.86,
+          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 87.43,
-          "y": 9,
+          "x": 58.29,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 15,
-      "title": "Aimé Jacquet",
-      "views": 16812,
-      "views_label": "16 812",
+      "title": "Élections générales québécoises de 2022",
+      "views": 14437,
+      "views_label": "14 437",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1104,
-        472,
-        700,
-        3069,
-        829,
-        571,
-        16984
+        737,
+        657,
+        678,
+        624,
+        887,
+        2639,
+        14791
       ],
       "sparkline_bars": [
         {
@@ -924,9 +938,9 @@
         },
         {
           "x": 43.71,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 58.29,
@@ -936,9 +950,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 87.43,
@@ -950,21 +964,21 @@
     },
     {
       "rank": 16,
-      "title": "Leny Yoro",
-      "views": 16053,
-      "views_label": "16 053",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Ligue des nations de l'UEFA",
+      "views": 13517,
+      "views_label": "13 517",
+      "is_new": false,
+      "change_pct": -25,
+      "change_abs": 25,
+      "change_sign": "-",
       "history": [
-        583,
-        253,
-        250,
-        793,
-        365,
-        361,
-        16306
+        5405,
+        5182,
+        16598,
+        10302,
+        8401,
+        18531,
+        14000
       ],
       "sparkline_bars": [
         {
@@ -981,86 +995,23 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 3,
           "w": 12.57,
-          "h": 2
+          "h": 21
         },
         {
           "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "David Lisnard",
-      "views": 15453,
-      "views_label": "15 453",
-      "is_new": false,
-      "change_pct": -11,
-      "change_abs": 11,
-      "change_sign": "-",
-      "history": [
-        12979,
-        14392,
-        14797,
-        14245,
-        13463,
-        18050,
-        16153
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 29.14,
           "y": 15,
           "w": 12.57,
           "h": 9
         },
         {
-          "x": 43.71,
+          "x": 58.29,
           "y": 18,
           "w": 12.57,
           "h": 6
         },
         {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
           "x": 72.86,
           "y": 0,
           "w": 12.57,
@@ -1068,36 +1019,99 @@
         },
         {
           "x": 87.43,
-          "y": 9,
+          "y": 8,
           "w": 12.57,
-          "h": 15
+          "h": 16
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "À l'est d'Éden",
+      "views": 13170,
+      "views_label": "13 170",
+      "is_new": false,
+      "change_pct": 5,
+      "change_abs": 5,
+      "change_sign": "+",
+      "history": [
+        609,
+        10186,
+        11757,
+        13351,
+        17233,
+        12782,
+        13440
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 29.14,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 43.71,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
+        },
+        {
+          "x": 58.29,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
+        },
+        {
+          "x": 87.43,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
         }
       ]
     },
     {
       "rank": 18,
-      "title": "Estéban Lepaul",
-      "views": 14303,
-      "views_label": "14 303",
+      "title": "Marie-Françoise Colombani",
+      "views": 12975,
+      "views_label": "12 975",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        6335,
-        1927,
-        1266,
-        2426,
-        1202,
-        1057,
-        14675
+        16,
+        14,
+        18,
+        15,
+        21,
+        16,
+        13045
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1139,21 +1153,21 @@
     },
     {
       "rank": 19,
-      "title": "Édouard Geffray",
-      "views": 13705,
-      "views_label": "13 705",
+      "title": "Hélène Hazera",
+      "views": 12939,
+      "views_label": "12 939",
       "is_new": false,
-      "change_pct": -6,
-      "change_abs": 6,
-      "change_sign": "-",
+      "change_pct": 51,
+      "change_abs": 51,
+      "change_sign": "+",
       "history": [
-        1140,
-        4722,
-        10897,
-        13363,
-        4307,
-        14756,
-        13988
+        29,
+        15,
+        13,
+        17,
+        20,
+        8936,
+        13225
       ],
       "sparkline_bars": [
         {
@@ -1164,97 +1178,55 @@
         },
         {
           "x": 14.57,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 8,
           "w": 12.57,
-          "h": 24
+          "h": 16
         },
         {
           "x": 87.43,
-          "y": 1,
+          "y": 0,
           "w": 12.57,
-          "h": 23
+          "h": 24
         }
       ]
     },
     {
       "rank": 20,
-      "title": "Luiz Inácio Lula da Silva",
-      "views": 13516,
-      "views_label": "13 516",
+      "title": "Francis Halzen",
+      "views": 12868,
+      "views_label": "12 868",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        663,
-        595,
-        1020,
-        1330,
-        1776,
-        8313,
-        13898
+        13820
       ],
       "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
         {
           "x": 87.43,
           "y": 0,
@@ -1265,21 +1237,21 @@
     },
     {
       "rank": 21,
-      "title": "Guillaume Restes",
-      "views": 12935,
-      "views_label": "12 935",
+      "title": "Ruba Ghazal",
+      "views": 12183,
+      "views_label": "12 183",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        426,
-        211,
-        237,
-        520,
-        242,
-        424,
-        13119
+        1349,
+        1296,
+        1444,
+        1209,
+        1731,
+        3694,
+        12526
       ],
       "sparkline_bars": [
         {
@@ -1314,9 +1286,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 87.43,
@@ -1328,28 +1300,28 @@
     },
     {
       "rank": 22,
-      "title": "Maghnes Akliouche",
-      "views": 12864,
-      "views_label": "12 864",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Vincent Lapierre",
+      "views": 12130,
+      "views_label": "12 130",
+      "is_new": false,
+      "change_pct": 42,
+      "change_abs": 42,
+      "change_sign": "+",
       "history": [
-        3224,
-        865,
-        520,
-        925,
-        639,
-        552,
-        13123
+        237,
+        368,
+        556,
+        421,
+        798,
+        9150,
+        12428
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1377,9 +1349,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 6,
           "w": 12.57,
-          "h": 2
+          "h": 18
         },
         {
           "x": 87.43,
@@ -1391,21 +1363,21 @@
     },
     {
       "rank": 23,
-      "title": "À l'est d'Éden",
-      "views": 12517,
-      "views_label": "12 517",
-      "is_new": false,
-      "change_pct": -26,
-      "change_abs": 26,
-      "change_sign": "-",
+      "title": "Boualem Boualem",
+      "views": 11862,
+      "views_label": "11 862",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        703,
-        609,
-        10186,
-        11757,
-        13351,
-        17233,
-        12782
+        24,
+        18,
+        16,
+        32,
+        27,
+        7108,
+        13204
       ],
       "sparkline_bars": [
         {
@@ -1422,116 +1394,116 @@
         },
         {
           "x": 29.14,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 6,
+          "y": 22,
           "w": 12.57,
-          "h": 18
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 11,
           "w": 12.57,
-          "h": 24
+          "h": 13
         },
         {
           "x": 87.43,
-          "y": 6,
+          "y": 0,
           "w": 12.57,
-          "h": 18
+          "h": 24
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Désiré Doué",
-      "views": 11687,
-      "views_label": "11 687",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Édouard Geffray",
+      "views": 10959,
+      "views_label": "10 959",
+      "is_new": false,
+      "change_pct": -20,
+      "change_abs": 20,
+      "change_sign": "-",
       "history": [
-        2823,
-        1608,
-        1105,
-        6737,
-        1748,
-        1142,
-        11982
+        4722,
+        10897,
+        13363,
+        4307,
+        14756,
+        13988,
+        11324
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 3,
           "w": 12.57,
-          "h": 2
+          "h": 21
         },
         {
           "x": 43.71,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 87.43,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Stefania Sandrelli",
-      "views": 11589,
-      "views_label": "11 589",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Rayan Cherki",
+      "views": 10547,
+      "views_label": "10 547",
+      "is_new": false,
+      "change_pct": -49,
+      "change_abs": 49,
+      "change_sign": "-",
       "history": [
-        132,
-        168,
-        128,
-        127,
-        237,
-        380,
-        11665
+        1172,
+        760,
+        8479,
+        2266,
+        1377,
+        21085,
+        10887
       ],
       "sparkline_bars": [
         {
@@ -1548,116 +1520,109 @@
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "title": "Ligue des nations de l'UEFA 2026-2027",
-      "views": 11078,
-      "views_label": "11 078",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        9698,
-        4612,
-        3569,
-        7561,
-        6445,
-        6120,
-        11562
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 6,
-          "w": 12.57,
-          "h": 18
-        },
-        {
-          "x": 14.57,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 58.29,
           "y": 15,
           "w": 12.57,
           "h": 9
         },
         {
-          "x": 72.86,
-          "y": 16,
+          "x": 43.71,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
-          "x": 87.43,
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "title": "Christa Pike",
+      "views": 10536,
+      "views_label": "10 536",
+      "is_new": false,
+      "change_pct": -48,
+      "change_abs": 48,
+      "change_sign": "-",
+      "history": [
+        57536,
+        43546,
+        38345,
+        31242,
+        20599,
+        10954
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 15,
+          "h": 24
+        },
+        {
+          "x": 17,
+          "y": 7,
+          "w": 15,
+          "h": 17
+        },
+        {
+          "x": 34,
+          "y": 10,
+          "w": 15,
+          "h": 14
+        },
+        {
+          "x": 51,
+          "y": 14,
+          "w": 15,
+          "h": 10
+        },
+        {
+          "x": 68,
+          "y": 19,
+          "w": 15,
+          "h": 5
+        },
+        {
+          "x": 85,
+          "y": 22,
+          "w": 15,
+          "h": 2
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Mathieu Carrière",
-      "views": 9990,
-      "views_label": "9 990",
+      "title": "Affaire Lucas Tronche",
+      "views": 10476,
+      "views_label": "10 476",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
         90,
-        109,
-        116,
-        117,
-        172,
-        304,
-        10054
+        81,
+        113,
+        110,
+        146,
+        240,
+        10537
       ],
       "sparkline_bars": [
         {
@@ -1706,21 +1671,21 @@
     },
     {
       "rank": 28,
-      "title": "Sarah Knafo",
-      "views": 9956,
-      "views_label": "9 956",
+      "title": "Zinédine Zidane",
+      "views": 10422,
+      "views_label": "10 422",
       "is_new": false,
-      "change_pct": -18,
-      "change_abs": 18,
+      "change_pct": -39,
+      "change_abs": 39,
       "change_sign": "-",
       "history": [
-        6491,
-        6468,
-        9071,
-        13947,
-        14152,
-        12640,
-        10423
+        7127,
+        6197,
+        24173,
+        9150,
+        6325,
+        17568,
+        11079
       ],
       "sparkline_bars": [
         {
@@ -1737,60 +1702,60 @@
         },
         {
           "x": 29.14,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 43.71,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
-          "x": 58.29,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 72.86,
-          "y": 5,
+          "x": 43.71,
+          "y": 20,
           "w": 12.57,
-          "h": 19
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
         },
         {
           "x": 87.43,
-          "y": 12,
+          "y": 17,
           "w": 12.57,
-          "h": 12
+          "h": 7
         }
       ]
     },
     {
       "rank": 29,
-      "title": "À l'est d'Éden (mini-série)",
-      "views": 9691,
-      "views_label": "9 691",
+      "title": "Ligue des nations de l'UEFA 2026-2027",
+      "views": 10329,
+      "views_label": "10 329",
       "is_new": false,
-      "change_pct": -26,
-      "change_abs": 26,
+      "change_pct": -7,
+      "change_abs": 7,
       "change_sign": "-",
       "history": [
-        408,
-        395,
-        8819,
-        9703,
-        10416,
-        13289,
-        9910
+        4612,
+        3569,
+        7561,
+        6445,
+        6120,
+        11562,
+        10857
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 14.57,
@@ -1800,21 +1765,21 @@
         },
         {
           "x": 29.14,
-          "y": 8,
+          "y": 12,
           "w": 12.57,
-          "h": 16
+          "h": 12
         },
         {
           "x": 43.71,
-          "y": 7,
+          "y": 15,
           "w": 12.57,
-          "h": 17
+          "h": 9
         },
         {
           "x": 58.29,
-          "y": 5,
+          "y": 16,
           "w": 12.57,
-          "h": 19
+          "h": 8
         },
         {
           "x": 72.86,
@@ -1824,36 +1789,36 @@
         },
         {
           "x": 87.43,
-          "y": 6,
+          "y": 2,
           "w": 12.57,
-          "h": 18
+          "h": 22
         }
       ]
     },
     {
       "rank": 30,
-      "title": "Mark van Bommel",
-      "views": 9388,
-      "views_label": "9 388",
+      "title": "Éric Duhaime",
+      "views": 10309,
+      "views_label": "10 309",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        6093,
-        1265,
-        1046,
-        1885,
-        823,
-        774,
-        9634
+        1474,
+        1332,
+        1629,
+        1358,
+        1715,
+        4606,
+        10681
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1869,9 +1834,9 @@
         },
         {
           "x": 43.71,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 58.29,
@@ -1881,9 +1846,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 87.43,
