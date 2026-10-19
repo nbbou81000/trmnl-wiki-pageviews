@@ -51,6 +51,7 @@ const UA = {
 const TOP_COUNT = 30;         // fetched; views reveal more rows on larger screens via CSS
 const COMPARE_DEPTH = 50;     // how deep to look in yesterday's list for rank/view deltas
 const HISTORY_DAYS = 7;       // sparkline window
+const MAX_LOOKBACK = 5;       // how many days back to search when Wikimedia is late
 const SPARK_W = 100;          // sparkline viewBox width
 const SPARK_H = 24;           // sparkline viewBox height
 
@@ -87,7 +88,11 @@ function formatCompact(n) {
 
 async function getJson(url) {
   const res = await fetch(url, { headers: UA, timeout: 30000 });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  if (!res.ok) {
+    const err = new Error(`HTTP ${res.status} for ${url}`);
+    err.status = res.status;
+    throw err;
+  }
   return res.json();
 }
 
@@ -105,9 +110,9 @@ async function fetchTopArticles(offsetDays) {
   );
 }
 
-async function fetchHistory(title) {
-  const start = dayOffset(HISTORY_DAYS).compact;
-  const end = dayOffset(1).compact;
+async function fetchHistory(title, base) {
+  const start = dayOffset(base + HISTORY_DAYS - 1).compact;
+  const end = dayOffset(base).compact;
   const enc = encodeURIComponent(title);
   const url =
     `https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/` +
@@ -120,9 +125,9 @@ async function fetchHistory(title) {
 // before, in one request. Agent is restricted to "user": all-agents includes
 // crawlers and automation, which run about a third of the raw total and would
 // overstate anything labelled "pages read".
-async function fetchSiteTotals() {
-  const yesterday = dayOffset(1).compact;
-  const dayBefore = dayOffset(2).compact;
+async function fetchSiteTotals(base) {
+  const yesterday = dayOffset(base).compact;
+  const dayBefore = dayOffset(base + 1).compact;
   const url =
     `https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/` +
     `${LANG}.wikipedia/all-access/user/daily/${dayBefore}/${yesterday}`;
@@ -208,17 +213,53 @@ async function downloadAndProcessThumbnail(thumbUrl) {
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Wikimedia sometimes publishes a day late, or stalls for several days.
+// Walk back from yesterday until a day answers, so the screen always shows
+// the most recent ranking actually available. Only 404 (not published yet)
+// triggers the walk-back; any other error stops the run as before.
+async function findLatestDay() {
+  for (let offset = 1; offset <= MAX_LOOKBACK; offset++) {
+    const { iso } = dayOffset(offset);
+    console.log(`[${LANG}] fetching top articles for ${iso}`);
+    try {
+      const clean = await fetchTopArticles(offset);
+      return { offset, clean };
+    } catch (e) {
+      if (e.status !== 404) throw e;
+      console.warn(`[${LANG}] ${iso} not published yet, trying the day before`);
+    }
+  }
+  throw new Error(`no ranking published in the last ${MAX_LOOKBACK} days`);
+}
+
+// Date of the data already on disk, so a fallback never replaces newer data.
+function existingDate() {
+  try {
+    const old = JSON.parse(
+      fs.readFileSync(path.join(OUT_DATA_DIR, `${LANG}.json`), 'utf8')
+    );
+    return old.date || null;
+  } catch (e) {
+    return null;
+  }
+}
+
 async function run() {
-  const { iso } = dayOffset(1);
-  console.log(`[${LANG}] fetching top articles for ${iso}`);
-  const clean = await fetchTopArticles(1);
+  const { offset: base, clean } = await findLatestDay();
+  const { iso } = dayOffset(base);
+  const current = existingDate();
+  if (current && iso < current) {
+    console.log(`[${LANG}] latest available ${iso} is older than saved ${current}, keeping saved data`);
+    return;
+  }
+  console.log(`[${LANG}] using ranking for ${iso}`);
   const top = clean.slice(0, TOP_COUNT);
 
   // Previous day, looked at more deeply so we can still place an article
   // that was ranked well below today's cut-off.
   let prevMap = new Map();
   try {
-    const prev = await fetchTopArticles(2);
+    const prev = await fetchTopArticles(base + 1);
     prev.slice(0, COMPARE_DEPTH).forEach((a, i) => {
       prevMap.set(a.article, { rank: i + 1, views: a.views });
     });
@@ -232,7 +273,7 @@ async function run() {
   const histories = [];
   for (const a of top) {
     try {
-      const values = await fetchHistory(a.article);
+      const values = await fetchHistory(a.article, base);
       histories.push(values);
     } catch (e) {
       console.warn(`[${LANG}] history failed for ${a.article}: ${e.message}`);
@@ -289,7 +330,7 @@ async function run() {
     };
   });
 
-  const site = await fetchSiteTotals();
+  const site = await fetchSiteTotals(base);
 
   // Summary band: cumulative views and the sharpest riser of the day.
   const totalViews = articles.reduce((sum, a) => sum + a.views, 0);
