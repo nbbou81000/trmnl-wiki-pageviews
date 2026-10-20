@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-10-19",
-    "generated_at": "2026-10-20T08:13:19.588Z",
+    "generated_at": "2026-10-20T08:43:18.365Z",
     "has_thumbnail": true,
     "top_description": "2026 Indian film by Nelson Dilipkumar",
     "spark_width": 100,
@@ -285,43 +285,50 @@
           5863,
           5872,
           7686,
-          12197
+          12197,
+          206781
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 51,
+            "x": 43.71,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 68,
-            "y": 17,
-            "w": 15,
-            "h": 7
+            "x": 58.29,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
           },
           {
-            "x": 85,
+            "x": 72.86,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
+          },
+          {
+            "x": 87.43,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           }
         ]
@@ -1468,44 +1475,51 @@
           109876,
           59508,
           31129,
-          27249
+          27249,
+          69253
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 17,
-            "w": 15,
+            "w": 12.57,
             "h": 7
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 17,
-            "w": 15,
+            "w": 12.57,
             "h": 7
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           },
           {
-            "x": 51,
+            "x": 43.71,
             "y": 15,
-            "w": 15,
+            "w": 12.57,
             "h": 9
           },
           {
-            "x": 68,
+            "x": 58.29,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 85,
+            "x": 72.86,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
+          },
+          {
+            "x": 87.43,
+            "y": 12,
+            "w": 12.57,
+            "h": 12
           }
         ]
       },
@@ -1892,7 +1906,7 @@
   {
     "lang": "fr",
     "date": "2026-10-19",
-    "generated_at": "2026-10-20T08:13:25.889Z",
+    "generated_at": "2026-10-20T08:43:25.462Z",
     "has_thumbnail": true,
     "top_description": "haut fonctionnaire et homme politique français",
     "spark_width": 100,
@@ -3768,7 +3782,7 @@
   {
     "lang": "de",
     "date": "2026-10-19",
-    "generated_at": "2026-10-20T08:13:32.206Z",
+    "generated_at": "2026-10-20T08:43:32.663Z",
     "has_thumbnail": true,
     "top_description": "Auslegerbrücken geordnet nach Spannweite",
     "spark_width": 100,
@@ -5637,7 +5651,7 @@
   {
     "lang": "es",
     "date": "2026-10-19",
-    "generated_at": "2026-10-20T08:13:38.409Z",
+    "generated_at": "2026-10-20T08:43:39.825Z",
     "has_thumbnail": true,
     "top_description": "25.° presidente de la República Francesa",
     "spark_width": 100,
