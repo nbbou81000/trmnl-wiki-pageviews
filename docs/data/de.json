@@ -1,151 +1,165 @@
 {
   "lang": "de",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-23T12:42:52.911Z",
-  "has_thumbnail": false,
-  "top_description": "deutscher Computerspielentwickler (1996-2026)",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-24T07:50:01.162Z",
+  "has_thumbnail": true,
+  "top_description": "US-amerikanischer Schauspieler (1933–2026)",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 19936671,
-  "site_total_label": "19.936.671",
-  "site_total_compact": "19,9M",
-  "site_vs_pct": -3,
-  "site_vs_abs": 3,
-  "site_vs_sign": "-",
-  "total_views": 509826,
-  "total_views_label": "509.826",
-  "top_riser_title": "Manuel Otto",
-  "top_riser_pct": 102,
+  "site_total": 20801830,
+  "site_total_label": "20.801.830",
+  "site_total_compact": "20,8M",
+  "site_vs_pct": 4,
+  "site_vs_abs": 4,
+  "site_vs_sign": "+",
+  "total_views": 495756,
+  "total_views_label": "495.756",
+  "top_riser_title": "Tom Skerritt",
+  "top_riser_pct": 232,
   "articles": [
     {
       "rank": 1,
-      "title": "Manuel Otto",
-      "views": 35425,
-      "views_label": "35.425",
+      "title": "Tom Skerritt",
+      "views": 61818,
+      "views_label": "61.818",
       "is_new": false,
-      "change_pct": 102,
-      "change_abs": 102,
+      "change_pct": 232,
+      "change_abs": 232,
       "change_sign": "+",
       "history": [
-        1,
-        1,
-        1737,
-        18594,
-        37125
+        89,
+        141,
+        106,
+        85,
+        100,
+        18913,
+        63232
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 18.4,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 20.4,
+          "x": 14.57,
           "y": 22,
-          "w": 18.4,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 40.8,
+          "x": 29.14,
           "y": 22,
-          "w": 18.4,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 61.2,
-          "y": 12,
-          "w": 18.4,
-          "h": 12
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
-          "x": 81.6,
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 87.43,
           "y": 0,
-          "w": 18.4,
+          "w": 12.57,
           "h": 24
         }
       ]
     },
     {
       "rank": 2,
-      "title": "PHP",
-      "views": 33092,
-      "views_label": "33.092",
-      "is_new": false,
-      "change_pct": 26,
-      "change_abs": 26,
-      "change_sign": "+",
-      "history": [
-        135,
-        123,
-        426,
-        373,
-        261,
-        27311,
-        34168
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Liste der größten Auslegerbrücken",
-      "views": 32252,
-      "views_label": "32.252",
+      "views": 32197,
+      "views_label": "32.197",
       "is_new": false,
-      "change_pct": -4,
-      "change_abs": 4,
-      "change_sign": "-",
+      "change_pct": 0,
+      "change_abs": 0,
+      "change_sign": "",
       "history": [
-        33174,
         32289,
         32171,
         33180,
         33643,
         33614,
-        32407
+        32407,
+        32346
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 43.71,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 58.29,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 87.43,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Luna Jordan",
+      "views": 26621,
+      "views_label": "26.621",
+      "is_new": false,
+      "change_pct": 149,
+      "change_abs": 149,
+      "change_sign": "+",
+      "history": [
+        42181,
+        18736,
+        31851,
+        56965,
+        36097,
+        10929,
+        26915
       ],
       "sparkline_bars": [
         {
@@ -153,6 +167,69 @@
           "y": 8,
           "w": 12.57,
           "h": 16
+        },
+        {
+          "x": 14.57,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 29.14,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 43.71,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 58.29,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Delta Goodrem",
+      "views": 23723,
+      "views_label": "23.723",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        192,
+        508,
+        197,
+        152,
+        197,
+        175,
+        23921
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 14.57,
@@ -168,75 +245,47 @@
         },
         {
           "x": 43.71,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 58.29,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "PHP2Shell",
-      "views": 28877,
-      "views_label": "28.877",
-      "is_new": false,
-      "change_pct": 32,
-      "change_abs": 32,
-      "change_sign": "+",
-      "history": [
-        23828,
-        30890
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
           "y": 22,
-          "w": 49,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 51,
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
           "y": 0,
-          "w": 49,
+          "w": 12.57,
           "h": 24
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Christian Angermayer",
-      "views": 25572,
-      "views_label": "25.572",
+      "title": "Ilse Aigner",
+      "views": 23363,
+      "views_label": "23.363",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        212,
-        70,
-        66,
-        70,
-        83,
-        199,
-        25956
+        1276,
+        2152,
+        962,
+        1106,
+        1120,
+        1191,
+        23639
       ],
       "sparkline_bars": [
         {
@@ -285,21 +334,21 @@
     },
     {
       "rank": 6,
-      "title": "Katrin Sass",
-      "views": 21967,
-      "views_label": "21.967",
+      "title": "Hendrik Wüst",
+      "views": 22029,
+      "views_label": "22.029",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        2192,
-        13020,
-        5433,
-        5433,
-        1716,
-        2600,
-        22171
+        2079,
+        1876,
+        1003,
+        654,
+        1153,
+        1077,
+        22222
       ],
       "sparkline_bars": [
         {
@@ -310,21 +359,21 @@
         },
         {
           "x": 14.57,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 58.29,
@@ -348,56 +397,21 @@
     },
     {
       "rank": 7,
-      "title": "Adam Wolke",
-      "views": 21841,
-      "views_label": "21.841",
-      "is_new": false,
-      "change_pct": -50,
-      "change_abs": 50,
-      "change_sign": "-",
-      "history": [
-        32459,
-        44770,
-        22934
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 14,
-          "w": 32,
-          "h": 10
-        },
-        {
-          "x": 34,
-          "y": 0,
-          "w": 32,
-          "h": 24
-        },
-        {
-          "x": 68,
-          "y": 22,
-          "w": 32,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Der Usedom-Krimi: Doppelmord",
-      "views": 20350,
-      "views_label": "20.350",
+      "title": "May Pang",
+      "views": 21928,
+      "views_label": "21.928",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        57,
-        97,
-        67,
-        265,
-        411,
-        1081,
-        20497
+        112,
+        96,
+        131,
+        145,
+        170,
+        501,
+        22140
       ],
       "sparkline_bars": [
         {
@@ -411,6 +425,69 @@
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Caren Miosga",
+      "views": 20266,
+      "views_label": "20.266",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        297,
+        4677,
+        1312,
+        424,
+        364,
+        342,
+        20419
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         },
         {
           "x": 29.14,
@@ -446,21 +523,21 @@
     },
     {
       "rank": 9,
-      "title": "Tom Skerritt",
-      "views": 18596,
-      "views_label": "18.596",
+      "title": "Rosalie Thomass",
+      "views": 17137,
+      "views_label": "17.137",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        109,
-        89,
-        141,
-        106,
-        85,
-        100,
-        18913
+        1104,
+        1464,
+        875,
+        1300,
+        1104,
+        1370,
+        17357
       ],
       "sparkline_bars": [
         {
@@ -509,49 +586,84 @@
     },
     {
       "rank": 10,
-      "title": "Michael Pfeffer",
-      "views": 16692,
-      "views_label": "16.692",
-      "is_new": false,
-      "change_pct": 12,
-      "change_abs": 12,
-      "change_sign": "+",
+      "title": "Philippa Jarke",
+      "views": 16089,
+      "views_label": "16.089",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        15378,
-        17630
+        2971,
+        1782,
+        1001,
+        1703,
+        1122,
+        716,
+        16223
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 14.57,
           "y": 22,
-          "w": 49,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 51,
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
           "y": 0,
-          "w": 49,
+          "w": 12.57,
           "h": 24
         }
       ]
     },
     {
       "rank": 11,
-      "title": "Der perfekte Urlaub",
-      "views": 16197,
-      "views_label": "16.197",
-      "is_new": false,
-      "change_pct": 44,
-      "change_abs": 44,
-      "change_sign": "+",
+      "title": "Demografie Grönlands",
+      "views": 14161,
+      "views_label": "14.161",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        3630,
-        4263,
-        4394,
-        5393,
-        8186,
-        11514,
-        16508
+        18,
+        13,
+        10,
+        29,
+        28,
+        578,
+        14794
       ],
       "sparkline_bars": [
         {
@@ -574,21 +686,21 @@
         },
         {
           "x": 43.71,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 9,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
         },
         {
           "x": 87.43,
@@ -600,21 +712,21 @@
     },
     {
       "rank": 12,
-      "title": "Der Usedom-Krimi",
-      "views": 14749,
-      "views_label": "14.749",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Der perfekte Urlaub",
+      "views": 14106,
+      "views_label": "14.106",
+      "is_new": false,
+      "change_pct": -13,
+      "change_abs": 13,
+      "change_sign": "-",
       "history": [
-        380,
-        1180,
-        670,
-        1119,
-        898,
-        1623,
-        14929
+        4263,
+        4394,
+        5393,
+        8186,
+        11514,
+        16508,
+        14374
       ],
       "sparkline_bars": [
         {
@@ -637,47 +749,47 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 10,
           "w": 12.57,
-          "h": 2
+          "h": 14
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 4,
+          "w": 12.57,
+          "h": 20
         }
       ]
     },
     {
       "rank": 13,
-      "title": "John Anderson (Sänger)",
-      "views": 14435,
-      "views_label": "14.435",
+      "title": "Supertramp",
+      "views": 13716,
+      "views_label": "13.716",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        16,
-        20,
-        17,
-        18,
-        20,
-        9,
-        15058
+        440,
+        354,
+        268,
+        281,
+        388,
+        404,
+        13850
       ],
       "sparkline_bars": [
         {
@@ -726,21 +838,21 @@
     },
     {
       "rank": 14,
-      "title": "Vincent Gross",
-      "views": 14095,
-      "views_label": "14.095",
+      "title": "PHP",
+      "views": 12570,
+      "views_label": "12.570",
       "is_new": false,
-      "change_pct": -24,
-      "change_abs": 24,
+      "change_pct": -62,
+      "change_abs": 62,
       "change_sign": "-",
       "history": [
-        276,
-        347,
+        123,
+        426,
+        373,
         261,
-        131,
-        161,
-        18698,
-        14410
+        27311,
+        34168,
+        13159
       ],
       "sparkline_bars": [
         {
@@ -769,9 +881,9 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 5,
           "w": 12.57,
-          "h": 2
+          "h": 19
         },
         {
           "x": 72.86,
@@ -781,29 +893,29 @@
         },
         {
           "x": 87.43,
-          "y": 6,
+          "y": 15,
           "w": 12.57,
-          "h": 18
+          "h": 9
         }
       ]
     },
     {
       "rank": 15,
-      "title": "Paris Brunner",
-      "views": 14003,
-      "views_label": "14.003",
+      "title": "Quellungshöhle",
+      "views": 12552,
+      "views_label": "12.552",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        606,
-        199,
-        150,
-        135,
-        256,
-        368,
-        14110
+        15,
+        6,
+        4,
+        12,
+        15,
+        662,
+        13095
       ],
       "sparkline_bars": [
         {
@@ -852,34 +964,34 @@
     },
     {
       "rank": 16,
-      "title": "Gisa Flake",
-      "views": 13915,
-      "views_label": "13.915",
-      "is_new": false,
-      "change_pct": -59,
-      "change_abs": 59,
-      "change_sign": "-",
+      "title": "Jenseits der Spree",
+      "views": 12002,
+      "views_label": "12.002",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1161,
-        841,
-        583,
-        287,
-        234,
-        33903,
-        14165
+        5237,
+        3157,
+        2291,
+        3094,
+        2174,
+        1395,
+        12173
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 29.14,
@@ -889,9 +1001,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 58.29,
@@ -901,35 +1013,35 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 14,
+          "y": 0,
           "w": 12.57,
-          "h": 10
+          "h": 24
         }
       ]
     },
     {
       "rank": 17,
-      "title": "Sterben für Anfänger",
-      "views": 13572,
-      "views_label": "13.572",
+      "title": "Westjordanland",
+      "views": 11772,
+      "views_label": "11.772",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        79,
-        103,
-        90,
-        69,
-        121,
-        279,
-        13729
+        688,
+        798,
+        721,
+        796,
+        568,
+        529,
+        12076
       ],
       "sparkline_bars": [
         {
@@ -978,34 +1090,34 @@
     },
     {
       "rank": 18,
-      "title": "Steffi Kühnert",
-      "views": 13557,
-      "views_label": "13.557",
+      "title": "Vincent Kompany",
+      "views": 11628,
+      "views_label": "11.628",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        72,
-        87,
-        298,
-        162,
-        264,
-        558,
-        13667
+        3250,
+        2039,
+        817,
+        1151,
+        3015,
+        1611,
+        11820
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 29.14,
@@ -1021,9 +1133,9 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 72.86,
@@ -1041,21 +1153,21 @@
     },
     {
       "rank": 19,
-      "title": "Mélanie Berger-Volle",
-      "views": 13476,
-      "views_label": "13.476",
+      "title": "23. Oktober",
+      "views": 11451,
+      "views_label": "11.451",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        7,
-        5,
-        7,
-        8,
-        19,
-        34,
-        14182
+        73,
+        75,
+        165,
+        188,
+        265,
+        1263,
+        12104
       ],
       "sparkline_bars": [
         {
@@ -1104,40 +1216,40 @@
     },
     {
       "rank": 20,
-      "title": "Günther Paal",
-      "views": 12617,
-      "views_label": "12.617",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Hauptseite",
+      "views": 11327,
+      "views_label": "11.327",
+      "is_new": false,
+      "change_pct": -5,
+      "change_abs": 5,
+      "change_sign": "-",
       "history": [
-        194,
-        176,
-        251,
-        344,
-        218,
-        361,
-        13015
+        24577,
+        31769,
+        13907,
+        11748,
+        12779,
+        13064,
+        12988
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 43.71,
@@ -1159,92 +1271,85 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Korfu-Kanal-Zwischenfall",
-      "views": 12521,
-      "views_label": "12.521",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Manuel Otto",
+      "views": 11125,
+      "views_label": "11.125",
+      "is_new": false,
+      "change_pct": -69,
+      "change_abs": 69,
+      "change_sign": "-",
       "history": [
-        3,
-        21,
-        14,
-        12,
-        18,
-        520,
-        13141
+        1,
+        1,
+        1737,
+        18594,
+        37125,
+        11463
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 14.57,
+          "x": 17,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 29.14,
+          "x": 34,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "x": 51,
+          "y": 12,
+          "w": 15,
+          "h": 12
         },
         {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
+          "x": 68,
           "y": 0,
-          "w": 12.57,
+          "w": 15,
           "h": 24
+        },
+        {
+          "x": 85,
+          "y": 17,
+          "w": 15,
+          "h": 7
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Frederik Pleitgen",
-      "views": 12301,
-      "views_label": "12.301",
+      "title": "The Ice Road",
+      "views": 11083,
+      "views_label": "11.083",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        77,
-        43,
+        126,
+        133,
+        106,
         55,
-        34,
-        54,
-        503,
-        12387
+        107,
+        188,
+        11181
       ],
       "sparkline_bars": [
         {
@@ -1293,109 +1398,88 @@
     },
     {
       "rank": 23,
-      "title": "22. Oktober",
-      "views": 11956,
-      "views_label": "11.956",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Adam Wolke",
+      "views": 11008,
+      "views_label": "11.008",
+      "is_new": false,
+      "change_pct": -50,
+      "change_abs": 50,
+      "change_sign": "-",
       "history": [
-        75,
-        73,
-        139,
-        194,
-        350,
-        1115,
-        12819
+        32459,
+        44770,
+        22934,
+        12102
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "y": 9,
+          "w": 23.5,
+          "h": 15
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
+          "x": 25.5,
           "y": 0,
-          "w": 12.57,
+          "w": 23.5,
           "h": 24
+        },
+        {
+          "x": 51,
+          "y": 16,
+          "w": 23.5,
+          "h": 8
+        },
+        {
+          "x": 76.5,
+          "y": 22,
+          "w": 23.5,
+          "h": 2
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Hauptseite",
-      "views": 11930,
-      "views_label": "11.930",
-      "is_new": false,
-      "change_pct": -1,
-      "change_abs": 1,
-      "change_sign": "-",
+      "title": "Marijam Agischewa",
+      "views": 10745,
+      "views_label": "10.745",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        20241,
-        24577,
-        31769,
-        13907,
-        11748,
-        12779,
-        13064
+        154,
+        187,
+        127,
+        155,
+        221,
+        224,
+        10860
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 9,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 58.29,
@@ -1411,29 +1495,29 @@
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Donnerschwee-Kaserne",
-      "views": 11765,
-      "views_label": "11.765",
+      "title": "Désirée Nosbusch",
+      "views": 10592,
+      "views_label": "10.592",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        9,
-        6,
-        7,
-        50,
-        13,
-        508,
-        12459
+        556,
+        706,
+        15838,
+        3767,
+        1187,
+        1037,
+        10742
       ],
       "sparkline_bars": [
         {
@@ -1450,15 +1534,15 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 58.29,
@@ -1474,36 +1558,36 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 8,
           "w": 12.57,
-          "h": 24
+          "h": 16
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Nekrolog 2026",
-      "views": 11618,
-      "views_label": "11.618",
-      "is_new": false,
-      "change_pct": -5,
-      "change_abs": 5,
-      "change_sign": "-",
+      "title": "John Lennon",
+      "views": 10564,
+      "views_label": "10.564",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        10716,
-        9932,
-        10057,
-        13464,
-        12899,
-        13381,
-        12739
+        800,
+        737,
+        702,
+        718,
+        741,
+        702,
+        10720
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1519,173 +1603,145 @@
         },
         {
           "x": 43.71,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 4,
+          "y": 22,
           "w": 12.57,
-          "h": 20
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 5,
+          "y": 0,
           "w": 12.57,
-          "h": 19
+          "h": 24
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Guido Heuer",
-      "views": 11331,
-      "views_label": "11.331",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "PHP2Shell",
+      "views": 10530,
+      "views_label": "10.530",
+      "is_new": false,
+      "change_pct": -64,
+      "change_abs": 64,
+      "change_sign": "-",
       "history": [
-        528,
-        211,
-        152,
-        233,
-        113,
-        67,
-        11697
+        23828,
+        30890,
+        11348
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "y": 9,
+          "w": 32,
+          "h": 15
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
+          "x": 34,
           "y": 0,
-          "w": 12.57,
+          "w": 32,
           "h": 24
+        },
+        {
+          "x": 68,
+          "y": 22,
+          "w": 32,
+          "h": 2
         }
       ]
     },
     {
       "rank": 28,
-      "title": "Luna Jordan",
-      "views": 10693,
-      "views_label": "10.693",
+      "title": "Nekrolog 2026",
+      "views": 10355,
+      "views_label": "10.355",
       "is_new": false,
-      "change_pct": -70,
-      "change_abs": 70,
+      "change_pct": -11,
+      "change_abs": 11,
       "change_sign": "-",
       "history": [
-        106333,
-        42181,
-        18736,
-        31851,
-        56965,
-        36097,
-        10929
+        9932,
+        10057,
+        13464,
+        12899,
+        13381,
+        12739,
+        11356
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 14.57,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
           "x": 43.71,
-          "y": 19,
+          "y": 4,
           "w": 12.57,
-          "h": 5
+          "h": 20
         },
         {
           "x": 58.29,
-          "y": 12,
+          "y": 1,
           "w": 12.57,
-          "h": 12
+          "h": 23
         },
         {
           "x": 72.86,
-          "y": 18,
+          "y": 5,
           "w": 12.57,
-          "h": 6
+          "h": 19
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         }
       ]
     },
     {
       "rank": 29,
-      "title": "Die Hexen von Eastwick (Film)",
-      "views": 10316,
-      "views_label": "10.316",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "YouTube",
+      "views": 9684,
+      "views_label": "9.684",
+      "is_new": false,
+      "change_pct": 14,
+      "change_abs": 14,
+      "change_sign": "+",
       "history": [
-        125,
-        113,
-        146,
-        173,
-        68,
-        175,
-        10426
+        4526,
+        4314,
+        7196,
+        8947,
+        9616,
+        9754,
+        10908
       ],
       "sparkline_bars": [
         {
@@ -1702,27 +1758,27 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 5,
           "w": 12.57,
-          "h": 2
+          "h": 19
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 87.43,
@@ -1734,21 +1790,21 @@
     },
     {
       "rank": 30,
-      "title": "Viessmann",
-      "views": 10115,
-      "views_label": "10.115",
+      "title": "Muammar al-Gaddafi",
+      "views": 9614,
+      "views_label": "9.614",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        170,
-        152,
-        159,
-        171,
-        230,
-        204,
-        10313
+        642,
+        647,
+        653,
+        856,
+        668,
+        1092,
+        10086
       ],
       "sparkline_bars": [
         {
