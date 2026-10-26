@@ -1,39 +1,39 @@
 {
   "lang": "fr",
-  "date": "2026-10-24",
-  "generated_at": "2026-10-25T12:39:34.350Z",
-  "has_thumbnail": true,
-  "top_description": "maire de Trappes",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-26T06:51:52.811Z",
+  "has_thumbnail": false,
+  "top_description": "élection au Brésil",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 16640505,
-  "site_total_label": "16 640 505",
-  "site_total_compact": "16,6M",
-  "site_vs_pct": 1,
-  "site_vs_abs": 1,
+  "site_total": 18814503,
+  "site_total_label": "18 814 503",
+  "site_total_compact": "18,8M",
+  "site_vs_pct": 13,
+  "site_vs_abs": 13,
   "site_vs_sign": "+",
-  "total_views": 495689,
-  "total_views_label": "495 689",
-  "top_riser_title": "Fusillade de Trappes et La Verrière",
-  "top_riser_pct": 152,
+  "total_views": 583331,
+  "total_views_label": "583 331",
+  "top_riser_title": "Les Misérables (film, 2026)",
+  "top_riser_pct": 27,
   "articles": [
     {
       "rank": 1,
-      "title": "Ali Rabeh",
-      "views": 38173,
-      "views_label": "38 173",
-      "is_new": false,
-      "change_pct": -38,
-      "change_abs": 38,
-      "change_sign": "-",
+      "title": "Élection présidentielle brésilienne de 2026",
+      "views": 46692,
+      "views_label": "46 692",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        75,
-        79,
-        53,
-        61,
-        97,
-        63073,
-        38965
+        4173,
+        3090,
+        2127,
+        2152,
+        2864,
+        5159,
+        48652
       ],
       "sparkline_bars": [
         {
@@ -68,189 +68,224 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 9,
+          "y": 0,
           "w": 12.57,
-          "h": 15
+          "h": 24
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Fusillade de Trappes et La Verrière",
-      "views": 29550,
-      "views_label": "29 550",
-      "is_new": false,
-      "change_pct": 152,
-      "change_abs": 152,
-      "change_sign": "+",
+      "title": "Angèle (chanteuse)",
+      "views": 34691,
+      "views_label": "34 691",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        13805,
-        32016
+        2768,
+        1901,
+        2085,
+        2067,
+        2875,
+        2184,
+        35089
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 49,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 51,
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
           "y": 0,
-          "w": 49,
+          "w": 12.57,
           "h": 24
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
-      "views": 26253,
-      "views_label": "26 253",
-      "is_new": false,
-      "change_pct": -18,
-      "change_abs": 18,
-      "change_sign": "-",
-      "history": [
-        38739,
-        38427,
-        44737,
-        40023,
-        35683,
-        35786,
-        29857
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 14.57,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 29.14,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 43.71,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 58.29,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 72.86,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 87.43,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Lionel Messi",
-      "views": 25854,
-      "views_label": "25 854",
-      "is_new": false,
-      "change_pct": 20,
-      "change_abs": 20,
-      "change_sign": "+",
-      "history": [
-        31224,
-        23337,
-        35974,
-        26627,
-        24184,
-        51309,
-        32337
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 43.71,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Affaires Luc Tangorre",
-      "views": 25033,
-      "views_label": "25 033",
+      "title": "La Maison du docteur Edwardes",
+      "views": 30787,
+      "views_label": "30 787",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        26,
-        44,
-        60,
-        62,
-        44,
-        55,
-        25257
+        218,
+        179,
+        229,
+        219,
+        539,
+        800,
+        31116
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
+      "views": 29904,
+      "views_label": "29 904",
+      "is_new": false,
+      "change_pct": 14,
+      "change_abs": 14,
+      "change_sign": "+",
+      "history": [
+        38427,
+        44737,
+        40023,
+        35683,
+        35786,
+        29857,
+        33740
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 14.57,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 29.14,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 43.71,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 58.29,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Gene Tierney",
+      "views": 28777,
+      "views_label": "28 777",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        317,
+        265,
+        179,
+        200,
+        182,
+        288,
+        29199
       ],
       "sparkline_bars": [
         {
@@ -299,21 +334,21 @@
     },
     {
       "rank": 6,
-      "title": "Klaus Barbie",
-      "views": 24159,
-      "views_label": "24 159",
+      "title": "Albert Dupontel",
+      "views": 23380,
+      "views_label": "23 380",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1632,
-        1131,
-        1358,
-        3274,
-        1997,
-        8027,
-        24559
+        672,
+        719,
+        748,
+        864,
+        788,
+        1086,
+        23571
       ],
       "sparkline_bars": [
         {
@@ -348,9 +383,9 @@
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 87.43,
@@ -362,160 +397,97 @@
     },
     {
       "rank": 7,
-      "title": "XXX",
-      "views": 20891,
-      "views_label": "20 891",
+      "title": "Lionel Messi",
+      "views": 23037,
+      "views_label": "23 037",
       "is_new": false,
-      "change_pct": 15,
-      "change_abs": 15,
-      "change_sign": "+",
-      "history": [
-        11590,
-        11364,
-        8870,
-        16355,
-        11588,
-        20279,
-        23203
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 14.57,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
-          "x": 58.29,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 72.86,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Laurent Nuñez",
-      "views": 20816,
-      "views_label": "20 816",
-      "is_new": false,
-      "change_pct": -39,
-      "change_abs": 39,
+      "change_pct": -11,
+      "change_abs": 11,
       "change_sign": "-",
       "history": [
-        21844,
-        55606,
-        27292,
-        17786,
-        21035,
-        35841,
-        21969
+        23337,
+        35974,
+        26627,
+        24184,
+        51309,
+        32337,
+        24720
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 29.14,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 13,
           "w": 12.57,
           "h": 11
         },
         {
-          "x": 87.43,
+          "x": 29.14,
           "y": 21,
           "w": 12.57,
           "h": 3
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "Mosimann",
-      "views": 19586,
-      "views_label": "19 586",
-      "is_new": false,
-      "change_pct": 2,
-      "change_abs": 2,
-      "change_sign": "+",
+      "rank": 8,
+      "title": "Le Comte de Monte-Cristo (film, 1954)",
+      "views": 21457,
+      "views_label": "21 457",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        7965,
-        8820,
-        5148,
-        4487,
-        3487,
-        19579,
-        20045
+        67,
+        56,
+        51,
+        59,
+        83,
+        219,
+        21689
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 29.14,
@@ -537,9 +509,72 @@
         },
         {
           "x": 72.86,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "XXX",
+      "views": 20876,
+      "views_label": "20 876",
+      "is_new": false,
+      "change_pct": 0,
+      "change_abs": 0,
+      "change_sign": "",
+      "history": [
+        11364,
+        8870,
+        16355,
+        11588,
+        20279,
+        23203,
+        23464
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 43.71,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         },
         {
           "x": 87.43,
@@ -551,115 +586,52 @@
     },
     {
       "rank": 10,
-      "title": "Sarah Knafo",
-      "views": 18874,
-      "views_label": "18 874",
-      "is_new": false,
-      "change_pct": -36,
-      "change_abs": 36,
-      "change_sign": "-",
-      "history": [
-        24225,
-        21155,
-        19376,
-        16240,
-        35650,
-        30387,
-        19598
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 14.57,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 29.14,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 72.86,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 87.43,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "title": "David Lisnard",
-      "views": 18409,
-      "views_label": "18 409",
+      "views": 20364,
+      "views_label": "20 364",
       "is_new": false,
-      "change_pct": -18,
-      "change_abs": 18,
-      "change_sign": "-",
+      "change_pct": 11,
+      "change_abs": 11,
+      "change_sign": "+",
       "history": [
-        35107,
         46922,
         69959,
         37712,
         26916,
         23671,
-        19691
+        19691,
+        21677
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 14.57,
           "y": 11,
           "w": 12.57,
           "h": 13
         },
         {
-          "x": 29.14,
+          "x": 14.57,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 43.71,
+          "x": 29.14,
           "y": 15,
           "w": 12.57,
           "h": 9
         },
         {
-          "x": 58.29,
+          "x": 43.71,
           "y": 21,
           "w": 12.57,
           "h": 3
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 72.86,
@@ -676,22 +648,85 @@
       ]
     },
     {
-      "rank": 12,
-      "title": "Lupin (série télévisée, 2021)",
-      "views": 15823,
-      "views_label": "15 823",
-      "is_new": false,
-      "change_pct": 25,
-      "change_abs": 25,
-      "change_sign": "+",
+      "rank": 11,
+      "title": "Luiz Inácio Lula da Silva",
+      "views": 19526,
+      "views_label": "19 526",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1886,
-        1912,
-        1831,
-        1863,
-        2428,
-        13046,
-        16271
+        4175,
+        3980,
+        1708,
+        1505,
+        2729,
+        4458,
+        20038
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 14.57,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Ali Rabeh",
+      "views": 19217,
+      "views_label": "19 217",
+      "is_new": false,
+      "change_pct": -50,
+      "change_abs": 50,
+      "change_sign": "-",
+      "history": [
+        79,
+        53,
+        61,
+        97,
+        63073,
+        38965,
+        19752
       ],
       "sparkline_bars": [
         {
@@ -720,41 +755,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     },
     {
       "rank": 13,
-      "title": "Kehlsteinhaus",
-      "views": 15186,
-      "views_label": "15 186",
+      "title": "Ingrid Bergman",
+      "views": 19095,
+      "views_label": "19 095",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        129,
-        133,
-        112,
-        136,
-        149,
-        219,
-        15651
+        299,
+        250,
+        233,
+        263,
+        289,
+        441,
+        19263
       ],
       "sparkline_bars": [
         {
@@ -803,46 +838,46 @@
     },
     {
       "rank": 14,
-      "title": "Charlotte Gaccio",
-      "views": 14956,
-      "views_label": "14 956",
+      "title": "Natacha Polony",
+      "views": 18926,
+      "views_label": "18 926",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        123,
-        159,
-        156,
-        155,
-        913,
-        251,
-        15062
+        6450,
+        15262,
+        9832,
+        8048,
+        4773,
+        4489,
+        19406
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 58.29,
@@ -866,21 +901,21 @@
     },
     {
       "rank": 15,
-      "title": "Zazie",
-      "views": 13790,
-      "views_label": "13 790",
+      "title": "La Tresse (film)",
+      "views": 18309,
+      "views_label": "18 309",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1729,
-        1803,
-        1843,
-        2177,
-        1215,
-        1356,
-        13943
+        68,
+        161,
+        205,
+        167,
+        317,
+        694,
+        18521
       ],
       "sparkline_bars": [
         {
@@ -929,21 +964,21 @@
     },
     {
       "rank": 16,
-      "title": "Vianney",
-      "views": 13579,
-      "views_label": "13 579",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Lupin (série télévisée, 2021)",
+      "views": 17400,
+      "views_label": "17 400",
+      "is_new": false,
+      "change_pct": 10,
+      "change_abs": 10,
+      "change_sign": "+",
       "history": [
-        760,
-        1177,
-        1208,
-        1313,
-        1551,
-        3390,
-        13721
+        1912,
+        1831,
+        1863,
+        2428,
+        13046,
+        16271,
+        17841
       ],
       "sparkline_bars": [
         {
@@ -972,15 +1007,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 72.86,
-          "y": 19,
+          "y": 2,
           "w": 12.57,
-          "h": 5
+          "h": 22
         },
         {
           "x": 87.43,
@@ -992,115 +1027,115 @@
     },
     {
       "rank": 17,
-      "title": "YouTube",
-      "views": 12692,
-      "views_label": "12 692",
+      "title": "Sarah Knafo",
+      "views": 15903,
+      "views_label": "15 903",
       "is_new": false,
-      "change_pct": -22,
-      "change_abs": 22,
+      "change_pct": -16,
+      "change_abs": 16,
       "change_sign": "-",
       "history": [
-        3677,
-        11861,
-        16813,
-        17063,
-        17149,
-        17378,
-        13454
+        21155,
+        19376,
+        16240,
+        35650,
+        30387,
+        19598,
+        16683
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 14.57,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 29.14,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 29.14,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
           "x": 43.71,
-          "y": 1,
+          "y": 0,
           "w": 12.57,
-          "h": 23
+          "h": 24
         },
         {
           "x": 58.29,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
           "y": 7,
           "w": 12.57,
           "h": 17
+        },
+        {
+          "x": 72.86,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 18,
-      "title": "Jean-Luc Mélenchon",
-      "views": 12041,
-      "views_label": "12 041",
-      "is_new": false,
-      "change_pct": 48,
-      "change_abs": 48,
-      "change_sign": "+",
+      "title": "Mathilde Panot",
+      "views": 15753,
+      "views_label": "15 753",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        17647,
-        12767,
-        12350,
-        11854,
-        9952,
-        8724,
-        12583
+        2305,
+        7540,
+        6096,
+        4016,
+        2825,
+        3081,
+        15971
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 13,
+          "y": 15,
           "w": 12.57,
-          "h": 11
+          "h": 9
         },
         {
           "x": 29.14,
-          "y": 14,
+          "y": 17,
           "w": 12.57,
-          "h": 10
+          "h": 7
         },
         {
           "x": 43.71,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 58.29,
           "y": 21,
           "w": 12.57,
           "h": 3
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1110,29 +1145,29 @@
         },
         {
           "x": 87.43,
-          "y": 14,
+          "y": 0,
           "w": 12.57,
-          "h": 10
+          "h": 24
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Valérie Lemercier",
-      "views": 12029,
-      "views_label": "12 029",
+      "title": "Anne-Sophie Pic",
+      "views": 15332,
+      "views_label": "15 332",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        486,
-        317,
-        372,
-        329,
-        316,
-        1710,
-        12136
+        126,
+        116,
+        106,
+        147,
+        140,
+        161,
+        15464
       ],
       "sparkline_bars": [
         {
@@ -1167,9 +1202,9 @@
         },
         {
           "x": 72.86,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1181,84 +1216,21 @@
     },
     {
       "rank": 20,
-      "title": "Génération.s",
-      "views": 11658,
-      "views_label": "11 658",
-      "is_new": false,
-      "change_pct": -26,
-      "change_abs": 26,
-      "change_sign": "-",
-      "history": [
-        700,
-        567,
-        563,
-        436,
-        570,
-        16067,
-        11914
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 6,
-          "w": 12.57,
-          "h": 18
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "title": "Deva Cassel",
-      "views": 11609,
-      "views_label": "11 609",
+      "title": "Christo Popov",
+      "views": 14144,
+      "views_label": "14 144",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        624,
-        624,
-        759,
-        1007,
-        1332,
-        1489,
-        11723
+        117,
+        311,
+        360,
+        732,
+        1135,
+        2755,
+        14362
       ],
       "sparkline_bars": [
         {
@@ -1293,9 +1265,72 @@
         },
         {
           "x": 72.86,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Marine Le Pen",
+      "views": 13801,
+      "views_label": "13 801",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        5261,
+        4913,
+        4803,
+        4728,
+        4139,
+        5553,
+        14384
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 14.57,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
         },
         {
           "x": 87.43,
@@ -1307,28 +1342,28 @@
     },
     {
       "rank": 22,
-      "title": "Jean Moulin",
-      "views": 11532,
-      "views_label": "11 532",
+      "title": "Kylian Mbappé",
+      "views": 13795,
+      "views_label": "13 795",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        3602,
-        2849,
-        2956,
-        8698,
-        3639,
-        5673,
-        11761
+        6733,
+        5323,
+        6599,
+        6650,
+        4841,
+        4502,
+        14453
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 14.57,
@@ -1338,15 +1373,15 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 43.71,
-          "y": 8,
+          "y": 19,
           "w": 12.57,
-          "h": 16
+          "h": 5
         },
         {
           "x": 58.29,
@@ -1356,9 +1391,9 @@
         },
         {
           "x": 72.86,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1370,46 +1405,46 @@
     },
     {
       "rank": 23,
-      "title": "Hervé Vilard",
-      "views": 11437,
-      "views_label": "11 437",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Jean-Luc Mélenchon",
+      "views": 13737,
+      "views_label": "13 737",
+      "is_new": false,
+      "change_pct": 14,
+      "change_abs": 14,
+      "change_sign": "+",
       "history": [
-        302,
-        200,
-        223,
-        186,
-        940,
-        630,
-        11559
+        12767,
+        12350,
+        11854,
+        9952,
+        8724,
+        12583,
+        14378
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 11,
           "w": 12.57,
-          "h": 2
+          "h": 13
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 58.29,
@@ -1419,9 +1454,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         },
         {
           "x": 87.43,
@@ -1433,84 +1468,56 @@
     },
     {
       "rank": 24,
-      "title": "Gilles Lellouche",
-      "views": 11140,
-      "views_label": "11 140",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Fusillade de Trappes et La Verrière",
+      "views": 13494,
+      "views_label": "13 494",
+      "is_new": false,
+      "change_pct": -54,
+      "change_abs": 54,
+      "change_sign": "-",
       "history": [
-        1864,
-        1285,
-        1275,
-        6975,
-        2498,
-        4114,
-        11257
+        13805,
+        32016,
+        14531
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 12.57,
+          "w": 32,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 72.86,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 87.43,
+          "x": 34,
           "y": 0,
-          "w": 12.57,
+          "w": 32,
           "h": 24
+        },
+        {
+          "x": 68,
+          "y": 22,
+          "w": 32,
+          "h": 2
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Trappes",
-      "views": 11028,
-      "views_label": "11 028",
-      "is_new": false,
-      "change_pct": -52,
-      "change_abs": 52,
-      "change_sign": "-",
+      "title": "Renaud",
+      "views": 13199,
+      "views_label": "13 199",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        187,
-        210,
-        204,
-        160,
-        204,
-        23294,
-        11546
+        1978,
+        1889,
+        7541,
+        2610,
+        2146,
+        2165,
+        13544
       ],
       "sparkline_bars": [
         {
@@ -1527,9 +1534,9 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 12,
           "w": 12.57,
-          "h": 2
+          "h": 12
         },
         {
           "x": 43.71,
@@ -1545,66 +1552,66 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 12,
+          "y": 0,
           "w": 12.57,
-          "h": 12
+          "h": 24
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Bismillah, c'est les ténèbres",
-      "views": 10825,
-      "views_label": "10 825",
-      "is_new": false,
-      "change_pct": -25,
-      "change_abs": 25,
-      "change_sign": "-",
+      "title": "Constance Labbé",
+      "views": 12524,
+      "views_label": "12 524",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        27340,
-        24469,
-        22620,
-        27675,
-        22335,
-        15277,
-        11616
+        13085,
+        7184,
+        4583,
+        3472,
+        4294,
+        5433,
+        12657
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
-          "x": 14.57,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 29.14,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 43.71,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 58.29,
-          "y": 8,
+          "x": 14.57,
+          "y": 15,
           "w": 12.57,
-          "h": 16
+          "h": 9
+        },
+        {
+          "x": 29.14,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1614,29 +1621,29 @@
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Robert Hendy-Freegard",
-      "views": 9907,
-      "views_label": "9 907",
+      "title": "Élise Lucet",
+      "views": 12498,
+      "views_label": "12 498",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        33,
-        32,
-        25,
-        20,
-        19,
-        158,
-        9990
+        565,
+        631,
+        607,
+        2608,
+        722,
+        321,
+        12638
       ],
       "sparkline_bars": [
         {
@@ -1659,9 +1666,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 58.29,
@@ -1686,45 +1693,45 @@
     {
       "rank": 28,
       "title": "Outre-mer La Première",
-      "views": 9813,
-      "views_label": "9 813",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 12382,
+      "views_label": "12 382",
+      "is_new": false,
+      "change_pct": 26,
+      "change_abs": 26,
+      "change_sign": "+",
       "history": [
-        13015,
         8066,
         13427,
         9114,
         7227,
         7722,
-        11391
+        11391,
+        12958
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 2,
-          "w": 12.57,
-          "h": 22
-        },
-        {
-          "x": 14.57,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 29.14,
+          "x": 14.57,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 43.71,
+          "x": 29.14,
           "y": 17,
           "w": 12.57,
           "h": 7
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 58.29,
@@ -1734,35 +1741,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 8,
           "w": 12.57,
           "h": 16
+        },
+        {
+          "x": 87.43,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
         }
       ]
     },
     {
       "rank": 29,
-      "title": "Clara Ysé",
-      "views": 9624,
-      "views_label": "9 624",
+      "title": "Gregory Peck",
+      "views": 12321,
+      "views_label": "12 321",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        90,
-        622,
-        689,
-        430,
-        455,
-        416,
-        9702
+        288,
+        264,
+        280,
+        555,
+        2328,
+        595,
+        12432
       ],
       "sparkline_bars": [
         {
@@ -1791,9 +1798,9 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
@@ -1812,27 +1819,27 @@
     {
       "rank": 30,
       "title": "Les Misérables (film, 2026)",
-      "views": 9422,
-      "views_label": "9 422",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 12010,
+      "views_label": "12 010",
+      "is_new": false,
+      "change_pct": 27,
+      "change_abs": 27,
+      "change_sign": "+",
       "history": [
-        12687,
         8087,
         7814,
         7079,
         6071,
         6823,
-        9728
+        9728,
+        12321
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 16,
           "w": 12.57,
-          "h": 24
+          "h": 8
         },
         {
           "x": 14.57,
@@ -1842,33 +1849,33 @@
         },
         {
           "x": 29.14,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 43.71,
           "y": 20,
           "w": 12.57,
           "h": 4
         },
         {
-          "x": 58.29,
+          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 72.86,
+          "x": 58.29,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 87.43,
-          "y": 11,
+          "x": 72.86,
+          "y": 10,
           "w": 12.57,
-          "h": 13
+          "h": 14
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     }

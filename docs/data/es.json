@@ -1,39 +1,39 @@
 {
   "lang": "es",
-  "date": "2026-10-24",
-  "generated_at": "2026-10-25T12:39:46.916Z",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-26T06:52:05.136Z",
   "has_thumbnail": true,
-  "top_description": "cantante y poeta estadounidense",
+  "top_description": "proceso electoral presidencial y de otros cargos en Brasil a nivel nacional en 2026",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 14248702,
-  "site_total_label": "14.248.702",
-  "site_total_compact": "14,2M",
-  "site_vs_pct": -2,
-  "site_vs_abs": 2,
-  "site_vs_sign": "-",
-  "total_views": 288658,
-  "total_views_label": "288.658",
-  "top_riser_title": "Federico García Lorca",
-  "top_riser_pct": 40,
+  "site_total": 15618936,
+  "site_total_label": "15.618.936",
+  "site_total_compact": "15,6M",
+  "site_vs_pct": 10,
+  "site_vs_abs": 10,
+  "site_vs_sign": "+",
+  "total_views": 483768,
+  "total_views_label": "483.768",
+  "top_riser_title": "Elecciones generales de Brasil de 2026",
+  "top_riser_pct": 851,
   "articles": [
     {
       "rank": 1,
-      "title": "Patti Smith",
-      "views": 22505,
-      "views_label": "22.505",
+      "title": "Elecciones generales de Brasil de 2026",
+      "views": 76864,
+      "views_label": "76.864",
       "is_new": false,
-      "change_pct": -60,
-      "change_abs": 60,
-      "change_sign": "-",
+      "change_pct": 851,
+      "change_abs": 851,
+      "change_sign": "+",
       "history": [
-        3772,
-        5716,
-        7873,
-        4535,
-        9401,
-        58650,
-        23623
+        9117,
+        5681,
+        4612,
+        4544,
+        5002,
+        9672,
+        90073
       ],
       "sparkline_bars": [
         {
@@ -68,98 +68,98 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 15,
+          "y": 0,
           "w": 12.57,
-          "h": 9
+          "h": 24
         }
       ]
     },
     {
       "rank": 2,
-      "title": "YouTube",
-      "views": 20791,
-      "views_label": "20.791",
+      "title": "Luiz Inácio Lula da Silva",
+      "views": 41302,
+      "views_label": "41.302",
       "is_new": false,
-      "change_pct": -39,
-      "change_abs": 39,
-      "change_sign": "-",
+      "change_pct": 242,
+      "change_abs": 242,
+      "change_sign": "+",
       "history": [
-        3098,
-        24457,
-        35788,
-        38126,
-        39637,
-        38270,
-        24128
+        10252,
+        5713,
+        3327,
+        2859,
+        3618,
+        13539,
+        47088
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 14.57,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
           "x": 29.14,
-          "y": 3,
+          "y": 22,
           "w": 12.57,
-          "h": 21
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 1,
+          "y": 18,
           "w": 12.57,
-          "h": 23
+          "h": 6
         },
         {
           "x": 87.43,
-          "y": 10,
+          "y": 0,
           "w": 12.57,
-          "h": 14
+          "h": 24
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Clayface (película)",
-      "views": 14001,
-      "views_label": "14.001",
-      "is_new": false,
-      "change_pct": 6,
-      "change_abs": 6,
-      "change_sign": "+",
+      "title": "Eduardo Costantini",
+      "views": 36608,
+      "views_label": "36.608",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        3195,
-        3349,
-        4278,
-        5569,
-        11909,
-        14844,
-        15775
+        1326,
+        3253,
+        2992,
+        641,
+        511,
+        374,
+        43937
       ],
       "sparkline_bars": [
         {
@@ -182,21 +182,21 @@
         },
         {
           "x": 43.71,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         },
         {
           "x": 87.43,
@@ -208,103 +208,103 @@
     },
     {
       "rank": 4,
-      "title": "WhatsApp",
-      "views": 12991,
-      "views_label": "12.991",
+      "title": "Jair Bolsonaro",
+      "views": 23900,
+      "views_label": "23.900",
       "is_new": false,
-      "change_pct": -57,
-      "change_abs": 57,
-      "change_sign": "-",
+      "change_pct": 237,
+      "change_abs": 237,
+      "change_sign": "+",
       "history": [
-        1066,
-        12108,
-        18644,
-        25911,
-        24668,
-        33896,
-        14879
+        14669,
+        6129,
+        2692,
+        2127,
+        2995,
+        8043,
+        26981
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 14.57,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 29.14,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 29.14,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
           "x": 43.71,
-          "y": 6,
+          "y": 22,
           "w": 12.57,
-          "h": 18
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 18,
           "w": 12.57,
-          "h": 24
+          "h": 6
         },
         {
           "x": 87.43,
-          "y": 14,
+          "y": 0,
           "w": 12.57,
-          "h": 10
+          "h": 24
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Luiz Inácio Lula da Silva",
-      "views": 12074,
-      "views_label": "12.074",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Flávio Bolsonaro",
+      "views": 21212,
+      "views_label": "21.212",
+      "is_new": false,
+      "change_pct": 262,
+      "change_abs": 262,
+      "change_sign": "+",
       "history": [
-        2397,
-        10252,
-        5713,
-        3327,
-        2859,
-        3618,
-        13539
+        8649,
+        3963,
+        1956,
+        1759,
+        2569,
+        6763,
+        24301
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 14.57,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
           "x": 29.14,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 43.71,
@@ -320,9 +320,9 @@
         },
         {
           "x": 72.86,
-          "y": 21,
+          "y": 19,
           "w": 12.57,
-          "h": 3
+          "h": 5
         },
         {
           "x": 87.43,
@@ -334,40 +334,40 @@
     },
     {
       "rank": 6,
-      "title": "La bola negra (película)",
-      "views": 10902,
-      "views_label": "10.902",
-      "is_new": false,
-      "change_pct": 15,
-      "change_abs": 15,
-      "change_sign": "+",
+      "title": "José Luis García Sánchez",
+      "views": 18326,
+      "views_label": "18.326",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        15374,
-        12262,
-        11023,
-        10502,
-        10333,
-        10373,
-        12026
+        44,
+        33,
+        35,
+        44,
+        51,
+        79,
+        19028
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 43.71,
@@ -389,42 +389,42 @@
         },
         {
           "x": 87.43,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
         }
       ]
     },
     {
       "rank": 7,
-      "title": "ChatGPT",
-      "views": 10374,
-      "views_label": "10.374",
+      "title": "YouTube",
+      "views": 16195,
+      "views_label": "16.195",
       "is_new": false,
-      "change_pct": -43,
-      "change_abs": 43,
+      "change_pct": -22,
+      "change_abs": 22,
       "change_sign": "-",
       "history": [
-        6876,
-        19118,
-        24360,
-        25739,
-        23681,
-        20786,
-        12231
+        24457,
+        35788,
+        38126,
+        39637,
+        38270,
+        24128,
+        19230
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 14.57,
-          "y": 8,
+          "y": 5,
           "w": 12.57,
-          "h": 16
+          "h": 19
         },
         {
           "x": 29.14,
@@ -440,186 +440,186 @@
         },
         {
           "x": 58.29,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 72.86,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Yan Diomande",
+      "views": 15903,
+      "views_label": "15.903",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        7836,
+        3756,
+        25078,
+        21080,
+        5405,
+        3230,
+        17498
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 4,
+          "w": 12.57,
+          "h": 20
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Clayface (película)",
+      "views": 14454,
+      "views_label": "14.454",
+      "is_new": false,
+      "change_pct": 3,
+      "change_abs": 3,
+      "change_sign": "+",
+      "history": [
+        3349,
+        4278,
+        5569,
+        11909,
+        14844,
+        15775,
+        16660
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 43.71,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 58.29,
           "y": 3,
           "w": 12.57,
           "h": 21
         },
         {
           "x": 72.86,
-          "y": 6,
+          "y": 2,
           "w": 12.57,
-          "h": 18
-        },
-        {
-          "x": 87.43,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Festival de la Canción de Eurovisión Junior 2026",
-      "views": 10176,
-      "views_label": "10.176",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        1237,
-        1037,
-        875,
-        802,
-        828,
-        1619,
-        11016
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Charly García",
-      "views": 10110,
-      "views_label": "10.110",
-      "is_new": false,
-      "change_pct": -13,
-      "change_abs": 13,
-      "change_sign": "-",
-      "history": [
-        1007,
-        1007,
-        2441,
-        1748,
-        2068,
-        13332,
-        11494
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Raphael (cantante)",
-      "views": 9962,
-      "views_label": "9962",
-      "is_new": false,
-      "change_pct": 17,
-      "change_abs": 17,
-      "change_sign": "+",
+      "title": "Georgiana Cavendish",
+      "views": 12938,
+      "views_label": "12.938",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        33857,
-        21251,
-        14838,
-        11631,
-        11072,
-        9765,
-        11396
+        78,
+        103,
+        77,
+        103,
+        86,
+        133,
+        13438
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 43.71,
@@ -641,29 +641,29 @@
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         }
       ]
     },
     {
       "rank": 11,
-      "title": "Huracán Otis",
-      "views": 9862,
-      "views_label": "9862",
+      "title": "Karina Mazzocco",
+      "views": 12437,
+      "views_label": "12.437",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        297,
-        330,
-        379,
-        415,
-        530,
-        3974,
-        11011
+        299,
+        393,
+        1345,
+        525,
+        238,
+        277,
+        14380
       ],
       "sparkline_bars": [
         {
@@ -698,9 +698,9 @@
         },
         {
           "x": 72.86,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 87.43,
@@ -712,34 +712,34 @@
     },
     {
       "rank": 12,
-      "title": "Evento:Mes de América Latina 2026",
-      "views": 9403,
-      "views_label": "9403",
-      "is_new": false,
-      "change_pct": 28,
-      "change_abs": 28,
-      "change_sign": "+",
+      "title": "Rosa León",
+      "views": 12096,
+      "views_label": "12.096",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        11941,
-        12033,
-        8832,
-        8390,
-        8425,
-        8313,
-        13844
+        57,
+        49,
+        47,
+        48,
+        96,
+        83,
+        12498
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 29.14,
@@ -775,28 +775,28 @@
     },
     {
       "rank": 13,
-      "title": "Federico García Lorca",
-      "views": 9086,
-      "views_label": "9086",
-      "is_new": false,
-      "change_pct": 40,
-      "change_abs": 40,
-      "change_sign": "+",
+      "title": "Fogás de Monclús",
+      "views": 11857,
+      "views_label": "11.857",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        9007,
-        6995,
-        7036,
-        7603,
-        8191,
-        7089,
-        10031
+        10,
+        15,
+        20,
+        13,
+        7,
+        18,
+        12202
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 8,
+          "y": 22,
           "w": 12.57,
-          "h": 16
+          "h": 2
         },
         {
           "x": 14.57,
@@ -812,15 +812,15 @@
         },
         {
           "x": 43.71,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 72.86,
@@ -838,21 +838,21 @@
     },
     {
       "rank": 14,
-      "title": "Radio AM 750",
-      "views": 8888,
-      "views_label": "8888",
-      "is_new": false,
-      "change_pct": -13,
-      "change_abs": 13,
-      "change_sign": "-",
+      "title": "Marc Cucurella",
+      "views": 11772,
+      "views_label": "11.772",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        12935,
-        14464,
-        16114,
-        16856,
-        13198,
-        13936,
-        12645
+        960,
+        801,
+        1654,
+        1011,
+        744,
+        909,
+        12695
       ],
       "sparkline_bars": [
         {
@@ -863,59 +863,59 @@
         },
         {
           "x": 14.57,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 29.14,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
-        },
-        {
-          "x": 43.71,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 72.86,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 87.43,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 15,
-      "title": "Tesh Sidi",
-      "views": 8705,
-      "views_label": "8705",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Huracán Otis",
+      "views": 11720,
+      "views_label": "11.720",
+      "is_new": false,
+      "change_pct": 19,
+      "change_abs": 19,
+      "change_sign": "+",
       "history": [
-        519,
-        847,
-        11264,
-        2990,
-        1871,
-        4266,
-        9028
+        330,
+        379,
+        415,
+        530,
+        3974,
+        11011,
+        13285
       ],
       "sparkline_bars": [
         {
@@ -932,78 +932,78 @@
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 21,
+          "y": 17,
           "w": 12.57,
-          "h": 3
+          "h": 7
         },
         {
           "x": 72.86,
-          "y": 16,
+          "y": 4,
           "w": 12.57,
-          "h": 8
+          "h": 20
         },
         {
           "x": 87.43,
-          "y": 5,
+          "y": 0,
           "w": 12.57,
-          "h": 19
+          "h": 24
         }
       ]
     },
     {
       "rank": 16,
-      "title": "Elecciones generales de Brasil de 2026",
-      "views": 8079,
-      "views_label": "8079",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Raphael (cantante)",
+      "views": 11289,
+      "views_label": "11.289",
+      "is_new": false,
+      "change_pct": 13,
+      "change_abs": 13,
+      "change_sign": "+",
       "history": [
-        6208,
-        9117,
-        5681,
-        4612,
-        4544,
-        5002,
-        9672
+        21251,
+        14838,
+        11631,
+        11072,
+        9765,
+        11396,
+        12905
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
         },
         {
           "x": 14.57,
-          "y": 3,
+          "y": 13,
           "w": 12.57,
-          "h": 21
+          "h": 11
         },
         {
           "x": 29.14,
-          "y": 19,
+          "y": 20,
           "w": 12.57,
-          "h": 5
+          "h": 4
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
@@ -1013,192 +1013,192 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 17,
           "w": 12.57,
-          "h": 24
+          "h": 7
         }
       ]
     },
     {
       "rank": 17,
-      "title": "Premios Princesa de Asturias",
-      "views": 7826,
-      "views_label": "7826",
-      "is_new": false,
-      "change_pct": -30,
-      "change_abs": 30,
-      "change_sign": "-",
-      "history": [
-        382,
-        423,
-        340,
-        375,
-        4500,
-        12213,
-        8760
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "title": "Facebook",
-      "views": 7729,
-      "views_label": "7729",
-      "is_new": false,
-      "change_pct": -40,
-      "change_abs": 40,
-      "change_sign": "-",
-      "history": [
-        2783,
-        10890,
-        14072,
-        13136,
-        14335,
-        14327,
-        8827
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 29.14,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
-          "x": 43.71,
-          "y": 2,
-          "w": 12.57,
-          "h": 22
-        },
-        {
-          "x": 58.29,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "title": "Rafael Rodríguez Rapún",
-      "views": 7723,
-      "views_label": "7723",
+      "title": "Carmen Luvana",
+      "views": 11184,
+      "views_label": "11.184",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        7289,
-        5169,
-        6093,
-        6733,
-        6582,
-        4886,
-        8302
+        2235,
+        4241,
+        3044,
+        1465,
+        1170,
+        1308,
+        13807
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 14.57,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 29.14,
-          "y": 16,
+          "x": 14.57,
+          "y": 18,
           "w": 12.57,
-          "h": 8
+          "h": 6
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         },
         {
           "x": 43.71,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "La bola negra (película)",
+      "views": 10934,
+      "views_label": "10.934",
+      "is_new": false,
+      "change_pct": 0,
+      "change_abs": 0,
+      "change_sign": "",
+      "history": [
+        12262,
+        11023,
+        10502,
+        10333,
+        10373,
+        12026,
+        12154
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        },
+        {
+          "x": 87.43,
+          "y": 1,
+          "w": 12.57,
+          "h": 23
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Radio AM 750",
+      "views": 10744,
+      "views_label": "10.744",
+      "is_new": false,
+      "change_pct": 21,
+      "change_abs": 21,
+      "change_sign": "+",
+      "history": [
+        14464,
+        16114,
+        16856,
+        13198,
+        13936,
+        12645,
+        16911
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 14.57,
+          "y": 4,
+          "w": 12.57,
+          "h": 20
+        },
+        {
+          "x": 29.14,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 58.29,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
         },
         {
           "x": 72.86,
@@ -1216,46 +1216,46 @@
     },
     {
       "rank": 20,
-      "title": "Lizzie Borden",
-      "views": 7592,
-      "views_label": "7592",
-      "is_new": false,
-      "change_pct": 11,
-      "change_abs": 11,
-      "change_sign": "+",
+      "title": "La duquesa",
+      "views": 10234,
+      "views_label": "10.234",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        19010,
-        15202,
-        12198,
-        10888,
-        9993,
-        9442,
-        10054
+        43,
+        44,
+        27,
+        29,
+        29,
+        59,
+        10615
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 58.29,
@@ -1271,36 +1271,36 @@
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Kehlsteinhaus",
-      "views": 7565,
-      "views_label": "7565",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Evento:Mes de América Latina 2026",
+      "views": 9710,
+      "views_label": "9710",
+      "is_new": false,
+      "change_pct": 3,
+      "change_abs": 3,
+      "change_sign": "+",
       "history": [
-        132,
-        92,
-        95,
-        101,
-        81,
-        117,
-        8098
+        12033,
+        8832,
+        8390,
+        8425,
+        8313,
+        13844,
+        11290
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         },
         {
           "x": 14.57,
@@ -1328,35 +1328,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Jordi Wild",
-      "views": 7389,
-      "views_label": "7389",
+      "title": "Elecciones generales de Brasil de 2022",
+      "views": 9548,
+      "views_label": "9548",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        436,
-        568,
-        933,
-        740,
-        1511,
-        5866,
-        7782
+        1307,
+        926,
+        610,
+        581,
+        758,
+        1372,
+        10862
       ],
       "sparkline_bars": [
         {
@@ -1385,15 +1385,15 @@
         },
         {
           "x": 58.29,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 6,
+          "y": 22,
           "w": 12.57,
-          "h": 18
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1405,103 +1405,103 @@
     },
     {
       "rank": 23,
-      "title": "Pedro Sánchez",
-      "views": 7326,
-      "views_label": "7326",
+      "title": "ChatGPT",
+      "views": 9478,
+      "views_label": "9478",
       "is_new": false,
-      "change_pct": -50,
-      "change_abs": 50,
+      "change_pct": -9,
+      "change_abs": 9,
       "change_sign": "-",
       "history": [
-        4519,
-        5873,
-        4466,
-        5011,
-        21383,
-        15748,
-        8018
+        19118,
+        24360,
+        25739,
+        23681,
+        20786,
+        12231,
+        11389
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 11,
           "w": 12.57,
-          "h": 2
+          "h": 13
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 2,
           "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 72.86,
+          "x": 43.71,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        },
+        {
+          "x": 58.29,
           "y": 8,
           "w": 12.57,
           "h": 16
         },
         {
-          "x": 87.43,
-          "y": 19,
+          "x": 72.86,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Frente Amplio (España)",
-      "views": 7222,
-      "views_label": "7222",
-      "is_new": false,
-      "change_pct": 6,
-      "change_abs": 6,
-      "change_sign": "+",
+      "title": "Rafael Azcona",
+      "views": 9347,
+      "views_label": "9347",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        9840,
-        8834,
-        7382,
-        6573,
-        7217,
-        7246,
-        7743
+        293,
+        221,
+        178,
+        206,
+        482,
+        2048,
+        9715
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 18,
+          "y": 22,
           "w": 12.57,
-          "h": 6
+          "h": 2
         },
         {
           "x": 43.71,
@@ -1511,9 +1511,9 @@
         },
         {
           "x": 58.29,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1523,29 +1523,29 @@
         },
         {
           "x": 87.43,
-          "y": 15,
+          "y": 0,
           "w": 12.57,
-          "h": 9
+          "h": 24
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Jair Bolsonaro",
-      "views": 7088,
-      "views_label": "7088",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Federico García Lorca",
+      "views": 9201,
+      "views_label": "9201",
+      "is_new": false,
+      "change_pct": 1,
+      "change_abs": 1,
+      "change_sign": "+",
       "history": [
-        1671,
-        14669,
-        6129,
-        2692,
-        2127,
-        2995,
-        8043
+        6995,
+        7036,
+        7603,
+        8191,
+        7089,
+        10031,
+        10230
       ],
       "sparkline_bars": [
         {
@@ -1556,72 +1556,9 @@
         },
         {
           "x": 14.57,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 29.14,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "title": "Michael Rockefeller",
-      "views": 7086,
-      "views_label": "7086",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        1106,
-        2406,
-        2629,
-        3185,
-        8385,
-        4492,
-        7846
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
         },
         {
           "x": 29.14,
@@ -1631,9 +1568,72 @@
         },
         {
           "x": 43.71,
-          "y": 17,
+          "y": 15,
           "w": 12.57,
-          "h": 7
+          "h": 9
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 1,
+          "w": 12.57,
+          "h": 23
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "title": "Patti Smith",
+      "views": 9078,
+      "views_label": "9078",
+      "is_new": false,
+      "change_pct": -60,
+      "change_abs": 60,
+      "change_sign": "-",
+      "history": [
+        5716,
+        7873,
+        4535,
+        9401,
+        58650,
+        23623,
+        9705
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 58.29,
@@ -1643,35 +1643,35 @@
         },
         {
           "x": 72.86,
-          "y": 13,
+          "y": 16,
           "w": 12.57,
-          "h": 11
+          "h": 8
         },
         {
           "x": 87.43,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Mex Urtizberea",
-      "views": 6687,
-      "views_label": "6687",
+      "title": "Ariadna Gutiérrez",
+      "views": 8938,
+      "views_label": "8938",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        358,
-        201,
-        143,
-        87,
-        143,
-        219,
-        7398
+        49,
+        105,
+        301,
+        183,
+        209,
+        412,
+        11229
       ],
       "sparkline_bars": [
         {
@@ -1720,147 +1720,21 @@
     },
     {
       "rank": 28,
-      "title": "Leonor de Borbón",
-      "views": 6626,
-      "views_label": "6626",
+      "title": "Lizzie Borden",
+      "views": 8916,
+      "views_label": "8916",
       "is_new": false,
-      "change_pct": -4,
-      "change_abs": 4,
-      "change_sign": "-",
+      "change_pct": 17,
+      "change_abs": 17,
+      "change_sign": "+",
       "history": [
-        1239,
-        964,
-        1050,
-        1136,
-        1851,
-        7558,
-        7481
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "title": "Sergio Rico",
-      "views": 6603,
-      "views_label": "6603",
-      "is_new": false,
-      "change_pct": -67,
-      "change_abs": 67,
-      "change_sign": "-",
-      "history": [
-        111,
-        64,
-        16808,
-        12993,
-        4201,
-        20412,
-        6895
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
-        },
-        {
-          "x": 43.71,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 58.29,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "title": "Guitarricadelafuente",
-      "views": 6287,
-      "views_label": "6287",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        9370,
-        7234,
-        7117,
-        6571,
-        7050,
-        5591,
-        6793
+        15202,
+        12198,
+        10888,
+        9993,
+        9442,
+        10054,
+        11606
       ],
       "sparkline_bars": [
         {
@@ -1871,27 +1745,90 @@
         },
         {
           "x": 14.57,
-          "y": 14,
+          "y": 13,
           "w": 12.57,
-          "h": 10
+          "h": 11
         },
         {
           "x": 29.14,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 43.71,
           "y": 18,
           "w": 12.57,
           "h": 6
         },
         {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
           "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 87.43,
           "y": 15,
           "w": 12.57,
           "h": 9
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "José Mourinho",
+      "views": 8829,
+      "views_label": "8829",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        1515,
+        1623,
+        3009,
+        1826,
+        1518,
+        2330,
+        9692
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1901,9 +1838,72 @@
         },
         {
           "x": 87.43,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "title": "Elecciones parlamentarias de Serbia de 2026",
+      "views": 8754,
+      "views_label": "8754",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        113,
+        112,
+        237,
+        458,
+        761,
+        757,
+        9910
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     }
