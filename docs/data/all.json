@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-10-25",
-    "generated_at": "2026-10-26T09:09:40.010Z",
+    "generated_at": "2026-10-26T14:25:57.298Z",
     "has_thumbnail": true,
     "top_description": null,
     "spark_width": 100,
@@ -1538,50 +1538,43 @@
           186784,
           176492,
           157523,
-          96242,
-          84612
+          96242
         ],
         "sparkline_bars": [
           {
             "x": 0,
-            "y": 16,
-            "w": 12.57,
-            "h": 8
+            "y": 18,
+            "w": 15,
+            "h": 6
           },
           {
-            "x": 14.57,
+            "x": 17,
             "y": 6,
-            "w": 12.57,
+            "w": 15,
             "h": 18
           },
           {
-            "x": 29.14,
+            "x": 34,
             "y": 0,
-            "w": 12.57,
+            "w": 15,
             "h": 24
           },
           {
-            "x": 43.71,
-            "y": 2,
-            "w": 12.57,
-            "h": 22
+            "x": 51,
+            "y": 3,
+            "w": 15,
+            "h": 21
           },
           {
-            "x": 58.29,
-            "y": 7,
-            "w": 12.57,
-            "h": 17
+            "x": 68,
+            "y": 8,
+            "w": 15,
+            "h": 16
           },
           {
-            "x": 72.86,
-            "y": 21,
-            "w": 12.57,
-            "h": 3
-          },
-          {
-            "x": 87.43,
+            "x": 85,
             "y": 22,
-            "w": 12.57,
+            "w": 15,
             "h": 2
           }
         ]
@@ -1906,7 +1899,7 @@
   {
     "lang": "fr",
     "date": "2026-10-25",
-    "generated_at": "2026-10-26T09:09:48.096Z",
+    "generated_at": "2026-10-26T14:26:05.050Z",
     "has_thumbnail": false,
     "top_description": "élection au Brésil",
     "spark_width": 100,
@@ -3789,7 +3782,7 @@
   {
     "lang": "de",
     "date": "2026-10-25",
-    "generated_at": "2026-10-26T09:09:55.933Z",
+    "generated_at": "2026-10-26T14:26:12.688Z",
     "has_thumbnail": true,
     "top_description": "deutsche Fernsehansagerin (1942-2026)",
     "spark_width": 100,
@@ -5700,7 +5693,7 @@
   {
     "lang": "es",
     "date": "2026-10-25",
-    "generated_at": "2026-10-26T09:10:04.134Z",
+    "generated_at": "2026-10-26T14:26:20.348Z",
     "has_thumbnail": true,
     "top_description": "proceso electoral presidencial y de otros cargos en Brasil a nivel nacional en 2026",
     "spark_width": 100,
