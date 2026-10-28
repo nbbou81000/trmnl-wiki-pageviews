@@ -1,39 +1,39 @@
 {
   "lang": "fr",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-27T13:24:32.683Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-28T07:20:24.056Z",
   "has_thumbnail": true,
-  "top_description": "footballeuse espagnole",
+  "top_description": "footballeur anglais",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 19315418,
-  "site_total_label": "19 315 418",
-  "site_total_compact": "19,3M",
-  "site_vs_pct": 3,
-  "site_vs_abs": 3,
-  "site_vs_sign": "+",
-  "total_views": 1092445,
-  "total_views_label": "1 092 445",
-  "top_riser_title": "Luiz Inácio Lula da Silva",
-  "top_riser_pct": 366,
+  "site_total": 16669965,
+  "site_total_label": "16 669 965",
+  "site_total_compact": "16,7M",
+  "site_vs_pct": -14,
+  "site_vs_abs": 14,
+  "site_vs_sign": "-",
+  "total_views": 766975,
+  "total_views_label": "766 975",
+  "top_riser_title": null,
+  "top_riser_pct": null,
   "articles": [
     {
       "rank": 1,
-      "title": "Alexia Putellas",
-      "views": 100430,
-      "views_label": "100 430",
+      "title": "Harry Kane",
+      "views": 92811,
+      "views_label": "92 811",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        189,
-        130,
-        166,
-        160,
-        232,
-        319,
-        101372
+        3876,
+        3135,
+        2063,
+        1741,
+        2863,
+        70252,
+        95141
       ],
       "sparkline_bars": [
         {
@@ -68,9 +68,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 6,
           "w": 12.57,
-          "h": 2
+          "h": 18
         },
         {
           "x": 87.43,
@@ -83,20 +83,20 @@
     {
       "rank": 2,
       "title": "Ballon d'or 2026",
-      "views": 98504,
-      "views_label": "98 504",
+      "views": 58500,
+      "views_label": "58 500",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        2828,
         2142,
         2503,
         2855,
         3232,
         5920,
-        101867
+        101867,
+        60524
       ],
       "sparkline_bars": [
         {
@@ -131,98 +131,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Luiz Inácio Lula da Silva",
-      "views": 90954,
-      "views_label": "90 954",
-      "is_new": false,
-      "change_pct": 366,
-      "change_abs": 366,
-      "change_sign": "+",
-      "history": [
-        3980,
-        1708,
-        1505,
-        2729,
-        4458,
-        20038,
-        93101
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Ballon d'or",
-      "views": 81768,
-      "views_label": "81 768",
+      "views": 53456,
+      "views_label": "53 456",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        3529,
         2590,
         2822,
         3428,
         3422,
         6289,
-        84024
+        84024,
+        55226
       ],
       "sparkline_bars": [
         {
@@ -257,35 +194,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "Harry Kane",
-      "views": 69272,
-      "views_label": "69 272",
+      "rank": 4,
+      "title": "Alexia Putellas",
+      "views": 43916,
+      "views_label": "43 916",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1098,
-        3876,
-        3135,
-        2063,
-        1741,
-        2863,
-        70252
+        130,
+        166,
+        160,
+        232,
+        319,
+        101372,
+        45156
       ],
       "sparkline_bars": [
         {
@@ -317,6 +254,69 @@
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "David Lisnard",
+      "views": 39185,
+      "views_label": "39 185",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        37712,
+        26916,
+        23671,
+        19691,
+        21677,
+        17408,
+        40507
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        },
+        {
+          "x": 14.57,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 29.14,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         },
         {
           "x": 72.86,
@@ -334,21 +334,21 @@
     },
     {
       "rank": 6,
-      "title": "Michèle Barzach",
-      "views": 53914,
-      "views_label": "53 914",
+      "title": "Mao Zedong",
+      "views": 36779,
+      "views_label": "36 779",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        30,
-        33,
-        30,
-        75,
-        40,
-        43,
-        54813
+        652,
+        667,
+        660,
+        667,
+        670,
+        775,
+        37811
       ],
       "sparkline_bars": [
         {
@@ -397,84 +397,21 @@
     },
     {
       "rank": 7,
-      "title": "Élection présidentielle brésilienne de 2026",
-      "views": 39258,
-      "views_label": "39 258",
-      "is_new": false,
-      "change_pct": -16,
-      "change_abs": 16,
-      "change_sign": "-",
-      "history": [
-        3090,
-        2127,
-        2152,
-        2864,
-        5159,
-        48652,
-        41556
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ballon d'or féminin",
-      "views": 37301,
-      "views_label": "37 301",
+      "title": "Élections législatives israéliennes de 2026",
+      "views": 34478,
+      "views_label": "34 478",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        157,
-        126,
-        145,
-        140,
-        253,
-        367,
-        37684
+        1536,
+        1682,
+        1858,
+        2056,
+        4548,
+        9556,
+        35801
       ],
       "sparkline_bars": [
         {
@@ -500,69 +437,6 @@
           "y": 22,
           "w": 12.57,
           "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
-      "views": 35092,
-      "views_label": "35 092",
-      "is_new": false,
-      "change_pct": 17,
-      "change_abs": 17,
-      "change_sign": "+",
-      "history": [
-        44737,
-        40023,
-        35683,
-        35786,
-        29857,
-        33740,
-        39154
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 14.57,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 29.14,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 43.71,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
         },
         {
           "x": 58.29,
@@ -578,69 +452,6 @@
         },
         {
           "x": 87.43,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Kylian Mbappé",
-      "views": 32782,
-      "views_label": "32 782",
-      "is_new": false,
-      "change_pct": 138,
-      "change_abs": 138,
-      "change_sign": "+",
-      "history": [
-        5323,
-        6599,
-        6650,
-        4841,
-        4502,
-        14453,
-        33988
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
@@ -648,85 +459,211 @@
       ]
     },
     {
-      "rank": 11,
-      "title": "Jair Bolsonaro",
-      "views": 31755,
-      "views_label": "31 755",
-      "is_new": false,
-      "change_pct": 184,
-      "change_abs": 184,
-      "change_sign": "+",
-      "history": [
-        3450,
-        1233,
-        1089,
-        1542,
-        2317,
-        11429,
-        32385
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "Unai Simón",
-      "views": 31748,
-      "views_label": "31 748",
+      "rank": 8,
+      "title": "Liste de sondages sur l'élection présidentielle française de 2027",
+      "views": 28688,
+      "views_label": "28 688",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        474,
-        255,
-        98,
-        74,
-        128,
-        233,
-        32002
+        40023,
+        35683,
+        35786,
+        29857,
+        33740,
+        39154,
+        32280
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 29.14,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 72.86,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Ali Rabeh",
+      "views": 26760,
+      "views_label": "26 760",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        61,
+        97,
+        63073,
+        38965,
+        19752,
+        16321,
+        27171
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 58.29,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 72.86,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 87.43,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Lionel Messi",
+      "views": 24984,
+      "views_label": "24 984",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        26627,
+        24184,
+        51309,
+        32337,
+        24720,
+        24592,
+        26531
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Kylian Mbappé",
+      "views": 24460,
+      "views_label": "24 460",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        6599,
+        6650,
+        4841,
+        4502,
+        14453,
+        33988,
+        25684
       ],
       "sparkline_bars": [
         {
@@ -755,15 +692,78 @@
         },
         {
           "x": 58.29,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Gadi Eizenkot",
+      "views": 23937,
+      "views_label": "23 937",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        584,
+        796,
+        849,
+        1127,
+        3517,
+        6189,
+        24967
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 72.86,
+          "x": 14.57,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         },
         {
           "x": 87.43,
@@ -775,21 +775,21 @@
     },
     {
       "rank": 13,
-      "title": "Charlyn Corral",
-      "views": 29717,
-      "views_label": "29 717",
+      "title": "Michael Schumacher",
+      "views": 21804,
+      "views_label": "21 804",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        2,
-        4,
-        1,
-        2,
-        1,
-        3,
-        29926
+        1105,
+        1106,
+        1255,
+        1481,
+        2003,
+        4408,
+        22156
       ],
       "sparkline_bars": [
         {
@@ -824,9 +824,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 87.43,
@@ -838,28 +838,28 @@
     },
     {
       "rank": 14,
-      "title": "Mélodie en sous-sol",
-      "views": 27362,
-      "views_label": "27 362",
+      "title": "XXX",
+      "views": 20429,
+      "views_label": "20 429",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        104,
-        77,
-        125,
-        188,
-        223,
-        683,
-        27633
+        16355,
+        11588,
+        20279,
+        23203,
+        23464,
+        23674,
+        22337
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 14.57,
@@ -869,60 +869,60 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
         }
       ]
     },
     {
       "rank": 15,
-      "title": "Constance Labbé",
-      "views": 23809,
-      "views_label": "23 809",
-      "is_new": false,
-      "change_pct": 90,
-      "change_abs": 90,
-      "change_sign": "+",
+      "title": "Luiz Inácio Lula da Silva",
+      "views": 19379,
+      "views_label": "19 379",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        7184,
-        4583,
-        3472,
-        4294,
-        5433,
-        12657,
-        24003
+        1708,
+        1505,
+        2729,
+        4458,
+        20038,
+        93101,
+        20093
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 14.57,
@@ -944,48 +944,48 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 72.86,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         }
       ]
     },
     {
       "rank": 16,
-      "title": "Lionel Messi",
-      "views": 23425,
-      "views_label": "23 425",
-      "is_new": false,
-      "change_pct": 2,
-      "change_abs": 2,
-      "change_sign": "+",
+      "title": "Dorothée (animatrice)",
+      "views": 17613,
+      "views_label": "17 613",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        35974,
-        26627,
-        24184,
-        51309,
-        32337,
-        24720,
-        24592
+        429,
+        874,
+        541,
+        496,
+        501,
+        381,
+        17828
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 14.57,
@@ -1001,15 +1001,15 @@
         },
         {
           "x": 43.71,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 72.86,
@@ -1019,29 +1019,29 @@
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         }
       ]
     },
     {
       "rank": 17,
-      "title": "Thierry Henry",
-      "views": 23276,
-      "views_label": "23 276",
+      "title": "Michèle Barzach",
+      "views": 17565,
+      "views_label": "17 565",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1395,
-        1275,
-        1404,
-        1247,
-        1102,
-        1233,
-        23585
+        33,
+        30,
+        75,
+        40,
+        43,
+        54813,
+        18070
       ],
       "sparkline_bars": [
         {
@@ -1076,60 +1076,60 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     },
     {
       "rank": 18,
-      "title": "Sarah Bernhardt",
-      "views": 23188,
-      "views_label": "23 188",
+      "title": "YouTube",
+      "views": 17224,
+      "views_label": "17 224",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        474,
-        419,
-        556,
-        741,
-        656,
-        990,
-        23396
+        17063,
+        17149,
+        17378,
+        13454,
+        12617,
+        18874,
+        19152
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
@@ -1139,9 +1139,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         },
         {
           "x": 87.43,
@@ -1153,34 +1153,34 @@
     },
     {
       "rank": 19,
-      "title": "Lamine Yamal",
-      "views": 22945,
-      "views_label": "22 945",
+      "title": "Corinne Luchaire",
+      "views": 16490,
+      "views_label": "16 490",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        12715,
-        6501,
-        4155,
-        3787,
-        3774,
-        7392,
-        23506
+        471,
+        432,
+        506,
+        740,
+        868,
+        601,
+        16627
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 29.14,
@@ -1202,9 +1202,9 @@
         },
         {
           "x": 72.86,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1216,21 +1216,21 @@
     },
     {
       "rank": 20,
-      "title": "Luis de la Fuente (football, 1961)",
-      "views": 22833,
-      "views_label": "22 833",
+      "title": "Jean Luchaire",
+      "views": 16332,
+      "views_label": "16 332",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        155,
-        172,
-        104,
-        98,
-        119,
-        139,
-        23107
+        482,
+        421,
+        514,
+        768,
+        909,
+        707,
+        16453
       ],
       "sparkline_bars": [
         {
@@ -1279,21 +1279,21 @@
     },
     {
       "rank": 21,
-      "title": "XXX",
-      "views": 21939,
-      "views_label": "21 939",
-      "is_new": false,
-      "change_pct": 5,
-      "change_abs": 5,
-      "change_sign": "+",
+      "title": "Constance Labbé",
+      "views": 15758,
+      "views_label": "15 758",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        8870,
-        16355,
-        11588,
-        20279,
-        23203,
-        23464,
-        23674
+        4583,
+        3472,
+        4294,
+        5433,
+        12657,
+        24003,
+        15925
       ],
       "sparkline_bars": [
         {
@@ -1304,27 +1304,27 @@
         },
         {
           "x": 14.57,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 6,
+          "y": 22,
           "w": 12.57,
-          "h": 18
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 1,
+          "y": 13,
           "w": 12.57,
-          "h": 23
+          "h": 11
         },
         {
           "x": 72.86,
@@ -1334,29 +1334,29 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 9,
           "w": 12.57,
-          "h": 24
+          "h": 15
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Flávio Bolsonaro",
-      "views": 20464,
-      "views_label": "20 464",
-      "is_new": false,
-      "change_pct": 120,
-      "change_abs": 120,
-      "change_sign": "+",
+      "title": "Ballon d'or féminin",
+      "views": 14829,
+      "views_label": "14 829",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1672,
-        909,
-        837,
-        1122,
-        1941,
-        9762,
-        21389
+        126,
+        145,
+        140,
+        253,
+        367,
+        37684,
+        15327
       ],
       "sparkline_bars": [
         {
@@ -1391,42 +1391,42 @@
         },
         {
           "x": 72.86,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
         }
       ]
     },
     {
       "rank": 23,
-      "title": "Ronaldo",
-      "views": 19966,
-      "views_label": "19 966",
+      "title": "Lamine Yamal",
+      "views": 14753,
+      "views_label": "14 753",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1076,
-        976,
-        975,
-        987,
-        1044,
-        1405,
-        20244
+        6501,
+        4155,
+        3787,
+        3774,
+        7392,
+        23506,
+        15418
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 14.57,
@@ -1448,41 +1448,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Aitana Bonmatí",
-      "views": 19226,
-      "views_label": "19 226",
+      "title": "Aurélie Casse",
+      "views": 13602,
+      "views_label": "13 602",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        227,
-        231,
-        279,
-        259,
-        353,
-        608,
-        19346
+        1291,
+        1995,
+        1290,
+        856,
+        573,
+        18613,
+        13812
       ],
       "sparkline_bars": [
         {
@@ -1517,54 +1517,54 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Vicky López",
-      "views": 18780,
-      "views_label": "18 780",
+      "title": "General Sherman (arbre)",
+      "views": 13415,
+      "views_label": "13 415",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        60,
-        37,
-        52,
-        44,
-        74,
-        82,
-        18985
+        10503,
+        12641,
+        8874,
+        5994,
+        8123,
+        11563,
+        13450
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 3,
           "w": 12.57,
-          "h": 2
+          "h": 21
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 43.71,
@@ -1574,15 +1574,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 17,
           "w": 12.57,
-          "h": 2
+          "h": 7
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 6,
           "w": 12.57,
-          "h": 2
+          "h": 18
         },
         {
           "x": 87.43,
@@ -1594,40 +1594,40 @@
     },
     {
       "rank": 26,
-      "title": "Bukayo Saka",
-      "views": 18652,
-      "views_label": "18 652",
+      "title": "ChatGPT",
+      "views": 12989,
+      "views_label": "12 989",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        224,
-        634,
-        317,
-        243,
-        306,
-        186,
-        18850
+        11203,
+        11485,
+        8809,
+        6326,
+        6249,
+        10847,
+        14307
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 43.71,
@@ -1643,9 +1643,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 10,
           "w": 12.57,
-          "h": 2
+          "h": 14
         },
         {
           "x": 87.43,
@@ -1657,21 +1657,21 @@
     },
     {
       "rank": 27,
-      "title": "Michael Owen (football)",
-      "views": 18600,
-      "views_label": "18 600",
+      "title": "Les Rayons et les Ombres (film)",
+      "views": 12428,
+      "views_label": "12 428",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        259,
-        216,
-        653,
-        788,
-        480,
-        524,
-        18761
+        645,
+        522,
+        669,
+        907,
+        1073,
+        800,
+        12556
       ],
       "sparkline_bars": [
         {
@@ -1720,21 +1720,21 @@
     },
     {
       "rank": 28,
-      "title": "Gary Cooper",
-      "views": 18551,
-      "views_label": "18 551",
+      "title": "Otto Abetz",
+      "views": 11692,
+      "views_label": "11 692",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        207,
-        201,
-        286,
-        295,
-        289,
-        795,
-        18686
+        381,
+        351,
+        330,
+        514,
+        577,
+        382,
+        11804
       ],
       "sparkline_bars": [
         {
@@ -1783,126 +1783,98 @@
     },
     {
       "rank": 29,
-      "title": "Cat's Eyes (série télévisée)",
-      "views": 18526,
-      "views_label": "18 526",
+      "title": "Sarah Knafo",
+      "views": 11376,
+      "views_label": "11 376",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        10301,
-        6542,
-        4963,
-        5037,
-        5345,
-        6072,
-        18836
+        16240,
+        35650,
+        30387,
+        19598,
+        16683,
+        15309,
+        12030
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 15,
+          "y": 20,
           "w": 12.57,
-          "h": 9
+          "h": 4
         },
         {
           "x": 14.57,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 29.14,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 43.71,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 58.29,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        },
+        {
+          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
           "x": 87.43,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         }
       ]
     },
     {
       "rank": 30,
-      "title": "Aurélie Casse",
-      "views": 18408,
-      "views_label": "18 408",
+      "title": "Attentat de Trappes et La Verrière",
+      "views": 11343,
+      "views_label": "11 343",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1878,
-        1291,
-        1995,
-        1290,
-        856,
-        573,
-        18613
+        6637,
+        11597,
+        12429
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 12.57,
+          "w": 32,
           "h": 2
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "x": 34,
+          "y": 3,
+          "w": 32,
+          "h": 21
         },
         {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
+          "x": 68,
           "y": 0,
-          "w": 12.57,
+          "w": 32,
           "h": 24
         }
       ]
