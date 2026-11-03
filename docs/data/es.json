@@ -1,95 +1,46 @@
 {
   "lang": "es",
-  "date": "2026-11-01",
-  "generated_at": "2026-11-02T17:16:37.802Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-03T05:48:24.582Z",
   "has_thumbnail": true,
-  "top_description": "accidente ferroviario en el termino municipal de Los Yébenes, cerca de la localidad de Urda, España, de 2026",
+  "top_description": "Ingeniero, exguerrillero y político colombiano",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 15030398,
-  "site_total_label": "15.030.398",
+  "site_total": 15026354,
+  "site_total_label": "15.026.354",
   "site_total_compact": "15,0M",
-  "site_vs_pct": 10,
-  "site_vs_abs": 10,
-  "site_vs_sign": "+",
-  "total_views": 438399,
-  "total_views_label": "438.399",
-  "top_riser_title": null,
-  "top_riser_pct": null,
+  "site_vs_pct": 0,
+  "site_vs_abs": 0,
+  "site_vs_sign": "",
+  "total_views": 399742,
+  "total_views_label": "399.742",
+  "top_riser_title": "Antonio Navarro Wolff",
+  "top_riser_pct": 174,
   "articles": [
     {
       "rank": 1,
-      "title": "Accidente ferroviario de Urda",
-      "views": 57131,
-      "views_label": "57.131",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Antonio Navarro Wolff",
+      "views": 40304,
+      "views_label": "40.304",
+      "is_new": false,
+      "change_pct": 174,
+      "change_abs": 174,
+      "change_sign": "+",
       "history": [
-        6489,
-        20614,
-        14190,
-        41338,
-        291233
+        82,
+        83,
+        72,
+        85,
+        62,
+        16197,
+        44813
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 18.4,
-          "h": 2
-        },
-        {
-          "x": 20.4,
-          "y": 22,
-          "w": 18.4,
-          "h": 2
-        },
-        {
-          "x": 40.8,
-          "y": 22,
-          "w": 18.4,
-          "h": 2
-        },
-        {
-          "x": 61.2,
-          "y": 21,
-          "w": 18.4,
-          "h": 3
-        },
-        {
-          "x": 81.6,
-          "y": 0,
-          "w": 18.4,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Andrea Kimi Antonelli",
-      "views": 27348,
-      "views_label": "27.348",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        4820,
-        1753,
-        1275,
-        1486,
-        1769,
-        2617,
-        28379
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 21,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 14.57,
@@ -117,9 +68,72 @@
         },
         {
           "x": 72.86,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Andrea Kimi Antonelli",
+      "views": 34397,
+      "views_label": "34.397",
+      "is_new": false,
+      "change_pct": 26,
+      "change_abs": 26,
+      "change_sign": "+",
+      "history": [
+        1753,
+        1275,
+        1486,
+        1769,
+        2617,
+        28379,
+        35677
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
         },
         {
           "x": 87.43,
@@ -131,147 +145,140 @@
     },
     {
       "rank": 3,
-      "title": "Halloween",
-      "views": 25607,
-      "views_label": "25.607",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Accidente ferroviario de Urda",
+      "views": 29898,
+      "views_label": "29.898",
+      "is_new": false,
+      "change_pct": -48,
+      "change_abs": 48,
+      "change_sign": "-",
       "history": [
-        7149,
-        8567,
-        9926,
-        12292,
-        21742,
-        42846,
-        28236
+        6489,
+        20614,
+        14190,
+        41338,
+        291233,
+        159475
       ],
       "sparkline_bars": [
         {
           "x": 0,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 14.57,
+          "x": 17,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 29.14,
+          "x": 34,
           "y": 22,
-          "w": 12.57,
+          "w": 15,
           "h": 2
         },
         {
-          "x": 43.71,
+          "x": 51,
           "y": 21,
-          "w": 12.57,
+          "w": 15,
           "h": 3
         },
         {
-          "x": 58.29,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 72.86,
+          "x": 68,
           "y": 0,
-          "w": 12.57,
+          "w": 15,
           "h": 24
         },
         {
-          "x": 87.43,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
+          "x": 85,
+          "y": 11,
+          "w": 15,
+          "h": 13
         }
       ]
     },
     {
       "rank": 4,
       "title": "Día de Muertos",
-      "views": 24327,
-      "views_label": "24.327",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 19498,
+      "views_label": "19.498",
+      "is_new": false,
+      "change_pct": -20,
+      "change_abs": 20,
+      "change_sign": "-",
       "history": [
-        9217,
         13289,
         12941,
         11186,
         10266,
         12808,
-        26269
+        26269,
+        21266
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 14.57,
-          "y": 18,
+          "y": 20,
           "w": 12.57,
-          "h": 6
+          "h": 4
         },
         {
           "x": 29.14,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 43.71,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 58.29,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 72.86,
-          "y": 19,
+          "x": 43.71,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
-          "x": 87.43,
+          "x": 58.29,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Heidi Klum",
-      "views": 20537,
-      "views_label": "20.537",
+      "title": "Gonzalo Miró",
+      "views": 19495,
+      "views_label": "19.495",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        471,
-        527,
-        488,
-        644,
-        833,
-        1449,
-        21204
+        1514,
+        361,
+        2018,
+        1150,
+        594,
+        722,
+        19914
       ],
       "sparkline_bars": [
         {
@@ -320,21 +327,21 @@
     },
     {
       "rank": 6,
-      "title": "Día de Todos los Santos",
-      "views": 19532,
-      "views_label": "19.532",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Lucas Martínez Quarta",
+      "views": 19246,
+      "views_label": "19.246",
+      "is_new": false,
+      "change_pct": 96,
+      "change_abs": 96,
+      "change_sign": "+",
       "history": [
-        2562,
-        2978,
-        3261,
-        3932,
-        5702,
-        9423,
-        22057
+        85,
+        108,
+        100,
+        140,
+        103,
+        10954,
+        20146
       ],
       "sparkline_bars": [
         {
@@ -363,15 +370,15 @@
         },
         {
           "x": 58.29,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 16,
+          "y": 11,
           "w": 12.57,
-          "h": 8
+          "h": 13
         },
         {
           "x": 87.43,
@@ -383,21 +390,21 @@
     },
     {
       "rank": 7,
-      "title": "Inés Gómez Mont",
-      "views": 19493,
-      "views_label": "19.493",
+      "title": "Jesús de Miguel Alameda",
+      "views": 16249,
+      "views_label": "16.249",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        238,
-        180,
-        99,
-        91,
-        27834,
-        63638,
-        20361
+        2,
+        8,
+        8,
+        7,
+        9,
+        3,
+        16480
       ],
       "sparkline_bars": [
         {
@@ -426,41 +433,41 @@
         },
         {
           "x": 58.29,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Antonio Navarro Wolff",
-      "views": 14690,
-      "views_label": "14.690",
+      "title": "Pilar Miró",
+      "views": 12473,
+      "views_label": "12.473",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        109,
-        82,
-        83,
-        72,
-        85,
-        62,
-        16197
+        691,
+        212,
+        629,
+        421,
+        233,
+        343,
+        12720
       ],
       "sparkline_bars": [
         {
@@ -509,21 +516,21 @@
     },
     {
       "rank": 9,
-      "title": "China Ansa",
-      "views": 13948,
-      "views_label": "13.948",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Día de los Fieles Difuntos",
+      "views": 12377,
+      "views_label": "12.377",
+      "is_new": false,
+      "change_pct": 45,
+      "change_abs": 45,
+      "change_sign": "+",
       "history": [
-        267,
-        1049,
-        1548,
-        1562,
-        3256,
-        907,
-        14621
+        1892,
+        2080,
+        2510,
+        3446,
+        4932,
+        9616,
+        14312
       ],
       "sparkline_bars": [
         {
@@ -546,21 +553,21 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
-          "y": 19,
+          "y": 18,
           "w": 12.57,
-          "h": 5
+          "h": 6
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 9,
           "w": 12.57,
-          "h": 2
+          "h": 15
         },
         {
           "x": 87.43,
@@ -572,34 +579,34 @@
     },
     {
       "rank": 10,
-      "title": "Accidente ferroviario de Santiago de Compostela",
-      "views": 12867,
-      "views_label": "12.867",
+      "title": "WhatsApp",
+      "views": 11686,
+      "views_label": "11.686",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        199,
-        108,
-        50413,
-        40036,
-        32572,
-        22500,
-        13532
+        39875,
+        38484,
+        41576,
+        25622,
+        10616,
+        4307,
+        14049
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 2,
           "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 29.14,
@@ -609,21 +616,21 @@
         },
         {
           "x": 43.71,
-          "y": 5,
+          "y": 10,
           "w": 12.57,
-          "h": 19
+          "h": 14
         },
         {
           "x": 58.29,
-          "y": 9,
+          "y": 20,
           "w": 12.57,
-          "h": 15
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 87.43,
@@ -635,21 +642,21 @@
     },
     {
       "rank": 11,
-      "title": "Canelo Álvarez",
-      "views": 12859,
-      "views_label": "12.859",
+      "title": "Learjet 60",
+      "views": 11603,
+      "views_label": "11.603",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1044,
-        999,
-        1160,
-        1310,
-        2014,
-        15229,
-        13657
+        33,
+        75,
+        26,
+        24,
+        21,
+        2150,
+        12245
       ],
       "sparkline_bars": [
         {
@@ -684,198 +691,198 @@
         },
         {
           "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "Álex de Miñaur",
-      "views": 12548,
-      "views_label": "12.548",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        348,
-        105,
-        210,
-        103,
-        527,
-        3986,
-        12860
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 17,
-          "w": 12.57,
-          "h": 7
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "Brian Fariñas Pérez",
-      "views": 11876,
-      "views_label": "11.876",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        166,
-        250,
-        171,
-        209,
-        713,
-        27888,
-        12241
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "title": "Lamine Yamal",
-      "views": 11733,
-      "views_label": "11.733",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        10067,
-        9476,
-        4108,
-        3025,
-        2290,
-        5018,
-        12477
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 6,
-          "w": 12.57,
-          "h": 18
-        },
-        {
-          "x": 14.57,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 29.14,
           "y": 20,
           "w": 12.57,
           "h": 4
         },
         {
-          "x": 43.71,
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Accidente ferroviario de Santiago de Compostela",
+      "views": 11086,
+      "views_label": "11.086",
+      "is_new": false,
+      "change_pct": -14,
+      "change_abs": 14,
+      "change_sign": "-",
+      "history": [
+        108,
+        50413,
+        40036,
+        32572,
+        22500,
+        13532,
+        12004
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 58.29,
-          "y": 22,
+          "x": 14.57,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
+        },
+        {
+          "x": 29.14,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 43.71,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 58.29,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
         },
         {
           "x": 72.86,
           "y": 18,
           "w": 12.57,
           "h": 6
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Inés Gómez Mont",
+      "views": 10832,
+      "views_label": "10.832",
+      "is_new": false,
+      "change_pct": -44,
+      "change_abs": 44,
+      "change_sign": "-",
+      "history": [
+        180,
+        99,
+        91,
+        27834,
+        63638,
+        20361,
+        11348
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 58.29,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 87.43,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Temporada 2026 de Fórmula 1",
+      "views": 10822,
+      "views_label": "10.822",
+      "is_new": false,
+      "change_pct": 40,
+      "change_abs": 40,
+      "change_sign": "+",
+      "history": [
+        1660,
+        1383,
+        1280,
+        1537,
+        2500,
+        8289,
+        11772
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         },
         {
           "x": 87.43,
@@ -887,172 +894,46 @@
     },
     {
       "rank": 15,
-      "title": "Valerio Lazarov",
-      "views": 11313,
-      "views_label": "11.313",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "ChatGPT",
+      "views": 10443,
+      "views_label": "10.443",
+      "is_new": false,
+      "change_pct": 63,
+      "change_abs": 63,
+      "change_sign": "+",
       "history": [
-        28,
-        140,
-        93,
-        235,
-        177,
-        157,
-        11540
+        28236,
+        27085,
+        30035,
+        15194,
+        8732,
+        7860,
+        12278
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "title": "Patrick Stewart",
-      "views": 11225,
-      "views_label": "11.225",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        184,
-        296,
-        195,
-        122633,
-        112567,
-        25967,
-        12068
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 58.29,
           "y": 2,
           "w": 12.57,
           "h": 22
         },
         {
-          "x": 72.86,
-          "y": 19,
+          "x": 14.57,
+          "y": 3,
           "w": 12.57,
-          "h": 5
+          "h": 21
         },
         {
-          "x": 87.43,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "Yan Diomande",
-      "views": 11139,
-      "views_label": "11.139",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        14487,
-        6636,
-        3370,
-        2259,
-        1971,
-        2132,
-        11692
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
+          "x": 29.14,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 14.57,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 29.14,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
           "x": 43.71,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 58.29,
@@ -1068,29 +949,92 @@
         },
         {
           "x": 87.43,
-          "y": 5,
+          "y": 19,
           "w": 12.57,
-          "h": 19
+          "h": 5
         }
       ]
     },
     {
-      "rank": 18,
-      "title": "Almudena Cid",
-      "views": 10969,
-      "views_label": "10.969",
+      "rank": 16,
+      "title": "Buscador de Yandex",
+      "views": 10313,
+      "views_label": "10.313",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        80,
-        75,
-        92,
-        214,
-        291,
-        293,
-        11220
+        7,
+        14,
+        17,
+        4,
+        141,
+        4911,
+        10316
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "views": 9713,
+      "views_label": "9713",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        424,
+        312,
+        328,
+        340,
+        321,
+        355,
+        10270
       ],
       "sparkline_bars": [
         {
@@ -1128,6 +1072,69 @@
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Pedro Rosemblat",
+      "views": 9590,
+      "views_label": "9590",
+      "is_new": false,
+      "change_pct": 43,
+      "change_abs": 43,
+      "change_sign": "+",
+      "history": [
+        288,
+        285,
+        247,
+        396,
+        3741,
+        7209,
+        10138
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 72.86,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
         },
         {
           "x": 87.43,
@@ -1140,20 +1147,20 @@
     {
       "rank": 19,
       "title": "Matthew Perry (actor)",
-      "views": 10812,
-      "views_label": "10.812",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 9227,
+      "views_label": "9227",
+      "is_new": false,
+      "change_pct": -15,
+      "change_abs": 15,
+      "change_sign": "-",
       "history": [
-        1659,
         8036,
         11121,
         9906,
         8095,
         10587,
-        11244
+        11244,
+        9664
       ],
       "sparkline_bars": [
         {
@@ -1164,59 +1171,59 @@
         },
         {
           "x": 14.57,
-          "y": 8,
+          "y": 1,
           "w": 12.57,
-          "h": 16
+          "h": 23
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 10,
           "w": 12.57,
-          "h": 24
+          "h": 14
         },
         {
           "x": 43.71,
-          "y": 3,
+          "y": 22,
           "w": 12.57,
-          "h": 21
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 8,
+          "y": 5,
           "w": 12.57,
-          "h": 16
+          "h": 19
         },
         {
           "x": 72.86,
-          "y": 2,
-          "w": 12.57,
-          "h": 22
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
         }
       ]
     },
     {
       "rank": 20,
-      "title": "Marc Márquez",
-      "views": 10701,
-      "views_label": "10.701",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Halloween",
+      "views": 9034,
+      "views_label": "9034",
+      "is_new": false,
+      "change_pct": -65,
+      "change_abs": 65,
+      "change_sign": "-",
       "history": [
-        1028,
-        745,
-        800,
-        919,
-        1169,
-        2495,
-        11106
+        8567,
+        9926,
+        12292,
+        21742,
+        42846,
+        28236,
+        10023
       ],
       "sparkline_bars": [
         {
@@ -1233,72 +1240,72 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Lucas Martínez Quarta",
-      "views": 9800,
-      "views_label": "9800",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "El Komanche",
+      "views": 8678,
+      "views_label": "8678",
+      "is_new": false,
+      "change_pct": -8,
+      "change_abs": 8,
+      "change_sign": "-",
       "history": [
-        141,
-        85,
-        108,
-        100,
-        140,
-        103,
-        10954
+        16974,
+        14861,
+        8768,
+        5564,
+        4939,
+        9870,
+        9245
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 43.71,
@@ -1314,35 +1321,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 15,
           "w": 12.57,
-          "h": 24
+          "h": 9
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Sergio Canales",
-      "views": 9670,
-      "views_label": "9670",
+      "title": "Liga1 2026 (Perú)",
+      "views": 8641,
+      "views_label": "8641",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        265,
-        244,
-        180,
-        183,
-        311,
-        579,
-        9929
+        2625,
+        5371,
+        7841,
+        5306,
+        2460,
+        6133,
+        9297
       ],
       "sparkline_bars": [
         {
@@ -1353,21 +1360,21 @@
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 5,
           "w": 12.57,
-          "h": 2
+          "h": 19
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 58.29,
@@ -1377,9 +1384,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 11,
           "w": 12.57,
-          "h": 2
+          "h": 13
         },
         {
           "x": 87.43,
@@ -1391,77 +1398,84 @@
     },
     {
       "rank": 23,
-      "title": "El Komanche",
-      "views": 9424,
-      "views_label": "9424",
+      "title": "Arroba (símbolo)",
+      "views": 8608,
+      "views_label": "8608",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        16974,
-        14861,
-        8768,
-        5564,
-        4939,
-        9870
+        11250,
+        10261,
+        11456,
+        10951,
+        7563,
+        6503,
+        9906
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 1,
+          "w": 12.57,
+          "h": 23
+        },
+        {
+          "x": 14.57,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
+        },
+        {
+          "x": 29.14,
           "y": 0,
-          "w": 15,
+          "w": 12.57,
           "h": 24
         },
         {
-          "x": 17,
-          "y": 4,
-          "w": 15,
-          "h": 20
+          "x": 43.71,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
         },
         {
-          "x": 34,
-          "y": 16,
-          "w": 15,
-          "h": 8
+          "x": 58.29,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         },
         {
-          "x": 51,
+          "x": 72.86,
           "y": 22,
-          "w": 15,
+          "w": 12.57,
           "h": 2
         },
         {
-          "x": 68,
-          "y": 22,
-          "w": 15,
-          "h": 2
-        },
-        {
-          "x": 85,
-          "y": 14,
-          "w": 15,
-          "h": 10
+          "x": 87.43,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Lewis Hamilton",
-      "views": 8942,
-      "views_label": "8942",
+      "title": "Jesús Owono",
+      "views": 8523,
+      "views_label": "8523",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1411,
-        945,
-        1171,
-        1094,
-        1135,
-        2371,
-        9404
+        41,
+        29,
+        25,
+        19,
+        38,
+        37,
+        8767
       ],
       "sparkline_bars": [
         {
@@ -1496,9 +1510,9 @@
         },
         {
           "x": 72.86,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1511,39 +1525,39 @@
     {
       "rank": 25,
       "title": "La bola negra (película)",
-      "views": 8883,
-      "views_label": "8883",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 8221,
+      "views_label": "8221",
+      "is_new": false,
+      "change_pct": -7,
+      "change_abs": 7,
+      "change_sign": "-",
       "history": [
-        7717,
         7271,
         6560,
         5626,
         5898,
         7377,
-        9606
+        9606,
+        8826
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
-          "x": 14.57,
           "y": 14,
           "w": 12.57,
           "h": 10
         },
         {
-          "x": 29.14,
+          "x": 14.57,
           "y": 18,
           "w": 12.57,
           "h": 6
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 43.71,
@@ -1553,174 +1567,48 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 13,
           "w": 12.57,
           "h": 11
         },
         {
-          "x": 87.43,
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Día de los Fieles Difuntos",
-      "views": 8540,
-      "views_label": "8540",
+      "title": "Donald Trump",
+      "views": 8080,
+      "views_label": "8080",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1494,
-        1892,
-        2080,
-        2510,
-        3446,
-        4932,
-        9616
+        4500,
+        4245,
+        3869,
+        3979,
+        4667,
+        6251,
+        8689
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
           "y": 21,
           "w": 12.57,
           "h": 3
-        },
-        {
-          "x": 58.29,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 72.86,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "title": "Blanca Fernández Ochoa",
-      "views": 8482,
-      "views_label": "8482",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        261,
-        456,
-        528,
-        205,
-        84,
-        223,
-        8647
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "title": "Diego Roberto Mendoza",
-      "views": 8132,
-      "views_label": "8132",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        114,
-        535,
-        801,
-        780,
-        1371,
-        327,
-        8316
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
         },
         {
           "x": 14.57,
@@ -1748,9 +1636,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 12,
           "w": 12.57,
-          "h": 2
+          "h": 12
         },
         {
           "x": 87.43,
@@ -1761,41 +1649,167 @@
       ]
     },
     {
-      "rank": 29,
-      "title": "Clayface (película)",
-      "views": 7975,
-      "views_label": "7975",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "rank": 27,
+      "title": "Óscar Puente",
+      "views": 7950,
+      "views_label": "7950",
+      "is_new": false,
+      "change_pct": 1,
+      "change_abs": 1,
+      "change_sign": "+",
       "history": [
-        12394,
-        9434,
-        8397,
-        7287,
-        6693,
-        7986,
-        8407
+        682,
+        38142,
+        24810,
+        30534,
+        12819,
+        8200,
+        8299
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 14.57,
-          "y": 12,
+          "x": 29.14,
+          "y": 9,
           "w": 12.57,
-          "h": 12
+          "h": 15
+        },
+        {
+          "x": 43.71,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 58.29,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 72.86,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "Heidi Klum",
+      "views": 7798,
+      "views_label": "7798",
+      "is_new": false,
+      "change_pct": -62,
+      "change_abs": 62,
+      "change_sign": "-",
+      "history": [
+        527,
+        488,
+        644,
+        833,
+        1449,
+        21204,
+        8183
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "Elecciones intermedias en los Estados Unidos",
+      "views": 7755,
+      "views_label": "7755",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        3156,
+        3048,
+        2960,
+        3212,
+        2558,
+        4164,
+        8125
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 43.71,
@@ -1811,35 +1825,35 @@
         },
         {
           "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
           "y": 17,
           "w": 12.57,
           "h": 7
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 30,
-      "title": "Óscar Puente",
-      "views": 7896,
-      "views_label": "7896",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Wildwood (película de 2026)",
+      "views": 7202,
+      "views_label": "7202",
+      "is_new": false,
+      "change_pct": -4,
+      "change_abs": 4,
+      "change_sign": "-",
       "history": [
-        943,
-        682,
-        38142,
-        24810,
-        30534,
-        12819,
-        8200
+        3858,
+        3851,
+        4711,
+        5984,
+        6548,
+        7858,
+        7527
       ],
       "sparkline_bars": [
         {
@@ -1856,33 +1870,33 @@
         },
         {
           "x": 29.14,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        },
+        {
+          "x": 43.71,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
+          "x": 58.29,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 43.71,
-          "y": 9,
-          "w": 12.57,
-          "h": 15
-        },
-        {
-          "x": 58.29,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 72.86,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
           "x": 87.43,
-          "y": 19,
+          "y": 2,
           "w": 12.57,
-          "h": 5
+          "h": 22
         }
       ]
     }
