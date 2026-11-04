@@ -1,102 +1,60 @@
 {
   "lang": "fr",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-03T15:22:28.137Z",
-  "has_thumbnail": true,
-  "top_description": "navigatrice française",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-04T05:14:57.412Z",
+  "has_thumbnail": false,
+  "top_description": null,
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 15759626,
-  "site_total_label": "15 759 626",
-  "site_total_compact": "15,8M",
-  "site_vs_pct": -14,
-  "site_vs_abs": 14,
+  "site_total": 15317109,
+  "site_total_label": "15 317 109",
+  "site_total_compact": "15,3M",
+  "site_vs_pct": -3,
+  "site_vs_abs": 3,
   "site_vs_sign": "-",
-  "total_views": 547619,
-  "total_views_label": "547 619",
-  "top_riser_title": "Meurtre d'Inass Touloub",
-  "top_riser_pct": 229,
+  "total_views": 672844,
+  "total_views_label": "672 844",
+  "top_riser_title": "Élections de mi-mandat aux États-Unis",
+  "top_riser_pct": 97,
   "articles": [
     {
       "rank": 1,
-      "title": "Florence Arthaud",
-      "views": 78360,
-      "views_label": "78 360",
-      "is_new": false,
-      "change_pct": -79,
-      "change_abs": 79,
-      "change_sign": "-",
+      "title": "Jesús de Miguel Alameda",
+      "views": 57747,
+      "views_label": "57 747",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1216,
-        2707,
-        2487,
-        5137,
-        10439,
-        379592,
-        80280
+        58520
       ],
       "sparkline_bars": [
         {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
+          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Meurtre d'Inass Touloub",
-      "views": 41861,
-      "views_label": "41 861",
-      "is_new": false,
-      "change_pct": 229,
-      "change_abs": 229,
-      "change_sign": "+",
+      "title": "Roy Cohn",
+      "views": 46997,
+      "views_label": "46 997",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1097,
-        1190,
-        2031,
-        4464,
-        2971,
-        12911,
-        42537
+        168,
+        213,
+        172,
+        211,
+        369,
+        449,
+        47287
       ],
       "sparkline_bars": [
         {
@@ -131,9 +89,9 @@
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 87.43,
@@ -145,21 +103,21 @@
     },
     {
       "rank": 3,
-      "title": "La Belle Équipe",
-      "views": 31593,
-      "views_label": "31 593",
+      "title": "Philippe Jaenada",
+      "views": 40343,
+      "views_label": "40 343",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        80,
-        61,
-        123,
-        85,
-        142,
-        351,
-        31913
+        592,
+        468,
+        361,
+        405,
+        483,
+        546,
+        41019
       ],
       "sparkline_bars": [
         {
@@ -208,21 +166,21 @@
     },
     {
       "rank": 4,
-      "title": "Kimi Antonelli",
-      "views": 30802,
-      "views_label": "30 802",
-      "is_new": false,
-      "change_pct": 134,
-      "change_abs": 134,
-      "change_sign": "+",
+      "title": "Jesús Owono",
+      "views": 39663,
+      "views_label": "39 663",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1468,
-        1022,
-        966,
-        1264,
-        1649,
-        13505,
-        31434
+        6,
+        3,
+        3,
+        4,
+        2,
+        298,
+        40265
       ],
       "sparkline_bars": [
         {
@@ -257,9 +215,9 @@
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 87.43,
@@ -272,57 +230,57 @@
     {
       "rank": 5,
       "title": "Liste de sondages sur l'élection présidentielle française de 2027",
-      "views": 30077,
-      "views_label": "30 077",
+      "views": 39280,
+      "views_label": "39 280",
       "is_new": false,
-      "change_pct": 24,
-      "change_abs": 24,
+      "change_pct": 31,
+      "change_abs": 31,
       "change_sign": "+",
       "history": [
-        32280,
         31812,
         31201,
         28263,
         25068,
         27752,
-        33758
+        33758,
+        43322
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
-        },
-        {
-          "x": 14.57,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 29.14,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 43.71,
           "y": 15,
           "w": 12.57,
           "h": 9
         },
         {
-          "x": 58.29,
+          "x": 14.57,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 72.86,
-          "y": 17,
+          "x": 58.29,
+          "y": 20,
           "w": 12.57,
-          "h": 7
+          "h": 4
+        },
+        {
+          "x": 72.86,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
         },
         {
           "x": 87.43,
@@ -334,21 +292,21 @@
     },
     {
       "rank": 6,
-      "title": "1917 (film)",
-      "views": 23867,
-      "views_label": "23 867",
+      "title": "Donald Trump",
+      "views": 38787,
+      "views_label": "38 787",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        127,
-        178,
-        186,
-        181,
-        217,
-        614,
-        24046
+        3487,
+        3579,
+        3612,
+        3869,
+        5610,
+        7288,
+        39592
       ],
       "sparkline_bars": [
         {
@@ -383,9 +341,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 87.43,
@@ -397,21 +355,21 @@
     },
     {
       "rank": 7,
-      "title": "Sophie Adenot",
-      "views": 20622,
-      "views_label": "20 622",
+      "title": "Villarreal Club de Fútbol",
+      "views": 29453,
+      "views_label": "29 453",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        663,
-        611,
-        626,
-        567,
-        540,
-        723,
-        20866
+        226,
+        295,
+        645,
+        431,
+        700,
+        1948,
+        29700
       ],
       "sparkline_bars": [
         {
@@ -460,28 +418,28 @@
     },
     {
       "rank": 8,
-      "title": "Lionel Messi",
-      "views": 18806,
-      "views_label": "18 806",
+      "title": "Meurtre d'Inass Touloub",
+      "views": 28363,
+      "views_label": "28 363",
       "is_new": false,
-      "change_pct": -2,
-      "change_abs": 2,
+      "change_pct": -32,
+      "change_abs": 32,
       "change_sign": "-",
       "history": [
-        26531,
-        20623,
-        21182,
-        23882,
-        21822,
-        20764,
-        20861
+        1190,
+        2031,
+        4464,
+        2971,
+        12911,
+        42537,
+        29022
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
@@ -497,47 +455,47 @@
         },
         {
           "x": 43.71,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 19,
+          "y": 17,
           "w": 12.57,
-          "h": 5
+          "h": 7
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 87.43,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Raphaëlle Ricci",
-      "views": 16494,
-      "views_label": "16 494",
+      "title": "Élections de mi-mandat aux États-Unis",
+      "views": 25508,
+      "views_label": "25 508",
       "is_new": false,
-      "change_pct": -26,
-      "change_abs": 26,
-      "change_sign": "-",
+      "change_pct": 97,
+      "change_abs": 97,
+      "change_sign": "+",
       "history": [
-        129,
-        120,
-        126,
-        78,
-        2445,
-        22499,
-        16703
+        3947,
+        4972,
+        5642,
+        6163,
+        9750,
+        13356,
+        26176
       ],
       "sparkline_bars": [
         {
@@ -566,78 +524,78 @@
         },
         {
           "x": 58.29,
-          "y": 21,
+          "y": 18,
           "w": 12.57,
-          "h": 3
+          "h": 6
         },
         {
           "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 6,
-          "w": 12.57,
-          "h": 18
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "General Sherman (arbre)",
-      "views": 16001,
-      "views_label": "16 001",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        13450,
-        9150,
-        4598,
-        8503,
-        7934,
-        7736,
-        16040
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 5,
-          "w": 12.57,
-          "h": 19
-        },
-        {
-          "x": 14.57,
           "y": 14,
           "w": 12.57,
           "h": 10
         },
         {
-          "x": 29.14,
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "David Boly",
+      "views": 24911,
+      "views_label": "24 911",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        61,
+        147,
+        3403,
+        1834,
+        894,
+        922,
+        25139
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 43.71,
-          "y": 16,
+          "x": 14.57,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 22,
           "w": 12.57,
-          "h": 7
+          "h": 2
         },
         {
           "x": 87.43,
@@ -649,84 +607,84 @@
     },
     {
       "rank": 11,
-      "title": "Olivier de Kersauson",
-      "views": 14989,
-      "views_label": "14 989",
+      "title": "David Lisnard",
+      "views": 24634,
+      "views_label": "24 634",
       "is_new": false,
-      "change_pct": -75,
+      "change_pct": 75,
       "change_abs": 75,
-      "change_sign": "-",
+      "change_sign": "+",
       "history": [
-        414,
-        467,
-        456,
-        655,
-        1018,
-        59220,
-        15242
+        29764,
+        24781,
+        17229,
+        15425,
+        17327,
+        15290,
+        25891
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 87.43,
-          "y": 18,
+          "x": 14.57,
+          "y": 8,
           "w": 12.57,
-          "h": 6
+          "h": 16
+        },
+        {
+          "x": 29.14,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
         }
       ]
     },
     {
       "rank": 12,
-      "title": "Affaire des disparus de Mourmelon",
-      "views": 14951,
-      "views_label": "14 951",
-      "is_new": false,
-      "change_pct": 3,
-      "change_abs": 3,
-      "change_sign": "+",
+      "title": "Ivana Trump",
+      "views": 24109,
+      "views_label": "24 109",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1919,
-        1275,
-        721,
-        9713,
-        13724,
-        14686,
-        15130
+        360,
+        360,
+        344,
+        410,
+        713,
+        591,
+        24188
       ],
       "sparkline_bars": [
         {
@@ -749,21 +707,21 @@
         },
         {
           "x": 43.71,
-          "y": 9,
+          "y": 22,
           "w": 12.57,
-          "h": 15
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 87.43,
@@ -775,28 +733,28 @@
     },
     {
       "rank": 13,
-      "title": "Les Disparus des Argonnes",
-      "views": 14729,
-      "views_label": "14 729",
+      "title": "General Sherman (arbre)",
+      "views": 20327,
+      "views_label": "20 327",
       "is_new": false,
-      "change_pct": 4,
-      "change_abs": 4,
+      "change_pct": 27,
+      "change_abs": 27,
       "change_sign": "+",
       "history": [
-        3063,
-        2149,
-        1087,
-        10908,
-        12881,
-        14384,
-        14949
+        9150,
+        4598,
+        8503,
+        7934,
+        7736,
+        16040,
+        20369
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 21,
+          "y": 17,
           "w": 12.57,
-          "h": 3
+          "h": 7
         },
         {
           "x": 14.57,
@@ -806,27 +764,27 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 43.71,
-          "y": 7,
+          "y": 19,
           "w": 12.57,
-          "h": 17
+          "h": 5
         },
         {
           "x": 58.29,
-          "y": 4,
+          "y": 19,
           "w": 12.57,
-          "h": 20
+          "h": 5
         },
         {
           "x": 72.86,
-          "y": 1,
+          "y": 7,
           "w": 12.57,
-          "h": 23
+          "h": 17
         },
         {
           "x": 87.43,
@@ -838,40 +796,40 @@
     },
     {
       "rank": 14,
-      "title": "David Lisnard",
-      "views": 14068,
-      "views_label": "14 068",
+      "title": "Florence Arthaud",
+      "views": 20260,
+      "views_label": "20 260",
       "is_new": false,
-      "change_pct": -12,
-      "change_abs": 12,
+      "change_pct": -74,
+      "change_abs": 74,
       "change_sign": "-",
       "history": [
-        40507,
-        29764,
-        24781,
-        17229,
-        15425,
-        17327,
-        15290
+        2707,
+        2487,
+        5137,
+        10439,
+        379592,
+        80280,
+        21000
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 43.71,
@@ -881,15 +839,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 87.43,
@@ -901,21 +859,21 @@
     },
     {
       "rank": 15,
-      "title": "Christine Lagarde",
-      "views": 13687,
-      "views_label": "13 687",
-      "is_new": false,
-      "change_pct": -46,
-      "change_abs": 46,
-      "change_sign": "-",
+      "title": "The Apprentice (film)",
+      "views": 17878,
+      "views_label": "17 878",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        603,
-        586,
-        37091,
-        34415,
-        15928,
-        25950,
-        14134
+        200,
+        169,
+        153,
+        198,
+        232,
+        404,
+        18102
       ],
       "sparkline_bars": [
         {
@@ -932,53 +890,53 @@
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 2,
+          "y": 22,
           "w": 12.57,
-          "h": 22
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 15,
+          "y": 0,
           "w": 12.57,
-          "h": 9
+          "h": 24
         }
       ]
     },
     {
       "rank": 16,
-      "title": "Learjet 60",
-      "views": 13614,
-      "views_label": "13 614",
+      "title": "Fred Trump Jr.",
+      "views": 17577,
+      "views_label": "17 577",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        2,
-        3,
-        4,
-        3,
-        2,
-        1393,
-        13946
+        94,
+        96,
+        103,
+        112,
+        150,
+        167,
+        17651
       ],
       "sparkline_bars": [
         {
@@ -1027,103 +985,103 @@
     },
     {
       "rank": 17,
-      "title": "Élections de mi-mandat aux États-Unis",
-      "views": 12943,
-      "views_label": "12 943",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Lionel Messi",
+      "views": 17253,
+      "views_label": "17 253",
+      "is_new": false,
+      "change_pct": -8,
+      "change_abs": 8,
+      "change_sign": "-",
       "history": [
-        4945,
-        3947,
-        4972,
-        5642,
-        6163,
-        9750,
-        13356
+        20623,
+        21182,
+        23882,
+        21822,
+        20764,
+        20861,
+        19602
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 43.71,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 58.29,
           "y": 18,
           "w": 12.57,
           "h": 6
         },
         {
-          "x": 72.86,
-          "y": 9,
+          "x": 14.57,
+          "y": 15,
           "w": 12.57,
-          "h": 15
+          "h": 9
         },
         {
-          "x": 87.43,
+          "x": 29.14,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 43.71,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 58.29,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 72.86,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 18,
-      "title": "XXX",
-      "views": 12335,
-      "views_label": "12 335",
+      "title": "Élections de 2026 aux États-Unis",
+      "views": 16692,
+      "views_label": "16 692",
       "is_new": false,
-      "change_pct": 11,
-      "change_abs": 11,
+      "change_pct": 97,
+      "change_abs": 97,
       "change_sign": "+",
       "history": [
-        22337,
-        20352,
-        12750,
-        10578,
-        10154,
-        12012,
-        13352
+        805,
+        733,
+        925,
+        1430,
+        3647,
+        9080,
+        17933
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 4,
+          "y": 22,
           "w": 12.57,
-          "h": 20
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 43.71,
@@ -1133,41 +1091,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 20,
           "w": 12.57,
           "h": 4
         },
         {
-          "x": 87.43,
-          "y": 18,
+          "x": 72.86,
+          "y": 12,
           "w": 12.57,
-          "h": 6
+          "h": 12
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Louis Bertignac",
-      "views": 12117,
-      "views_label": "12 117",
+      "title": "Toni Brogno",
+      "views": 14299,
+      "views_label": "14 299",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        354,
-        360,
-        289,
-        268,
-        272,
-        272,
-        12229
+        20,
+        21,
+        54,
+        38,
+        38,
+        28,
+        14485
       ],
       "sparkline_bars": [
         {
@@ -1216,21 +1174,147 @@
     },
     {
       "rank": 20,
-      "title": "Impossible (téléfilm)",
-      "views": 11640,
-      "views_label": "11 640",
+      "title": "Affaire des disparus de Mourmelon",
+      "views": 13129,
+      "views_label": "13 129",
+      "is_new": false,
+      "change_pct": -12,
+      "change_abs": 12,
+      "change_sign": "-",
+      "history": [
+        1275,
+        721,
+        9713,
+        13724,
+        14686,
+        15130,
+        13325
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 9,
+          "w": 12.57,
+          "h": 15
+        },
+        {
+          "x": 43.71,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 58.29,
+          "y": 1,
+          "w": 12.57,
+          "h": 23
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 3,
+          "w": 12.57,
+          "h": 21
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "XXX",
+      "views": 12913,
+      "views_label": "12 913",
+      "is_new": false,
+      "change_pct": 5,
+      "change_abs": 5,
+      "change_sign": "+",
+      "history": [
+        20352,
+        12750,
+        10578,
+        10154,
+        12012,
+        13352,
+        13904
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 72.86,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 87.43,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Lorie Pester",
+      "views": 12786,
+      "views_label": "12 786",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        2420,
-        1799,
-        1540,
-        1156,
-        1082,
-        1136,
-        11763
+        2540,
+        886,
+        1604,
+        2238,
+        2262,
+        1546,
+        12931
       ],
       "sparkline_bars": [
         {
@@ -1253,147 +1337,21 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 72.86,
           "y": 22,
           "w": 12.57,
           "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "title": "Gabby Williams",
-      "views": 11585,
-      "views_label": "11 585",
-      "is_new": false,
-      "change_pct": -66,
-      "change_abs": 66,
-      "change_sign": "-",
-      "history": [
-        1538,
-        1060,
-        1195,
-        430,
-        413,
-        34517,
-        11931
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "title": "Sonia Mabrouk",
-      "views": 11252,
-      "views_label": "11 252",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        3219,
-        3552,
-        2755,
-        1400,
-        1211,
-        5871,
-        11386
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 14.57,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 29.14,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
         },
         {
           "x": 87.43,
@@ -1405,147 +1363,21 @@
     },
     {
       "rank": 23,
-      "title": "Jean Moulin",
-      "views": 11171,
-      "views_label": "11 171",
-      "is_new": false,
-      "change_pct": -45,
-      "change_abs": 45,
-      "change_sign": "-",
-      "history": [
-        6632,
-        15989,
-        13777,
-        13834,
-        16349,
-        20876,
-        11571
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 29.14,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 43.71,
-          "y": 12,
-          "w": 12.57,
-          "h": 12
-        },
-        {
-          "x": 58.29,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "title": "Sarah Knafo",
-      "views": 10938,
-      "views_label": "10 938",
-      "is_new": false,
-      "change_pct": -33,
-      "change_abs": 33,
-      "change_sign": "-",
-      "history": [
-        12030,
-        23641,
-        20343,
-        18519,
-        16936,
-        17054,
-        11586
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 29.14,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 43.71,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 58.29,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 72.86,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 87.43,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Dr Death",
-      "views": 10716,
-      "views_label": "10 716",
+      "title": "Karl Bushby",
+      "views": 12444,
+      "views_label": "12 444",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        136,
-        214,
-        412,
-        1201,
-        1056,
-        2267,
-        10796
+        388,
+        490,
+        459,
+        525,
+        619,
+        7103,
+        12971
       ],
       "sparkline_bars": [
         {
@@ -1580,9 +1412,135 @@
         },
         {
           "x": 72.86,
-          "y": 19,
+          "y": 11,
           "w": 12.57,
-          "h": 5
+          "h": 13
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Cadavres exquis",
+      "views": 12296,
+      "views_label": "12 296",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        918,
+        871,
+        841,
+        872,
+        956,
+        787,
+        12446
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Vila-real",
+      "views": 12214,
+      "views_label": "12 214",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        63,
+        99,
+        210,
+        127,
+        245,
+        771,
+        12314
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         },
         {
           "x": 87.43,
@@ -1594,21 +1552,21 @@
     },
     {
       "rank": 26,
-      "title": "Yandex",
-      "views": 10363,
-      "views_label": "10 363",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Les Disparus des Argonnes",
+      "views": 11451,
+      "views_label": "11 451",
+      "is_new": false,
+      "change_pct": -22,
+      "change_abs": 22,
+      "change_sign": "-",
       "history": [
-        186,
-        213,
-        240,
-        160,
-        238,
-        4922,
-        10394
+        2149,
+        1087,
+        10908,
+        12881,
+        14384,
+        14949,
+        11640
       ],
       "sparkline_bars": [
         {
@@ -1625,129 +1583,66 @@
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 4,
           "w": 12.57,
-          "h": 2
+          "h": 20
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         },
         {
           "x": 72.86,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
         }
       ]
     },
     {
       "rank": 27,
-      "title": "ChatGPT",
-      "views": 10031,
-      "views_label": "10 031",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Sonia Mabrouk",
+      "views": 10830,
+      "views_label": "10 830",
+      "is_new": false,
+      "change_pct": -4,
+      "change_abs": 4,
+      "change_sign": "-",
       "history": [
-        14307,
-        14229,
-        15359,
-        8804,
-        6638,
-        7865,
-        11183
+        3552,
+        2755,
+        1400,
+        1211,
+        5871,
+        11386,
+        11080
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        },
-        {
-          "x": 14.57,
-          "y": 3,
-          "w": 12.57,
-          "h": 21
-        },
-        {
-          "x": 29.14,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 43.71,
           "y": 18,
           "w": 12.57,
           "h": 6
         },
         {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "title": "Violette Dorange",
-      "views": 9677,
-      "views_label": "9 677",
-      "is_new": false,
-      "change_pct": -32,
-      "change_abs": 32,
-      "change_sign": "-",
-      "history": [
-        1152,
-        1137,
-        1089,
-        1736,
-        2907,
-        14375,
-        9871
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
           "x": 14.57,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 29.14,
@@ -1763,9 +1658,9 @@
         },
         {
           "x": 58.29,
-          "y": 21,
+          "y": 13,
           "w": 12.57,
-          "h": 3
+          "h": 11
         },
         {
           "x": 72.86,
@@ -1775,29 +1670,92 @@
         },
         {
           "x": 87.43,
-          "y": 8,
+          "y": 1,
           "w": 12.57,
-          "h": 16
+          "h": 23
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "Sarah Knafo",
+      "views": 10611,
+      "views_label": "10 611",
+      "is_new": false,
+      "change_pct": -3,
+      "change_abs": 3,
+      "change_sign": "-",
+      "history": [
+        23641,
+        20343,
+        18519,
+        16936,
+        17054,
+        11586,
+        11232
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
+        },
+        {
+          "x": 29.14,
+          "y": 10,
+          "w": 12.57,
+          "h": 14
+        },
+        {
+          "x": 43.71,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 58.29,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 29,
-      "title": "Route du Rhum",
-      "views": 9381,
-      "views_label": "9 381",
-      "is_new": false,
-      "change_pct": -73,
-      "change_abs": 73,
-      "change_sign": "-",
+      "title": "Melania Trump",
+      "views": 10175,
+      "views_label": "10 175",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        1765,
-        1917,
-        2352,
-        4081,
-        7489,
-        34909,
-        9816
+        1463,
+        1200,
+        1411,
+        3179,
+        2637,
+        1571,
+        10279
       ],
       "sparkline_bars": [
         {
@@ -1820,9 +1778,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 58.29,
@@ -1832,35 +1790,35 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 18,
+          "y": 0,
           "w": 12.57,
-          "h": 6
+          "h": 24
         }
       ]
     },
     {
       "rank": 30,
-      "title": "Paulo Fonseca",
-      "views": 8949,
-      "views_label": "8 949",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Christine Lagarde",
+      "views": 9914,
+      "views_label": "9 914",
+      "is_new": false,
+      "change_pct": -28,
+      "change_abs": 28,
+      "change_sign": "-",
       "history": [
-        329,
-        135,
-        256,
-        237,
-        688,
-        8663,
-        9115
+        586,
+        37091,
+        34415,
+        15928,
+        25950,
+        14134,
+        10318
       ],
       "sparkline_bars": [
         {
@@ -1871,39 +1829,39 @@
         },
         {
           "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 1,
-          "w": 12.57,
-          "h": 23
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 29.14,
+          "y": 2,
+          "w": 12.57,
+          "h": 22
+        },
+        {
+          "x": 43.71,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 58.29,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
+        },
+        {
+          "x": 72.86,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         }
       ]
     }

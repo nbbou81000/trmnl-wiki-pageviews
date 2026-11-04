@@ -1,77 +1,35 @@
 {
   "lang": "de",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-03T15:22:34.344Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-04T05:15:02.900Z",
   "has_thumbnail": true,
-  "top_description": "US-amerikanische Komponistin",
+  "top_description": "spanischer Fußballspieler",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 20109367,
-  "site_total_label": "20.109.367",
-  "site_total_compact": "20,1M",
-  "site_vs_pct": -11,
-  "site_vs_abs": 11,
+  "site_total": 19184374,
+  "site_total_label": "19.184.374",
+  "site_total_compact": "19,2M",
+  "site_vs_pct": -5,
+  "site_vs_abs": 5,
   "site_vs_sign": "-",
-  "total_views": 718507,
-  "total_views_label": "718.507",
-  "top_riser_title": "Andrea Kimi Antonelli",
-  "top_riser_pct": 258,
+  "total_views": 491389,
+  "total_views_label": "491.389",
+  "top_riser_title": "Zwischenwahlen in den Vereinigten Staaten",
+  "top_riser_pct": 109,
   "articles": [
     {
       "rank": 1,
-      "title": "Diane Warren",
-      "views": 76391,
-      "views_label": "76.391",
+      "title": "Jesús de Miguel",
+      "views": 58126,
+      "views_label": "58.126",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        425,
-        310,
-        280,
-        276,
-        191,
-        289,
-        76780
+        58823
       ],
       "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
         {
           "x": 87.43,
           "y": 0,
@@ -82,46 +40,46 @@
     },
     {
       "rank": 2,
-      "title": "René Benko",
-      "views": 61496,
-      "views_label": "61.496",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Liste der größten Auslegerbrücken",
+      "views": 32594,
+      "views_label": "32.594",
+      "is_new": false,
+      "change_pct": 3,
+      "change_abs": 3,
+      "change_sign": "+",
       "history": [
-        457,
-        365,
-        428,
-        551,
-        697,
-        1006,
-        62125
+        32436,
+        32280,
+        32342,
+        31837,
+        31744,
+        31722,
+        32811
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 8,
           "w": 12.57,
-          "h": 2
+          "h": 16
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 12,
           "w": 12.57,
-          "h": 2
+          "h": 12
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 10,
           "w": 12.57,
-          "h": 2
+          "h": 14
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
@@ -145,21 +103,21 @@
     },
     {
       "rank": 3,
-      "title": "Andrea Kimi Antonelli",
-      "views": 60421,
-      "views_label": "60.421",
+      "title": "Zwischenwahlen in den Vereinigten Staaten",
+      "views": 26108,
+      "views_label": "26.108",
       "is_new": false,
-      "change_pct": 258,
-      "change_abs": 258,
+      "change_pct": 109,
+      "change_abs": 109,
       "change_sign": "+",
       "history": [
-        2475,
-        1778,
-        1552,
-        2083,
-        2447,
-        17297,
-        61325
+        4841,
+        4364,
+        4874,
+        5102,
+        7804,
+        12843,
+        26611
       ],
       "sparkline_bars": [
         {
@@ -188,15 +146,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 18,
+          "y": 15,
           "w": 12.57,
-          "h": 6
+          "h": 9
         },
         {
           "x": 87.43,
@@ -208,21 +166,21 @@
     },
     {
       "rank": 4,
-      "title": "Ischtar-Tor",
-      "views": 40191,
-      "views_label": "40.191",
+      "title": "Die purpurnen Flüsse (Film)",
+      "views": 23425,
+      "views_label": "23.425",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        437,
-        312,
-        305,
-        244,
-        243,
-        339,
-        40517
+        214,
+        177,
+        262,
+        360,
+        366,
+        450,
+        23636
       ],
       "sparkline_bars": [
         {
@@ -271,210 +229,21 @@
     },
     {
       "rank": 5,
-      "title": "Regina Ziegler",
-      "views": 35099,
-      "views_label": "35.099",
-      "is_new": false,
-      "change_pct": -45,
-      "change_abs": 45,
-      "change_sign": "-",
-      "history": [
-        76,
-        99,
-        61,
-        79,
-        101,
-        64801,
-        35800
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Liste der größten Auslegerbrücken",
-      "views": 31596,
-      "views_label": "31.596",
-      "is_new": false,
-      "change_pct": 0,
-      "change_abs": 0,
-      "change_sign": "",
-      "history": [
-        32771,
-        32436,
-        32280,
-        32342,
-        31837,
-        31744,
-        31722
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 14.57,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 29.14,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
-          "x": 43.71,
-          "y": 10,
-          "w": 12.57,
-          "h": 14
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ciara Mageean",
-      "views": 31245,
-      "views_label": "31.245",
-      "is_new": false,
-      "change_pct": -10,
-      "change_abs": 10,
-      "change_sign": "-",
-      "history": [
-        8,
-        6,
-        7,
-        1,
-        8,
-        35102,
-        31635
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        },
-        {
-          "x": 87.43,
-          "y": 2,
-          "w": 12.57,
-          "h": 22
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Hildegard Knef",
-      "views": 26684,
-      "views_label": "26.684",
+      "title": "Annie Oakley",
+      "views": 21551,
+      "views_label": "21.551",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        376,
-        315,
-        457,
-        426,
-        934,
-        784,
-        26910
+        71,
+        61,
+        49,
+        50,
+        56,
+        609,
+        22358
       ],
       "sparkline_bars": [
         {
@@ -512,6 +281,153 @@
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Flock Safety",
+      "views": 20299,
+      "views_label": "20.299",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        54,
+        68,
+        49,
+        46,
+        60,
+        721,
+        20847
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Jesús Owono",
+      "views": 18562,
+      "views_label": "18.562",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        18800
+      ],
+      "sparkline_bars": [
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Wahlen in den Vereinigten Staaten 2026",
+      "views": 17375,
+      "views_label": "17.375",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        1335,
+        1391,
+        1477,
+        1643,
+        2542,
+        5259,
+        18118
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         },
         {
           "x": 87.43,
@@ -523,21 +439,21 @@
     },
     {
       "rank": 9,
-      "title": "Generation Z",
-      "views": 26104,
-      "views_label": "26.104",
-      "is_new": false,
-      "change_pct": -44,
-      "change_abs": 44,
-      "change_sign": "-",
+      "title": "Frank Diez",
+      "views": 16966,
+      "views_label": "16.966",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        6233,
-        9615,
-        16076,
-        32221,
-        65433,
-        47524,
-        26872
+        28,
+        47,
+        32,
+        34,
+        44,
+        1698,
+        17604
       ],
       "sparkline_bars": [
         {
@@ -554,53 +470,53 @@
         },
         {
           "x": 29.14,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 13,
+          "y": 22,
           "w": 12.57,
-          "h": 11
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 7,
+          "y": 22,
           "w": 12.57,
-          "h": 17
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 16,
+          "y": 0,
           "w": 12.57,
-          "h": 8
+          "h": 24
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Die Sünderin",
-      "views": 21127,
-      "views_label": "21.127",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "René Benko",
+      "views": 16956,
+      "views_label": "16.956",
+      "is_new": false,
+      "change_pct": -72,
+      "change_abs": 72,
+      "change_sign": "-",
       "history": [
-        61,
-        61,
-        81,
-        101,
-        192,
-        360,
-        21350
+        365,
+        428,
+        551,
+        697,
+        1006,
+        62125,
+        17506
       ],
       "sparkline_bars": [
         {
@@ -635,35 +551,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
         }
       ]
     },
     {
       "rank": 11,
-      "title": "Bärbel Bas",
-      "views": 19770,
-      "views_label": "19.770",
+      "title": "Lisa Wagner",
+      "views": 14164,
+      "views_label": "14.164",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        787,
-        775,
-        711,
-        612,
-        649,
-        619,
-        20053
+        169,
+        143,
+        182,
+        214,
+        469,
+        3175,
+        14276
       ],
       "sparkline_bars": [
         {
@@ -698,9 +614,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 87.43,
@@ -712,21 +628,21 @@
     },
     {
       "rank": 12,
-      "title": "Juan Atkins",
-      "views": 18700,
-      "views_label": "18.700",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Karl Bushby",
+      "views": 13835,
+      "views_label": "13.835",
+      "is_new": false,
+      "change_pct": -24,
+      "change_abs": 24,
+      "change_sign": "-",
       "history": [
-        7,
-        10,
-        20,
-        12,
-        12,
-        8410,
-        19128
+        215,
+        326,
+        536,
+        697,
+        6021,
+        18576,
+        14247
       ],
       "sparkline_bars": [
         {
@@ -755,60 +671,60 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 72.86,
-          "y": 13,
-          "w": 12.57,
-          "h": 11
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
         }
       ]
     },
     {
       "rank": 13,
-      "title": "Jana Pallaske",
-      "views": 18292,
-      "views_label": "18.292",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
+      "title": "Nekrolog 2026",
+      "views": 13693,
+      "views_label": "13.693",
+      "is_new": false,
+      "change_pct": 0,
+      "change_abs": 0,
       "change_sign": "",
       "history": [
-        301,
-        264,
-        277,
-        285,
-        312,
-        2890,
-        18472
+        13621,
+        14672,
+        12964,
+        10922,
+        12353,
+        14584,
+        14753
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 1,
           "w": 12.57,
-          "h": 2
+          "h": 23
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 11,
           "w": 12.57,
-          "h": 2
+          "h": 13
         },
         {
           "x": 43.71,
@@ -818,15 +734,15 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 72.86,
-          "y": 21,
+          "y": 1,
           "w": 12.57,
-          "h": 3
+          "h": 23
         },
         {
           "x": 87.43,
@@ -838,21 +754,21 @@
     },
     {
       "rank": 14,
-      "title": "Liste der Formel-1-Weltmeister",
-      "views": 18215,
-      "views_label": "18.215",
+      "title": "3. November",
+      "views": 13290,
+      "views_label": "13.290",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1817,
-        2699,
-        2112,
-        1822,
-        2160,
-        7699,
-        18677
+        127,
+        186,
+        120,
+        163,
+        259,
+        1112,
+        14091
       ],
       "sparkline_bars": [
         {
@@ -887,9 +803,9 @@
         },
         {
           "x": 72.86,
-          "y": 16,
+          "y": 22,
           "w": 12.57,
-          "h": 8
+          "h": 2
         },
         {
           "x": 87.43,
@@ -901,21 +817,21 @@
     },
     {
       "rank": 15,
-      "title": "Karl Bushby",
-      "views": 18195,
-      "views_label": "18.195",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Regina Ziegler",
+      "views": 13180,
+      "views_label": "13.180",
+      "is_new": false,
+      "change_pct": -62,
+      "change_abs": 62,
+      "change_sign": "-",
       "history": [
-        207,
-        215,
-        326,
-        536,
-        697,
-        6021,
-        18576
+        99,
+        61,
+        79,
+        101,
+        64801,
+        35800,
+        13598
       ],
       "sparkline_bars": [
         {
@@ -944,41 +860,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 72.86,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         }
       ]
     },
     {
       "rank": 16,
-      "title": "Elif Eralp",
-      "views": 17531,
-      "views_label": "17.531",
-      "is_new": false,
-      "change_pct": -9,
-      "change_abs": 9,
-      "change_sign": "-",
+      "title": "Izumo no Okuni",
+      "views": 13153,
+      "views_label": "13.153",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        2516,
-        1625,
-        47370,
-        46403,
-        40821,
-        19757,
-        17999
+        26,
+        40,
+        24,
+        23,
+        13,
+        309,
+        13634
       ],
       "sparkline_bars": [
         {
@@ -995,53 +911,53 @@
         },
         {
           "x": 29.14,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 43.71,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 3,
+          "y": 22,
           "w": 12.57,
-          "h": 21
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 15,
+          "y": 0,
           "w": 12.57,
-          "h": 9
+          "h": 24
         }
       ]
     },
     {
       "rank": 17,
-      "title": "Benko – Size Does Matter",
-      "views": 17171,
-      "views_label": "17.171",
+      "title": "Beppo Brem",
+      "views": 12763,
+      "views_label": "12.763",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        97,
-        75,
-        58,
-        157,
-        320,
-        564,
-        17453
+        136,
+        191,
+        114,
+        237,
+        299,
+        531,
+        13182
       ],
       "sparkline_bars": [
         {
@@ -1090,21 +1006,21 @@
     },
     {
       "rank": 18,
-      "title": "Learjet 60",
-      "views": 17154,
-      "views_label": "17.154",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Diane Warren",
+      "views": 12724,
+      "views_label": "12.724",
+      "is_new": false,
+      "change_pct": -83,
+      "change_abs": 83,
+      "change_sign": "-",
       "history": [
-        20,
-        24,
-        23,
-        18,
-        15,
-        1407,
-        17510
+        310,
+        280,
+        276,
+        191,
+        289,
+        76780,
+        13149
       ],
       "sparkline_bars": [
         {
@@ -1139,35 +1055,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Nathalie Benko",
-      "views": 16045,
-      "views_label": "16.045",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Generation Z",
+      "views": 12497,
+      "views_label": "12.497",
+      "is_new": false,
+      "change_pct": -52,
+      "change_abs": 52,
+      "change_sign": "-",
       "history": [
-        85,
-        89,
-        72,
-        66,
-        87,
-        246,
-        16136
+        9615,
+        16076,
+        32221,
+        65433,
+        47524,
+        26872,
+        13082
       ],
       "sparkline_bars": [
         {
@@ -1178,66 +1094,66 @@
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 14,
           "w": 12.57,
-          "h": 2
+          "h": 10
         },
         {
           "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 58.29,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 72.86,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
         }
       ]
     },
     {
       "rank": 20,
-      "title": "Berliner Fesselballon",
-      "views": 15224,
-      "views_label": "15.224",
+      "title": "Vienna Blood (Fernsehreihe)",
+      "views": 12233,
+      "views_label": "12.233",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        5,
-        16,
-        7,
-        19,
-        19,
-        505,
-        15509
+        3184,
+        1109,
+        864,
+        665,
+        746,
+        571,
+        12371
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 14.57,
@@ -1279,21 +1195,21 @@
     },
     {
       "rank": 21,
-      "title": "Eberhard Taubert",
-      "views": 15048,
-      "views_label": "15.048",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Andrea Kimi Antonelli",
+      "views": 12084,
+      "views_label": "12.084",
+      "is_new": false,
+      "change_pct": -80,
+      "change_abs": 80,
+      "change_sign": "-",
       "history": [
-        14,
-        17,
-        13,
-        15,
-        11,
-        404,
-        15391
+        1778,
+        1552,
+        2083,
+        2447,
+        17297,
+        61325,
+        12481
       ],
       "sparkline_bars": [
         {
@@ -1322,41 +1238,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Polizeiruf 110: Sie haben Namen",
-      "views": 14356,
-      "views_label": "14.356",
+      "title": "Learjet 60",
+      "views": 12021,
+      "views_label": "12.021",
       "is_new": false,
-      "change_pct": -70,
-      "change_abs": 70,
+      "change_pct": -30,
+      "change_abs": 30,
       "change_sign": "-",
       "history": [
-        76,
-        72,
-        175,
-        1485,
-        1945,
-        48318,
-        14630
+        24,
+        23,
+        18,
+        15,
+        1407,
+        17510,
+        12291
       ],
       "sparkline_bars": [
         {
@@ -1397,29 +1313,29 @@
         },
         {
           "x": 87.43,
-          "y": 17,
+          "y": 7,
           "w": 12.57,
-          "h": 7
+          "h": 17
         }
       ]
     },
     {
       "rank": 23,
-      "title": "Matador (Spielzeug)",
-      "views": 13876,
-      "views_label": "13.876",
+      "title": "Kommissarin Heller: Panik",
+      "views": 11396,
+      "views_label": "11.396",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        17,
-        25,
-        20,
-        18,
-        15,
-        537,
-        14303
+        8,
+        5,
+        4,
+        8,
+        19,
+        58,
+        11479
       ],
       "sparkline_bars": [
         {
@@ -1468,91 +1384,91 @@
     },
     {
       "rank": 24,
-      "title": "Nekrolog 2026",
-      "views": 13703,
-      "views_label": "13.703",
+      "title": "ChatGPT",
+      "views": 11231,
+      "views_label": "11.231",
       "is_new": false,
-      "change_pct": 18,
-      "change_abs": 18,
-      "change_sign": "+",
+      "change_pct": -1,
+      "change_abs": 1,
+      "change_sign": "-",
       "history": [
-        13923,
-        13621,
-        14672,
-        12964,
-        10922,
-        12353,
-        14584
+        11924,
+        12464,
+        9698,
+        7388,
+        8422,
+        12542,
+        12478
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 5,
+          "y": 3,
           "w": 12.57,
-          "h": 19
+          "h": 21
         },
         {
           "x": 14.57,
-          "y": 7,
-          "w": 12.57,
-          "h": 17
-        },
-        {
-          "x": 29.14,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 43.71,
-          "y": 11,
+          "x": 29.14,
+          "y": 13,
           "w": 12.57,
-          "h": 13
+          "h": 11
         },
         {
-          "x": 58.29,
+          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
-          "x": 72.86,
-          "y": 15,
+          "x": 58.29,
+          "y": 19,
           "w": 12.57,
-          "h": 9
+          "h": 5
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         },
         {
           "x": 87.43,
-          "y": 1,
+          "y": 0,
           "w": 12.57,
-          "h": 23
+          "h": 24
         }
       ]
     },
     {
       "rank": 25,
-      "title": "2. November",
-      "views": 13069,
-      "views_label": "13.069",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Hauptseite",
+      "views": 11042,
+      "views_label": "11.042",
+      "is_new": false,
+      "change_pct": -2,
+      "change_abs": 2,
+      "change_sign": "-",
       "history": [
-        140,
-        151,
-        182,
-        206,
-        349,
-        931,
-        13520
+        30766,
+        14769,
+        11884,
+        13239,
+        11214,
+        67098,
+        25720
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 16,
           "w": 12.57,
-          "h": 2
+          "h": 8
         },
         {
           "x": 14.57,
@@ -1580,35 +1496,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Obi-Ratte",
-      "views": 12748,
-      "views_label": "12.748",
+      "title": "Schaeffler-Gruppe",
+      "views": 10493,
+      "views_label": "10.493",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        4,
-        5,
-        2,
-        6,
-        13,
-        531,
-        12984
+        561,
+        602,
+        606,
+        222,
+        216,
+        1193,
+        11565
       ],
       "sparkline_bars": [
         {
@@ -1657,84 +1573,21 @@
     },
     {
       "rank": 27,
-      "title": "Formel-1-Weltmeisterschaft 2026",
-      "views": 12690,
-      "views_label": "12.690",
+      "title": "Donald Trump",
+      "views": 10022,
+      "views_label": "10.022",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1774,
-        1534,
-        1315,
-        1440,
-        2194,
-        5716,
-        13521
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "title": "Zwischenwahlen in den Vereinigten Staaten",
-      "views": 12509,
-      "views_label": "12.509",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        4200,
-        4841,
-        4364,
-        4874,
-        5102,
-        7804,
-        12843
+        3569,
+        3383,
+        3432,
+        3179,
+        4055,
+        6037,
+        10382
       ],
       "sparkline_bars": [
         {
@@ -1782,22 +1635,85 @@
       ]
     },
     {
-      "rank": 29,
-      "title": "Fine Sendel",
-      "views": 12188,
-      "views_label": "12.188",
+      "rank": 28,
+      "title": "Wustrow (Halbinsel)",
+      "views": 9888,
+      "views_label": "9.888",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        244,
-        211,
-        163,
-        125,
-        95,
-        123,
-        12329
+        304,
+        176,
+        254,
+        437,
+        1108,
+        1128,
+        10008
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "Kommissarin Heller",
+      "views": 9882,
+      "views_label": "9.882",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        51,
+        56,
+        53,
+        124,
+        165,
+        353,
+        9973
       ],
       "sparkline_bars": [
         {
@@ -1846,21 +1762,21 @@
     },
     {
       "rank": 30,
-      "title": "Kosmographie des Aethicus",
-      "views": 11669,
-      "views_label": "11.669",
+      "title": "Louis Philippson",
+      "views": 9836,
+      "views_label": "9.836",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        7,
-        19,
-        15,
-        18,
-        23,
-        295,
-        12180
+        193,
+        316,
+        650,
+        235,
+        189,
+        217,
+        9969
       ],
       "sparkline_bars": [
         {
