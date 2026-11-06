@@ -1,39 +1,39 @@
 {
   "lang": "en",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-05T15:39:10.162Z",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-06T05:11:23.840Z",
   "has_thumbnail": true,
   "top_description": "American epidemiologist and politician (born 1984)",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 204201228,
-  "site_total_label": "204,201,228",
-  "site_total_compact": "204.2M",
-  "site_vs_pct": 10,
-  "site_vs_abs": 10,
-  "site_vs_sign": "+",
-  "total_views": 12279663,
-  "total_views_label": "12,279,663",
-  "top_riser_title": "Jon Ossoff",
-  "top_riser_pct": 1216,
+  "site_total": 192666153,
+  "site_total_label": "192,666,153",
+  "site_total_compact": "192.7M",
+  "site_vs_pct": -6,
+  "site_vs_abs": 6,
+  "site_vs_sign": "-",
+  "total_views": 6207220,
+  "total_views_label": "6,207,220",
+  "top_riser_title": ".xyz",
+  "top_riser_pct": 1,
   "articles": [
     {
       "rank": 1,
       "title": "Abdul El-Sayed",
-      "views": 1413749,
-      "views_label": "1,413,749",
+      "views": 808705,
+      "views_label": "808,705",
       "is_new": false,
-      "change_pct": 421,
-      "change_abs": 421,
-      "change_sign": "+",
+      "change_pct": -43,
+      "change_abs": 43,
+      "change_sign": "-",
       "history": [
-        74655,
         86830,
         101751,
         140549,
         253017,
         284080,
-        1466960
+        1466960,
+        842132
       ],
       "sparkline_bars": [
         {
@@ -56,9 +56,9 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
@@ -68,35 +68,35 @@
         },
         {
           "x": 72.86,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
         }
       ]
     },
     {
       "rank": 2,
-      "title": "James Talarico",
-      "views": 1256040,
-      "views_label": "1,256,040",
-      "is_new": false,
-      "change_pct": 1088,
-      "change_abs": 1088,
-      "change_sign": "+",
+      "title": "Ramayana: Part 1",
+      "views": 609307,
+      "views_label": "609,307",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        42019,
-        44965,
-        52442,
-        59181,
-        65981,
-        110862,
-        1284407
+        51405,
+        53645,
+        57805,
+        62212,
+        75339,
+        106930,
+        622891
       ],
       "sparkline_bars": [
         {
@@ -145,21 +145,21 @@
     },
     {
       "rank": 3,
-      "title": "Gina Hinojosa",
-      "views": 1242354,
-      "views_label": "1,242,354",
+      "title": "Russell Brand",
+      "views": 571124,
+      "views_label": "571,124",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        9464,
-        9624,
-        8065,
-        8859,
-        13672,
-        27011,
-        1279227
+        21199,
+        10781,
+        8279,
+        13237,
+        13886,
+        12698,
+        582984
       ],
       "sparkline_bars": [
         {
@@ -208,21 +208,21 @@
     },
     {
       "rank": 4,
-      "title": "2026 United States elections",
-      "views": 1153444,
-      "views_label": "1,153,444",
+      "title": "James Talarico",
+      "views": 359575,
+      "views_label": "359,575",
       "is_new": false,
-      "change_pct": 153,
-      "change_abs": 153,
-      "change_sign": "+",
+      "change_pct": -71,
+      "change_abs": 71,
+      "change_sign": "-",
       "history": [
-        79856,
-        87861,
-        82466,
-        111444,
-        233117,
-        516497,
-        1242162
+        44965,
+        52442,
+        59181,
+        65981,
+        110862,
+        1284407,
+        370762
       ],
       "sparkline_bars": [
         {
@@ -251,41 +251,41 @@
         },
         {
           "x": 58.29,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 15,
-          "w": 12.57,
-          "h": 9
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Jon Ossoff",
-      "views": 611863,
-      "views_label": "611,863",
+      "title": "2026 United States elections",
+      "views": 356470,
+      "views_label": "356,470",
       "is_new": false,
-      "change_pct": 1216,
-      "change_abs": 1216,
-      "change_sign": "+",
+      "change_pct": -69,
+      "change_abs": 69,
+      "change_sign": "-",
       "history": [
-        39065,
-        34055,
-        25014,
-        21094,
-        28481,
-        48694,
-        629105
+        87861,
+        82466,
+        111444,
+        233117,
+        516497,
+        1242162,
+        387909
       ],
       "sparkline_bars": [
         {
@@ -308,173 +308,47 @@
         },
         {
           "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "United States midterm election",
-      "views": 523575,
-      "views_label": "523,575",
-      "is_new": false,
-      "change_pct": 114,
-      "change_abs": 114,
-      "change_sign": "+",
-      "history": [
-        38967,
-        46402,
-        47758,
-        65308,
-        136547,
-        253119,
-        541495
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 72.86,
-          "y": 14,
-          "w": 12.57,
-          "h": 10
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "2026 United States Senate elections",
-      "views": 493851,
-      "views_label": "493,851",
-      "is_new": false,
-      "change_pct": 444,
-      "change_abs": 444,
-      "change_sign": "+",
-      "history": [
-        31947,
-        34528,
-        30694,
-        37682,
-        66879,
-        97534,
-        514683
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 87.43,
+          "x": 58.29,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         }
       ]
     },
     {
-      "rank": 8,
-      "title": "Keisha Lance Bottoms",
-      "views": 431379,
-      "views_label": "431,379",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "rank": 6,
+      "title": "Jon Ossoff",
+      "views": 325378,
+      "views_label": "325,378",
+      "is_new": false,
+      "change_pct": -47,
+      "change_abs": 47,
+      "change_sign": "-",
       "history": [
-        13612,
-        7095,
-        5496,
-        5596,
-        7276,
-        15636,
-        443443
+        34055,
+        25014,
+        21094,
+        28481,
+        48694,
+        629105,
+        336588
       ],
       "sparkline_bars": [
         {
@@ -509,9 +383,135 @@
         },
         {
           "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Gina Hinojosa",
+      "views": 284450,
+      "views_label": "284,450",
+      "is_new": false,
+      "change_pct": -77,
+      "change_abs": 77,
+      "change_sign": "-",
+      "history": [
+        9624,
+        8065,
+        8859,
+        13672,
+        27011,
+        1279227,
+        295647
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
           "y": 22,
           "w": 12.57,
           "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": ".xyz",
+      "views": 255809,
+      "views_label": "255,809",
+      "is_new": false,
+      "change_pct": 1,
+      "change_abs": 1,
+      "change_sign": "+",
+      "history": [
+        476725,
+        461602,
+        604409,
+        500071,
+        468020,
+        713362,
+        718616
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
+          "x": 43.71,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         },
         {
           "x": 87.43,
@@ -523,21 +523,21 @@
     },
     {
       "rank": 9,
-      "title": "Byron Donalds",
-      "views": 362265,
-      "views_label": "362,265",
+      "title": "Nithya Raman",
+      "views": 197142,
+      "views_label": "197,142",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        8112,
-        10256,
-        11662,
-        9647,
-        11052,
-        23943,
-        374214
+        4644,
+        3378,
+        5237,
+        7447,
+        12839,
+        80681,
+        203303
       ],
       "sparkline_bars": [
         {
@@ -572,9 +572,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 15,
           "w": 12.57,
-          "h": 2
+          "h": 9
         },
         {
           "x": 87.43,
@@ -586,21 +586,21 @@
     },
     {
       "rank": 10,
-      "title": "Greg Abbott",
-      "views": 327943,
-      "views_label": "327,943",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "2026 United States Senate elections",
+      "views": 170346,
+      "views_label": "170,346",
+      "is_new": false,
+      "change_pct": -66,
+      "change_abs": 66,
+      "change_sign": "-",
       "history": [
-        6850,
-        5912,
-        6079,
-        6809,
-        8039,
-        16193,
-        334939
+        34528,
+        30694,
+        37682,
+        66879,
+        97534,
+        514683,
+        179443
       ],
       "sparkline_bars": [
         {
@@ -629,41 +629,167 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
         }
       ]
     },
     {
       "rank": 11,
-      "title": "Dan Osborn",
-      "views": 273151,
-      "views_label": "273,151",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": ".xxx",
+      "views": 159311,
+      "views_label": "159,311",
+      "is_new": false,
+      "change_pct": -9,
+      "change_abs": 9,
+      "change_sign": "-",
       "history": [
-        2487,
-        3162,
-        2710,
-        2934,
-        3963,
-        7447,
-        280458
+        388718,
+        318289,
+        213175,
+        189831,
+        278240,
+        196221,
+        179417
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 8,
+          "w": 12.57,
+          "h": 16
+        },
+        {
+          "x": 29.14,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Deaths in 2026",
+      "views": 138500,
+      "views_label": "138,500",
+      "is_new": false,
+      "change_pct": -1,
+      "change_abs": 1,
+      "change_sign": "-",
+      "history": [
+        163884,
+        141363,
+        148425,
+        152033,
+        151978,
+        152428,
+        150375
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
+        },
+        {
+          "x": 43.71,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 58.29,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 72.86,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 87.43,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "2026 United States House of Representatives elections",
+      "views": 137339,
+      "views_label": "137,339",
+      "is_new": false,
+      "change_pct": -45,
+      "change_abs": 45,
+      "change_sign": "-",
+      "history": [
+        11945,
+        11281,
+        13999,
+        25364,
+        55046,
+        266503,
+        145018
       ],
       "sparkline_bars": [
         {
@@ -692,41 +818,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
         }
       ]
     },
     {
-      "rank": 12,
-      "title": "Democratic Party (United States)",
-      "views": 256501,
-      "views_label": "256,501",
-      "is_new": false,
-      "change_pct": 488,
-      "change_abs": 488,
-      "change_sign": "+",
+      "rank": 14,
+      "title": "Guy Fawkes Night",
+      "views": 136878,
+      "views_label": "136,878",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        12037,
-        12185,
-        11498,
-        14537,
-        21928,
-        47467,
-        273407
+        5419,
+        8146,
+        10580,
+        10444,
+        11161,
+        22234,
+        147412
       ],
       "sparkline_bars": [
         {
@@ -764,132 +890,6 @@
           "y": 21,
           "w": 12.57,
           "h": 3
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "United States Senate",
-      "views": 255791,
-      "views_label": "255,791",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        7973,
-        8526,
-        8148,
-        10373,
-        18541,
-        33328,
-        261870
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "title": ".xyz",
-      "views": 254329,
-      "views_label": "254,329",
-      "is_new": false,
-      "change_pct": 144,
-      "change_abs": 144,
-      "change_sign": "+",
-      "history": [
-        401997,
-        476725,
-        461602,
-        604409,
-        500071,
-        468020,
-        713362
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 18,
-          "w": 12.57,
-          "h": 6
-        },
-        {
-          "x": 29.14,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 43.71,
-          "y": 8,
-          "w": 12.57,
-          "h": 16
-        },
-        {
-          "x": 58.29,
-          "y": 16,
-          "w": 12.57,
-          "h": 8
-        },
-        {
-          "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
         },
         {
           "x": 87.43,
@@ -901,21 +901,21 @@
     },
     {
       "rank": 15,
-      "title": "2026 United States House of Representatives elections",
-      "views": 249406,
-      "views_label": "249,406",
+      "title": "United States midterm election",
+      "views": 134210,
+      "views_label": "134,210",
       "is_new": false,
-      "change_pct": 396,
-      "change_abs": 396,
-      "change_sign": "+",
+      "change_pct": -74,
+      "change_abs": 74,
+      "change_sign": "-",
       "history": [
-        11038,
-        11945,
-        11281,
-        13999,
-        25364,
-        55046,
-        266503
+        46402,
+        47758,
+        65308,
+        136547,
+        253119,
+        541495,
+        141251
       ],
       "sparkline_bars": [
         {
@@ -938,47 +938,47 @@
         },
         {
           "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 20,
           "w": 12.57,
           "h": 4
         },
         {
-          "x": 87.43,
+          "x": 58.29,
+          "y": 14,
+          "w": 12.57,
+          "h": 10
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         }
       ]
     },
     {
       "rank": 16,
-      "title": "2028 United States Senate elections",
-      "views": 244552,
-      "views_label": "244,552",
+      "title": "Guy Fawkes",
+      "views": 133874,
+      "views_label": "133,874",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        5346,
-        6390,
-        4906,
-        5138,
-        13654,
-        15495,
-        251713
+        6604,
+        9337,
+        16344,
+        12967,
+        13184,
+        22914,
+        140247
       ],
       "sparkline_bars": [
         {
@@ -1013,9 +1013,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 87.43,
@@ -1027,21 +1027,21 @@
     },
     {
       "rank": 17,
-      "title": "Donald Trump",
-      "views": 239807,
-      "views_label": "239,807",
+      "title": "Scott Colom",
+      "views": 132877,
+      "views_label": "132,877",
       "is_new": false,
-      "change_pct": 216,
-      "change_abs": 216,
-      "change_sign": "+",
+      "change_pct": -23,
+      "change_abs": 23,
+      "change_sign": "-",
       "history": [
-        44993,
-        44411,
-        41042,
-        42835,
-        57756,
-        85659,
-        253661
+        2995,
+        3375,
+        3024,
+        3719,
+        4248,
+        176837,
+        136695
       ],
       "sparkline_bars": [
         {
@@ -1076,35 +1076,35 @@
         },
         {
           "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 6,
+          "w": 12.57,
+          "h": 18
         }
       ]
     },
     {
       "rank": 18,
-      "title": "Annie Andrews (pediatrician)",
-      "views": 238020,
-      "views_label": "238,020",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Keisha Lance Bottoms",
+      "views": 119279,
+      "views_label": "119,279",
+      "is_new": false,
+      "change_pct": -72,
+      "change_abs": 72,
+      "change_sign": "-",
       "history": [
-        20016,
-        19012,
-        13399,
-        9909,
-        10504,
-        15199,
-        242674
+        7095,
+        5496,
+        5596,
+        7276,
+        15636,
+        443443,
+        123409
       ],
       "sparkline_bars": [
         {
@@ -1139,35 +1139,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 18,
+          "w": 12.57,
+          "h": 6
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Amy Acton",
-      "views": 231084,
-      "views_label": "231,084",
+      "title": "Joran van der Sloot",
+      "views": 116017,
+      "views_label": "116,017",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        23889,
-        23208,
-        17153,
-        15274,
-        13659,
-        23898,
-        237088
+        2586,
+        2702,
+        2888,
+        3433,
+        5009,
+        55867,
+        117908
       ],
       "sparkline_bars": [
         {
@@ -1202,9 +1202,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 13,
           "w": 12.57,
-          "h": 2
+          "h": 11
         },
         {
           "x": 87.43,
@@ -1216,21 +1216,21 @@
     },
     {
       "rank": 20,
-      "title": "Vivek Ramaswamy",
-      "views": 226620,
-      "views_label": "226,620",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "2028 United States Senate elections",
+      "views": 111686,
+      "views_label": "111,686",
+      "is_new": false,
+      "change_pct": -54,
+      "change_abs": 54,
+      "change_sign": "-",
       "history": [
-        25444,
-        27651,
-        21752,
-        19387,
-        21297,
-        45381,
-        231939
+        6390,
+        4906,
+        5138,
+        13654,
+        15495,
+        251713,
+        115522
       ],
       "sparkline_bars": [
         {
@@ -1265,35 +1265,35 @@
         },
         {
           "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Jesús de Miguel",
-      "views": 224585,
-      "views_label": "224,585",
+      "title": "2026 United States Senate election in Mississippi",
+      "views": 110692,
+      "views_label": "110,692",
       "is_new": false,
-      "change_pct": -62,
-      "change_abs": 62,
+      "change_pct": -22,
+      "change_abs": 22,
       "change_sign": "-",
       "history": [
-        1,
-        2,
-        4,
-        19,
-        3624,
-        596560,
-        231743
+        3978,
+        3766,
+        4090,
+        7105,
+        7456,
+        167843,
+        122287
       ],
       "sparkline_bars": [
         {
@@ -1334,29 +1334,29 @@
         },
         {
           "x": 87.43,
-          "y": 15,
+          "y": 7,
           "w": 12.57,
-          "h": 9
+          "h": 17
         }
       ]
     },
     {
       "rank": 22,
       "title": "Hakeem Jeffries",
-      "views": 214253,
-      "views_label": "214,253",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 110123,
+      "views_label": "110,123",
+      "is_new": false,
+      "change_pct": -49,
+      "change_abs": 49,
+      "change_sign": "-",
       "history": [
-        3215,
         3057,
         3013,
         4097,
         5726,
         10199,
-        219654
+        219654,
+        113394
       ],
       "sparkline_bars": [
         {
@@ -1391,35 +1391,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
         }
       ]
     },
     {
       "rank": 23,
-      "title": "Red states and blue states",
-      "views": 214095,
-      "views_label": "214,095",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Donald Trump",
+      "views": 100703,
+      "views_label": "100,703",
+      "is_new": false,
+      "change_pct": -58,
+      "change_abs": 58,
+      "change_sign": "-",
       "history": [
-        6065,
-        7132,
-        6446,
-        6765,
-        9703,
-        37791,
-        225751
+        44411,
+        41042,
+        42835,
+        57756,
+        85659,
+        253661,
+        108892
       ],
       "sparkline_bars": [
         {
@@ -1448,48 +1448,48 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     },
     {
       "rank": 24,
-      "title": "Xavier Becerra",
-      "views": 202392,
-      "views_label": "202,392",
+      "title": "Cristiano Ronaldo",
+      "views": 100332,
+      "views_label": "100,332",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        6015,
-        5943,
-        5463,
-        5919,
-        9976,
-        23205,
-        208439
+        46402,
+        24848,
+        26120,
+        26555,
+        23158,
+        21340,
+        107054
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 17,
           "w": 12.57,
-          "h": 2
+          "h": 7
         },
         {
           "x": 14.57,
@@ -1531,84 +1531,77 @@
     },
     {
       "rank": 25,
-      "title": "United States House of Representatives",
-      "views": 199639,
-      "views_label": "199,639",
+      "title": "ChatGPT",
+      "views": 95134,
+      "views_label": "95,134",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        7738,
-        8046,
-        7961,
-        10887,
-        18669,
-        34314,
-        204715
+        118927,
+        70557,
+        61167,
+        109517,
+        132072,
+        131993
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
+          "y": 4,
+          "w": 15,
+          "h": 20
         },
         {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
+          "x": 17,
           "y": 21,
-          "w": 12.57,
+          "w": 15,
           "h": 3
         },
         {
-          "x": 87.43,
+          "x": 34,
+          "y": 22,
+          "w": 15,
+          "h": 2
+        },
+        {
+          "x": 51,
+          "y": 8,
+          "w": 15,
+          "h": 16
+        },
+        {
+          "x": 68,
           "y": 0,
-          "w": 12.57,
+          "w": 15,
+          "h": 24
+        },
+        {
+          "x": 85,
+          "y": 0,
+          "w": 15,
           "h": 24
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Ken Paxton",
-      "views": 197914,
-      "views_label": "197,914",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Democratic Party (United States)",
+      "views": 91403,
+      "views_label": "91,403",
+      "is_new": false,
+      "change_pct": -64,
+      "change_abs": 64,
+      "change_sign": "-",
       "history": [
-        15907,
-        17042,
-        17299,
-        18695,
-        24189,
-        41499,
-        203833
+        12185,
+        11498,
+        14537,
+        21928,
+        47467,
+        273407,
+        97984
       ],
       "sparkline_bars": [
         {
@@ -1637,41 +1630,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 21,
           "w": 12.57,
           "h": 3
         },
         {
-          "x": 87.43,
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Chris Pappas (American politician)",
-      "views": 194250,
-      "views_label": "194,250",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "United States Senate",
+      "views": 87455,
+      "views_label": "87,455",
+      "is_new": false,
+      "change_pct": -66,
+      "change_abs": 66,
+      "change_sign": "-",
       "history": [
-        3282,
-        2630,
-        2687,
-        3531,
-        4187,
-        7718,
-        201205
+        8526,
+        8148,
+        10373,
+        18541,
+        33328,
+        261870,
+        90699
       ],
       "sparkline_bars": [
         {
@@ -1706,35 +1699,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     },
     {
       "rank": 28,
-      "title": "2026 United States Senate election in Texas",
-      "views": 192509,
-      "views_label": "192,509",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Byron Donalds",
+      "views": 87124,
+      "views_label": "87,124",
+      "is_new": false,
+      "change_pct": -76,
+      "change_abs": 76,
+      "change_sign": "-",
       "history": [
-        17858,
-        18335,
-        17501,
-        18197,
-        30275,
-        41094,
-        210273
+        10256,
+        11662,
+        9647,
+        11052,
+        23943,
+        374214,
+        90766
       ],
       "sparkline_bars": [
         {
@@ -1769,141 +1762,141 @@
         },
         {
           "x": 72.86,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         }
       ]
     },
     {
       "rank": 29,
-      "title": "Republican Party (United States)",
-      "views": 179463,
-      "views_label": "179,463",
+      "title": "Jailer 2",
+      "views": 83507,
+      "views_label": "83,507",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        12152,
-        12418,
-        12688,
-        13245,
-        18674,
-        47661,
-        187826
+        119054,
+        118763,
+        121493,
+        116643,
+        101149,
+        88788,
+        87921
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 2,
           "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 2,
           "w": 12.57,
-          "h": 2
+          "h": 22
         },
         {
           "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "title": ".xxx",
-      "views": 174839,
-      "views_label": "174,839",
-      "is_new": false,
-      "change_pct": -31,
-      "change_abs": 31,
-      "change_sign": "-",
-      "history": [
-        423615,
-        388718,
-        318289,
-        213175,
-        189831,
-        278240,
-        196221
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
           "y": 0,
           "w": 12.57,
           "h": 24
         },
         {
-          "x": 14.57,
-          "y": 4,
-          "w": 12.57,
-          "h": 20
-        },
-        {
-          "x": 29.14,
-          "y": 11,
-          "w": 12.57,
-          "h": 13
-        },
-        {
           "x": 43.71,
-          "y": 22,
+          "y": 3,
           "w": 12.57,
-          "h": 2
+          "h": 21
         },
         {
           "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
           "y": 15,
           "w": 12.57,
           "h": 9
         },
         {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
           "x": 87.43,
           "y": 22,
           "w": 12.57,
           "h": 2
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "title": "Amy Acton",
+      "views": 82470,
+      "views_label": "82,470",
+      "is_new": false,
+      "change_pct": -64,
+      "change_abs": 64,
+      "change_sign": "-",
+      "history": [
+        23208,
+        17153,
+        15274,
+        13659,
+        23898,
+        237088,
+        85243
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 16,
+          "w": 12.57,
+          "h": 8
         }
       ]
     }

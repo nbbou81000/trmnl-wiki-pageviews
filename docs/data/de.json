@@ -1,39 +1,39 @@
 {
   "lang": "de",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-05T15:39:22.263Z",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-06T05:11:38.998Z",
   "has_thumbnail": true,
   "top_description": "deutscher Politiker (Freie Wähler), MdL, bayerischer Wirtschaftsminister (1971–2026)",
   "spark_width": 100,
   "spark_height": 24,
-  "site_total": 19621603,
-  "site_total_label": "19.621.603",
-  "site_total_compact": "19,6M",
-  "site_vs_pct": 2,
+  "site_total": 19200051,
+  "site_total_label": "19.200.051",
+  "site_total_compact": "19,2M",
+  "site_vs_pct": -2,
   "site_vs_abs": 2,
-  "site_vs_sign": "+",
-  "total_views": 1389976,
-  "total_views_label": "1.389.976",
-  "top_riser_title": "Abdul El-Sayed",
-  "top_riser_pct": 648,
+  "site_vs_sign": "-",
+  "total_views": 1315062,
+  "total_views_label": "1.315.062",
+  "top_riser_title": "Ilse Aigner",
+  "top_riser_pct": 285,
   "articles": [
     {
       "rank": 1,
       "title": "Hubert Aiwanger",
-      "views": 373379,
-      "views_label": "373.379",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "views": 516036,
+      "views_label": "516.036",
+      "is_new": false,
+      "change_pct": 38,
+      "change_abs": 38,
+      "change_sign": "+",
       "history": [
-        405,
         350,
         311,
         336,
         289,
         267,
-        378163
+        378163,
+        523880
       ],
       "sparkline_bars": [
         {
@@ -68,9 +68,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 7,
           "w": 12.57,
-          "h": 2
+          "h": 17
         },
         {
           "x": 87.43,
@@ -82,21 +82,21 @@
     },
     {
       "rank": 2,
-      "title": "Janosch",
-      "views": 234101,
-      "views_label": "234.101",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Tanja Schweiger",
+      "views": 240440,
+      "views_label": "240.440",
+      "is_new": false,
+      "change_pct": 85,
+      "change_abs": 85,
+      "change_sign": "+",
       "history": [
-        435,
-        1006,
-        1022,
-        753,
-        570,
-        384,
-        239740
+        82,
+        73,
+        80,
+        63,
+        42,
+        130580,
+        242368
       ],
       "sparkline_bars": [
         {
@@ -131,9 +131,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 11,
           "w": 12.57,
-          "h": 2
+          "h": 13
         },
         {
           "x": 87.43,
@@ -145,21 +145,21 @@
     },
     {
       "rank": 3,
-      "title": "Tanja Schweiger",
-      "views": 129991,
-      "views_label": "129.991",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Janosch",
+      "views": 67769,
+      "views_label": "67.769",
+      "is_new": false,
+      "change_pct": -71,
+      "change_abs": 71,
+      "change_sign": "-",
       "history": [
-        123,
-        82,
-        73,
-        80,
-        63,
-        42,
-        130580
+        1006,
+        1022,
+        753,
+        570,
+        384,
+        239740,
+        69578
       ],
       "sparkline_bars": [
         {
@@ -194,35 +194,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
         }
       ]
     },
     {
       "rank": 4,
-      "title": "Abdul El-Sayed",
-      "views": 58496,
-      "views_label": "58.496",
+      "title": "Ilse Aigner",
+      "views": 36943,
+      "views_label": "36.943",
       "is_new": false,
-      "change_pct": 648,
-      "change_abs": 648,
+      "change_pct": 285,
+      "change_abs": 285,
       "change_sign": "+",
       "history": [
-        2045,
-        2503,
-        3046,
-        4880,
-        9121,
-        8017,
-        59570
+        7500,
+        4908,
+        7085,
+        7522,
+        9221,
+        9874,
+        37646
       ],
       "sparkline_bars": [
         {
@@ -257,9 +257,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 87.43,
@@ -271,49 +271,21 @@
     },
     {
       "rank": 5,
-      "title": "Jesús de Miguel",
-      "views": 48089,
-      "views_label": "48.089",
+      "title": "Abdul El-Sayed",
+      "views": 33507,
+      "views_label": "33.507",
       "is_new": false,
-      "change_pct": -17,
-      "change_abs": 17,
+      "change_pct": -43,
+      "change_abs": 43,
       "change_sign": "-",
       "history": [
-        58823,
-        49436
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 0,
-          "w": 49,
-          "h": 24
-        },
-        {
-          "x": 51,
-          "y": 22,
-          "w": 49,
-          "h": 2
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Zwischenwahlen in den Vereinigten Staaten",
-      "views": 46693,
-      "views_label": "46.693",
-      "is_new": false,
-      "change_pct": 79,
-      "change_abs": 79,
-      "change_sign": "+",
-      "history": [
-        4364,
-        4874,
-        5102,
-        7804,
-        12843,
-        26611,
-        47501
+        2503,
+        3046,
+        4880,
+        9121,
+        8017,
+        59570,
+        34252
       ],
       "sparkline_bars": [
         {
@@ -336,21 +308,84 @@
         },
         {
           "x": 43.71,
+          "y": 21,
+          "w": 12.57,
+          "h": 3
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Liste der größten Auslegerbrücken",
+      "views": 32980,
+      "views_label": "32.980",
+      "is_new": false,
+      "change_pct": 3,
+      "change_abs": 3,
+      "change_sign": "+",
+      "history": [
+        32342,
+        31837,
+        31744,
+        31722,
+        32811,
+        32282,
+        33135
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
           "y": 22,
           "w": 12.57,
           "h": 2
         },
         {
           "x": 58.29,
-          "y": 19,
+          "y": 6,
           "w": 12.57,
-          "h": 5
+          "h": 18
         },
         {
           "x": 72.86,
-          "y": 12,
+          "y": 14,
           "w": 12.57,
-          "h": 12
+          "h": 10
         },
         {
           "x": 87.43,
@@ -362,84 +397,21 @@
     },
     {
       "rank": 7,
-      "title": "James Talarico",
-      "views": 44136,
-      "views_label": "44.136",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
-      "history": [
-        2513,
-        2546,
-        3695,
-        3321,
-        2786,
-        4312,
-        45138
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Senat der Vereinigten Staaten",
-      "views": 37958,
-      "views_label": "37.958",
+      "title": "Uwe Barschel",
+      "views": 30346,
+      "views_label": "30.346",
       "is_new": false,
-      "change_pct": 365,
-      "change_abs": 365,
+      "change_pct": 118,
+      "change_abs": 118,
       "change_sign": "+",
       "history": [
-        826,
-        921,
-        1213,
-        1839,
-        3490,
-        8331,
-        38536
+        384,
+        374,
+        482,
+        385,
+        645,
+        14169,
+        30979
       ],
       "sparkline_bars": [
         {
@@ -471,69 +443,6 @@
           "y": 22,
           "w": 12.57,
           "h": 2
-        },
-        {
-          "x": 72.86,
-          "y": 19,
-          "w": 12.57,
-          "h": 5
-        },
-        {
-          "x": 87.43,
-          "y": 0,
-          "w": 12.57,
-          "h": 24
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Wahlen in den Vereinigten Staaten 2026",
-      "views": 35408,
-      "views_label": "35.408",
-      "is_new": false,
-      "change_pct": 104,
-      "change_abs": 104,
-      "change_sign": "+",
-      "history": [
-        1391,
-        1477,
-        1643,
-        2542,
-        5259,
-        18118,
-        36599
-      ],
-      "sparkline_bars": [
-        {
-          "x": 0,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 14.57,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 29.14,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 43.71,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 58.29,
-          "y": 21,
-          "w": 12.57,
-          "h": 3
         },
         {
           "x": 72.86,
@@ -550,41 +459,41 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Liste der größten Auslegerbrücken",
-      "views": 32172,
-      "views_label": "32.172",
-      "is_new": false,
-      "change_pct": -1,
-      "change_abs": 1,
-      "change_sign": "-",
+      "rank": 8,
+      "title": "Russell Brand",
+      "views": 24476,
+      "views_label": "24.476",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        32280,
-        32342,
-        31837,
-        31744,
-        31722,
-        32811,
-        32282
+        540,
+        577,
+        2491,
+        465,
+        650,
+        705,
+        24810
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 12,
+          "y": 22,
           "w": 12.57,
-          "h": 12
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 10,
+          "y": 22,
           "w": 12.57,
-          "h": 14
+          "h": 2
         },
         {
           "x": 29.14,
-          "y": 21,
+          "y": 22,
           "w": 12.57,
-          "h": 3
+          "h": 2
         },
         {
           "x": 43.71,
@@ -600,35 +509,161 @@
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 22,
           "w": 12.57,
-          "h": 24
+          "h": 2
         },
         {
           "x": 87.43,
-          "y": 12,
+          "y": 0,
           "w": 12.57,
-          "h": 12
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Christian Freuding",
+      "views": 24273,
+      "views_label": "24.273",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
+      "history": [
+        408,
+        256,
+        271,
+        303,
+        583,
+        306,
+        24981
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Norbert Nemeth (Politiker)",
+      "views": 23267,
+      "views_label": "23.267",
+      "is_new": false,
+      "change_pct": 40,
+      "change_abs": 40,
+      "change_sign": "+",
+      "history": [
+        14,
+        10,
+        24,
+        34,
+        16,
+        17210,
+        24047
+      ],
+      "sparkline_bars": [
+        {
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 58.29,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 72.86,
+          "y": 7,
+          "w": 12.57,
+          "h": 17
+        },
+        {
+          "x": 87.43,
+          "y": 0,
+          "w": 12.57,
+          "h": 24
         }
       ]
     },
     {
       "rank": 11,
-      "title": "Repräsentantenhaus der Vereinigten Staaten",
-      "views": 28628,
-      "views_label": "28.628",
+      "title": "Freie Wähler (Partei)",
+      "views": 19807,
+      "views_label": "19.807",
       "is_new": false,
-      "change_pct": 240,
-      "change_abs": 240,
+      "change_pct": 134,
+      "change_abs": 134,
       "change_sign": "+",
       "history": [
-        893,
-        1005,
-        1181,
-        1799,
-        3540,
-        8594,
-        29167
+        180,
+        186,
+        152,
+        144,
+        177,
+        8641,
+        20193
       ],
       "sparkline_bars": [
         {
@@ -663,9 +698,9 @@
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 14,
           "w": 12.57,
-          "h": 7
+          "h": 10
         },
         {
           "x": 87.43,
@@ -677,21 +712,21 @@
     },
     {
       "rank": 12,
-      "title": "Wahlen zum Repräsentantenhaus der Vereinigten Staaten 2026",
-      "views": 25606,
-      "views_label": "25.606",
+      "title": "Feuerschiff Texel",
+      "views": 19328,
+      "views_label": "19.328",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1317,
-        1787,
-        1533,
-        2541,
-        3781,
-        6215,
-        26637
+        23,
+        4,
+        16,
+        3,
+        9,
+        644,
+        19925
       ],
       "sparkline_bars": [
         {
@@ -726,9 +761,9 @@
         },
         {
           "x": 72.86,
-          "y": 19,
+          "y": 22,
           "w": 12.57,
-          "h": 5
+          "h": 2
         },
         {
           "x": 87.43,
@@ -740,21 +775,21 @@
     },
     {
       "rank": 13,
-      "title": "Jon Ossoff",
-      "views": 21941,
-      "views_label": "21.941",
+      "title": "Alan Jones",
+      "views": 18706,
+      "views_label": "18.706",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        1331,
-        1172,
-        1724,
-        1864,
-        2704,
-        2532,
-        22394
+        31,
+        39,
+        79,
+        205,
+        91,
+        49,
+        19218
       ],
       "sparkline_bars": [
         {
@@ -803,21 +838,21 @@
     },
     {
       "rank": 14,
-      "title": "Wahlen zum Senat der Vereinigten Staaten 2026",
-      "views": 21457,
-      "views_label": "21.457",
+      "title": "Der Usedom-Krimi: Wunschkind",
+      "views": 18301,
+      "views_label": "18.301",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        635,
-        667,
-        752,
-        1017,
-        1999,
-        4164,
-        22662
+        349,
+        352,
+        328,
+        324,
+        243,
+        562,
+        18438
       ],
       "sparkline_bars": [
         {
@@ -852,9 +887,9 @@
         },
         {
           "x": 72.86,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 87.43,
@@ -866,21 +901,21 @@
     },
     {
       "rank": 15,
-      "title": "Donald Trump",
-      "views": 20437,
-      "views_label": "20.437",
-      "is_new": false,
-      "change_pct": 104,
-      "change_abs": 104,
-      "change_sign": "+",
+      "title": "Armin Petschner-Multari",
+      "views": 18062,
+      "views_label": "18.062",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        3383,
-        3432,
-        3179,
-        4055,
-        6037,
-        10382,
-        21118
+        30,
+        11,
+        14,
+        9,
+        7,
+        106,
+        18246
       ],
       "sparkline_bars": [
         {
@@ -909,15 +944,15 @@
         },
         {
           "x": 58.29,
-          "y": 20,
+          "y": 22,
           "w": 12.57,
-          "h": 4
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 14,
+          "y": 22,
           "w": 12.57,
-          "h": 10
+          "h": 2
         },
         {
           "x": 87.43,
@@ -929,21 +964,21 @@
     },
     {
       "rank": 16,
-      "title": "Kongress der Vereinigten Staaten",
-      "views": 20316,
-      "views_label": "20.316",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Herbert Blomstedt",
+      "views": 17613,
+      "views_label": "17.613",
+      "is_new": false,
+      "change_pct": 4,
+      "change_abs": 4,
+      "change_sign": "+",
       "history": [
-        600,
-        674,
-        817,
-        1345,
-        2467,
-        6798,
-        20726
+        65,
+        74,
+        95,
+        90,
+        91,
+        17639,
+        18181
       ],
       "sparkline_bars": [
         {
@@ -978,9 +1013,9 @@
         },
         {
           "x": 72.86,
-          "y": 17,
+          "y": 1,
           "w": 12.57,
-          "h": 7
+          "h": 23
         },
         {
           "x": 87.43,
@@ -992,40 +1027,40 @@
     },
     {
       "rank": 17,
-      "title": "Zabrze",
-      "views": 19102,
-      "views_label": "19.102",
+      "title": "Hannah Schiller",
+      "views": 13982,
+      "views_label": "13.982",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        150,
-        234,
-        183,
-        168,
-        185,
-        158,
-        19277
+        9549,
+        16155,
+        3168,
+        1293,
+        809,
+        893,
+        14088
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 22,
+          "y": 10,
           "w": 12.57,
-          "h": 2
+          "h": 14
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 29.14,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 43.71,
@@ -1047,29 +1082,29 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 3,
           "w": 12.57,
-          "h": 24
+          "h": 21
         }
       ]
     },
     {
       "rank": 18,
-      "title": "Oh, wie schön ist Panama",
-      "views": 17856,
-      "views_label": "17.856",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Wahlen in den Vereinigten Staaten 2026",
+      "views": 13608,
+      "views_label": "13.608",
+      "is_new": false,
+      "change_pct": -62,
+      "change_abs": 62,
+      "change_sign": "-",
       "history": [
-        158,
-        188,
-        207,
-        179,
-        155,
-        152,
-        18324
+        1477,
+        1643,
+        2542,
+        5259,
+        18118,
+        36599,
+        14144
       ],
       "sparkline_bars": [
         {
@@ -1092,47 +1127,47 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 21,
           "w": 12.57,
-          "h": 2
+          "h": 3
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 13,
           "w": 12.57,
-          "h": 2
+          "h": 11
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
         }
       ]
     },
     {
       "rank": 19,
-      "title": "Nadeschda von Bulgarien",
-      "views": 17209,
-      "views_label": "17.209",
+      "title": "Streifenkreuzspinne",
+      "views": 13206,
+      "views_label": "13.206",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
+        7,
+        9,
+        21,
         25,
-        45,
-        28,
-        13,
-        19,
-        529,
-        17845
+        34,
+        417,
+        13829
       ],
       "sparkline_bars": [
         {
@@ -1181,49 +1216,84 @@
     },
     {
       "rank": 20,
-      "title": "Jesús Owono",
-      "views": 17201,
-      "views_label": "17.201",
+      "title": "Nekrolog 2026",
+      "views": 13059,
+      "views_label": "13.059",
       "is_new": false,
-      "change_pct": -7,
-      "change_abs": 7,
-      "change_sign": "-",
+      "change_pct": 2,
+      "change_abs": 2,
+      "change_sign": "+",
       "history": [
-        18800,
-        17651
+        12964,
+        10922,
+        12353,
+        14584,
+        14753,
+        13896,
+        14014
       ],
       "sparkline_bars": [
         {
           "x": 0,
+          "y": 11,
+          "w": 12.57,
+          "h": 13
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 15,
+          "w": 12.57,
+          "h": 9
+        },
+        {
+          "x": 43.71,
+          "y": 1,
+          "w": 12.57,
+          "h": 23
+        },
+        {
+          "x": 58.29,
           "y": 0,
-          "w": 49,
+          "w": 12.57,
           "h": 24
         },
         {
-          "x": 51,
-          "y": 22,
-          "w": 49,
-          "h": 2
+          "x": 72.86,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
+        },
+        {
+          "x": 87.43,
+          "y": 5,
+          "w": 12.57,
+          "h": 19
         }
       ]
     },
     {
       "rank": 21,
-      "title": "Herbert Blomstedt",
-      "views": 16963,
-      "views_label": "16.963",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Wahlen zum Repräsentantenhaus der Vereinigten Staaten 2026",
+      "views": 12822,
+      "views_label": "12.822",
+      "is_new": false,
+      "change_pct": -50,
+      "change_abs": 50,
+      "change_sign": "-",
       "history": [
-        74,
-        65,
-        74,
-        95,
-        90,
-        91,
-        17639
+        1787,
+        1533,
+        2541,
+        3781,
+        6215,
+        26637,
+        13389
       ],
       "sparkline_bars": [
         {
@@ -1252,41 +1322,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 20,
           "w": 12.57,
-          "h": 2
+          "h": 4
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 13,
+          "w": 12.57,
+          "h": 11
         }
       ]
     },
     {
       "rank": 22,
-      "title": "Die Kinder der anderen",
-      "views": 16855,
-      "views_label": "16.855",
+      "title": "Wael Mohya",
+      "views": 12734,
+      "views_label": "12.734",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        43,
-        129,
-        117,
-        157,
-        178,
-        455,
-        16984
+        976,
+        3147,
+        924,
+        333,
+        202,
+        161,
+        12902
       ],
       "sparkline_bars": [
         {
@@ -1297,9 +1367,9 @@
         },
         {
           "x": 14.57,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 29.14,
@@ -1335,21 +1405,21 @@
     },
     {
       "rank": 23,
-      "title": "Norbert Nemeth (Politiker)",
-      "views": 16569,
-      "views_label": "16.569",
+      "title": "5. November",
+      "views": 12584,
+      "views_label": "12.584",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        31,
-        14,
-        10,
-        24,
-        34,
-        16,
-        17210
+        117,
+        96,
+        167,
+        219,
+        278,
+        1136,
+        14890
       ],
       "sparkline_bars": [
         {
@@ -1398,21 +1468,21 @@
     },
     {
       "rank": 24,
-      "title": "Demokratische Partei (Vereinigte Staaten)",
-      "views": 14160,
-      "views_label": "14.160",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Senat der Vereinigten Staaten",
+      "views": 11998,
+      "views_label": "11.998",
+      "is_new": false,
+      "change_pct": -68,
+      "change_abs": 68,
+      "change_sign": "-",
       "history": [
-        464,
-        486,
-        469,
-        610,
-        1155,
-        2746,
-        14488
+        921,
+        1213,
+        1839,
+        3490,
+        8331,
+        38536,
+        12314
       ],
       "sparkline_bars": [
         {
@@ -1441,41 +1511,41 @@
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 19,
           "w": 12.57,
-          "h": 2
+          "h": 5
         },
         {
           "x": 72.86,
-          "y": 20,
-          "w": 12.57,
-          "h": 4
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 17,
+          "w": 12.57,
+          "h": 7
         }
       ]
     },
     {
       "rank": 25,
-      "title": "Uwe Barschel",
-      "views": 13894,
-      "views_label": "13.894",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Jon Ossoff",
+      "views": 11865,
+      "views_label": "11.865",
+      "is_new": false,
+      "change_pct": -46,
+      "change_abs": 46,
+      "change_sign": "-",
       "history": [
-        509,
-        384,
-        374,
-        482,
-        385,
-        645,
-        14169
+        1172,
+        1724,
+        1864,
+        2704,
+        2532,
+        22394,
+        12156
       ],
       "sparkline_bars": [
         {
@@ -1510,69 +1580,111 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
         }
       ]
     },
     {
       "rank": 26,
-      "title": "Gina Hinojosa",
-      "views": 13114,
-      "views_label": "13.114",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Zwischenwahlen in den Vereinigten Staaten",
+      "views": 11579,
+      "views_label": "11.579",
+      "is_new": false,
+      "change_pct": -75,
+      "change_abs": 75,
+      "change_sign": "-",
       "history": [
-        13441
+        4874,
+        5102,
+        7804,
+        12843,
+        26611,
+        47501,
+        11945
       ],
       "sparkline_bars": [
         {
-          "x": 87.43,
+          "x": 0,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 14.57,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 29.14,
+          "y": 22,
+          "w": 12.57,
+          "h": 2
+        },
+        {
+          "x": 43.71,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
+        },
+        {
+          "x": 58.29,
+          "y": 12,
+          "w": 12.57,
+          "h": 12
+        },
+        {
+          "x": 72.86,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 20,
+          "w": 12.57,
+          "h": 4
         }
       ]
     },
     {
       "rank": 27,
-      "title": "Nekrolog 2026",
-      "views": 12842,
-      "views_label": "12.842",
-      "is_new": false,
-      "change_pct": -6,
-      "change_abs": 6,
-      "change_sign": "-",
+      "title": "Ergoldsbach",
+      "views": 11563,
+      "views_label": "11.563",
+      "is_new": true,
+      "change_pct": null,
+      "change_abs": null,
+      "change_sign": "",
       "history": [
-        14672,
-        12964,
-        10922,
-        12353,
-        14584,
-        14753,
-        13896
+        50,
+        45,
+        58,
+        49,
+        34,
+        5132,
+        11714
       ],
       "sparkline_bars": [
         {
           "x": 0,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 14.57,
-          "y": 11,
+          "y": 22,
           "w": 12.57,
-          "h": 13
+          "h": 2
         },
         {
           "x": 29.14,
@@ -1582,47 +1694,47 @@
         },
         {
           "x": 43.71,
-          "y": 15,
+          "y": 22,
           "w": 12.57,
-          "h": 9
+          "h": 2
         },
         {
           "x": 58.29,
-          "y": 1,
+          "y": 22,
           "w": 12.57,
-          "h": 23
+          "h": 2
         },
         {
           "x": 72.86,
-          "y": 0,
+          "y": 14,
           "w": 12.57,
-          "h": 24
+          "h": 10
         },
         {
           "x": 87.43,
-          "y": 5,
+          "y": 0,
           "w": 12.57,
-          "h": 19
+          "h": 24
         }
       ]
     },
     {
       "rank": 28,
-      "title": "4. November",
-      "views": 12746,
-      "views_label": "12.746",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "James Talarico",
+      "views": 11434,
+      "views_label": "11.434",
+      "is_new": false,
+      "change_pct": -74,
+      "change_abs": 74,
+      "change_sign": "-",
       "history": [
-        154,
-        114,
-        104,
-        203,
-        291,
-        1178,
-        13507
+        2546,
+        3695,
+        3321,
+        2786,
+        4312,
+        45138,
+        11806
       ],
       "sparkline_bars": [
         {
@@ -1657,35 +1769,35 @@
         },
         {
           "x": 72.86,
-          "y": 22,
-          "w": 12.57,
-          "h": 2
-        },
-        {
-          "x": 87.43,
           "y": 0,
           "w": 12.57,
           "h": 24
+        },
+        {
+          "x": 87.43,
+          "y": 19,
+          "w": 12.57,
+          "h": 5
         }
       ]
     },
     {
       "rank": 29,
-      "title": "Tigerente",
-      "views": 11660,
-      "views_label": "11.660",
+      "title": "Como 1907",
+      "views": 11432,
+      "views_label": "11.432",
       "is_new": true,
       "change_pct": null,
       "change_abs": null,
       "change_sign": "",
       "history": [
-        87,
-        97,
-        98,
-        79,
-        60,
-        54,
-        11888
+        200,
+        206,
+        348,
+        172,
+        314,
+        5843,
+        11708
       ],
       "sparkline_bars": [
         {
@@ -1720,9 +1832,9 @@
         },
         {
           "x": 72.86,
-          "y": 22,
+          "y": 12,
           "w": 12.57,
-          "h": 2
+          "h": 12
         },
         {
           "x": 87.43,
@@ -1734,21 +1846,21 @@
     },
     {
       "rank": 30,
-      "title": "Tinto Brass",
-      "views": 10997,
-      "views_label": "10.997",
-      "is_new": true,
-      "change_pct": null,
-      "change_abs": null,
-      "change_sign": "",
+      "title": "Hauptseite",
+      "views": 11342,
+      "views_label": "11.342",
+      "is_new": false,
+      "change_pct": 4,
+      "change_abs": 4,
+      "change_sign": "+",
       "history": [
-        62,
-        63,
-        46,
-        58,
-        54,
-        59,
-        11587
+        11884,
+        13239,
+        11214,
+        67098,
+        25720,
+        12765,
+        21392
       ],
       "sparkline_bars": [
         {
@@ -1771,15 +1883,15 @@
         },
         {
           "x": 43.71,
-          "y": 22,
+          "y": 0,
           "w": 12.57,
-          "h": 2
+          "h": 24
         },
         {
           "x": 58.29,
-          "y": 22,
+          "y": 18,
           "w": 12.57,
-          "h": 2
+          "h": 6
         },
         {
           "x": 72.86,
@@ -1789,9 +1901,9 @@
         },
         {
           "x": 87.43,
-          "y": 0,
+          "y": 20,
           "w": 12.57,
-          "h": 24
+          "h": 4
         }
       ]
     }
