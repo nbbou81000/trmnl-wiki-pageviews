@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-11-05",
-    "generated_at": "2026-11-06T11:11:52.401Z",
+    "generated_at": "2026-11-06T15:13:28.835Z",
     "has_thumbnail": true,
     "top_description": "American epidemiologist and politician (born 1984)",
     "spark_width": 100,
@@ -1545,44 +1545,51 @@
           61167,
           109517,
           132072,
-          131993
+          131993,
+          107844
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 4,
-            "w": 15,
+            "w": 12.57,
             "h": 20
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 21,
-            "w": 15,
+            "w": 12.57,
             "h": 3
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 51,
+            "x": 43.71,
             "y": 8,
-            "w": 15,
+            "w": 12.57,
             "h": 16
           },
           {
-            "x": 68,
+            "x": 58.29,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           },
           {
-            "x": 85,
+            "x": 72.86,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
+          },
+          {
+            "x": 87.43,
+            "y": 8,
+            "w": 12.57,
+            "h": 16
           }
         ]
       },
@@ -1906,7 +1913,7 @@
   {
     "lang": "fr",
     "date": "2026-11-05",
-    "generated_at": "2026-11-06T11:11:59.904Z",
+    "generated_at": "2026-11-06T15:13:34.983Z",
     "has_thumbnail": false,
     "top_description": "disparition de huit jeunes gens à proximité du camp militaire de Mourmelon",
     "spark_width": 100,
@@ -3789,7 +3796,7 @@
   {
     "lang": "de",
     "date": "2026-11-05",
-    "generated_at": "2026-11-06T11:12:07.709Z",
+    "generated_at": "2026-11-06T15:13:41.157Z",
     "has_thumbnail": true,
     "top_description": "deutscher Politiker (Freie Wähler), MdL, bayerischer Wirtschaftsminister (1971–2026)",
     "spark_width": 100,
@@ -5700,7 +5707,7 @@
   {
     "lang": "es",
     "date": "2026-11-05",
-    "generated_at": "2026-11-06T11:12:15.577Z",
+    "generated_at": "2026-11-06T15:13:47.343Z",
     "has_thumbnail": true,
     "top_description": "52.º presidente de Paraguay",
     "spark_width": 100,
