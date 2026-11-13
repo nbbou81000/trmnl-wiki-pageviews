@@ -2,7 +2,7 @@
   {
     "lang": "en",
     "date": "2026-11-12",
-    "generated_at": "2026-11-13T11:16:22.941Z",
+    "generated_at": "2026-11-13T15:31:58.704Z",
     "has_thumbnail": true,
     "top_description": "Taiwanese-American businessman (born 1963)",
     "spark_width": 100,
@@ -1864,7 +1864,7 @@
   {
     "lang": "fr",
     "date": "2026-11-12",
-    "generated_at": "2026-11-13T11:16:30.178Z",
+    "generated_at": "2026-11-13T15:32:04.687Z",
     "has_thumbnail": false,
     "top_description": "page de liste de Wikimédia",
     "spark_width": 100,
@@ -1958,44 +1958,51 @@
           3659,
           22741,
           17850,
-          11751
+          11751,
+          51444
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 34,
-            "y": 20,
-            "w": 15,
-            "h": 4
+            "x": 29.14,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
           },
           {
-            "x": 51,
+            "x": 43.71,
+            "y": 13,
+            "w": 12.57,
+            "h": 11
+          },
+          {
+            "x": 58.29,
+            "y": 16,
+            "w": 12.57,
+            "h": 8
+          },
+          {
+            "x": 72.86,
+            "y": 19,
+            "w": 12.57,
+            "h": 5
+          },
+          {
+            "x": 87.43,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
-          },
-          {
-            "x": 68,
-            "y": 5,
-            "w": 15,
-            "h": 19
-          },
-          {
-            "x": 85,
-            "y": 12,
-            "w": 15,
-            "h": 12
           }
         ]
       },
@@ -2077,44 +2084,51 @@
           549,
           127810,
           91871,
-          49690
+          49690,
+          26447
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 51,
+            "x": 43.71,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           },
           {
-            "x": 68,
+            "x": 58.29,
             "y": 7,
-            "w": 15,
+            "w": 12.57,
             "h": 17
           },
           {
-            "x": 85,
+            "x": 72.86,
             "y": 15,
-            "w": 15,
+            "w": 12.57,
             "h": 9
+          },
+          {
+            "x": 87.43,
+            "y": 19,
+            "w": 12.57,
+            "h": 5
           }
         ]
       },
@@ -3726,7 +3740,7 @@
   {
     "lang": "de",
     "date": "2026-11-12",
-    "generated_at": "2026-11-13T11:16:37.584Z",
+    "generated_at": "2026-11-13T15:32:10.756Z",
     "has_thumbnail": true,
     "top_description": null,
     "spark_width": 100,
@@ -3739,18 +3753,18 @@
     "site_vs_sign": "",
     "total_views": 576813,
     "total_views_label": "576.813",
-    "top_riser_title": "Nvidia",
-    "top_riser_pct": 454,
+    "top_riser_title": null,
+    "top_riser_pct": null,
     "articles": [
       {
         "rank": 1,
         "title": "Jen-Hsun Huang",
         "views": 67622,
         "views_label": "67.622",
-        "is_new": false,
-        "change_pct": 197,
-        "change_abs": 197,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           541,
           4062,
@@ -3873,10 +3887,10 @@
         "title": "Nvidia",
         "views": 45354,
         "views_label": "45.354",
-        "is_new": false,
-        "change_pct": 454,
-        "change_abs": 454,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           683,
           1305,
@@ -3936,10 +3950,10 @@
         "title": "Liste der größten Auslegerbrücken",
         "views": 33404,
         "views_label": "33.404",
-        "is_new": false,
-        "change_pct": 2,
-        "change_abs": 2,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           33501,
           32007,
@@ -3999,10 +4013,10 @@
         "title": "Stacy Keach",
         "views": 29173,
         "views_label": "29.173",
-        "is_new": false,
-        "change_pct": -73,
-        "change_abs": 73,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           142,
           159,
@@ -4125,10 +4139,10 @@
         "title": "Irmelin Krause",
         "views": 24620,
         "views_label": "24.620",
-        "is_new": false,
-        "change_pct": 26,
-        "change_abs": 26,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           2,
           3,
@@ -4251,10 +4265,10 @@
         "title": "Ballers in God",
         "views": 19365,
         "views_label": "19.365",
-        "is_new": false,
-        "change_pct": -27,
-        "change_abs": 27,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           20,
           180,
@@ -4405,10 +4419,10 @@
         "title": "Ilse Aigner",
         "views": 15210,
         "views_label": "15.210",
-        "is_new": false,
-        "change_pct": -54,
-        "change_abs": 54,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           206556,
           122380,
@@ -4720,10 +4734,10 @@
         "title": "Der Herr der Ringe: Die Ringe der Macht",
         "views": 12195,
         "views_label": "12.195",
-        "is_new": false,
-        "change_pct": 6,
-        "change_abs": 6,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           2137,
           2440,
@@ -4972,10 +4986,10 @@
         "title": "Nekrolog 2026",
         "views": 11270,
         "views_label": "11.270",
-        "is_new": false,
-        "change_pct": -8,
-        "change_abs": 8,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           12458,
           10186,
@@ -5098,10 +5112,10 @@
         "title": "Hauptseite",
         "views": 11129,
         "views_label": "11.129",
-        "is_new": false,
-        "change_pct": -2,
-        "change_abs": 2,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           11769,
           10697,
@@ -5245,10 +5259,10 @@
         "title": "Hubert Aiwanger",
         "views": 10766,
         "views_label": "10.766",
-        "is_new": false,
-        "change_pct": -16,
-        "change_abs": 16,
-        "change_sign": "-",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           111312,
           51422,
@@ -5318,43 +5332,50 @@
           751,
           869,
           1196,
-          3133
+          3133,
+          11034
         ],
         "sparkline_bars": [
           {
             "x": 0,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 17,
+            "x": 14.57,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 34,
+            "x": 29.14,
             "y": 22,
-            "w": 15,
+            "w": 12.57,
             "h": 2
           },
           {
-            "x": 51,
-            "y": 21,
-            "w": 15,
-            "h": 3
+            "x": 43.71,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
           },
           {
-            "x": 68,
+            "x": 58.29,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
+          },
+          {
+            "x": 72.86,
             "y": 18,
-            "w": 15,
+            "w": 12.57,
             "h": 6
           },
           {
-            "x": 85,
+            "x": 87.43,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           }
         ]
@@ -5364,10 +5385,10 @@
         "title": "Grand Theft Auto VI",
         "views": 10623,
         "views_label": "10.623",
-        "is_new": false,
-        "change_pct": 23,
-        "change_abs": 23,
-        "change_sign": "+",
+        "is_new": true,
+        "change_pct": null,
+        "change_abs": null,
+        "change_sign": "",
         "history": [
           2543,
           2670,
@@ -5553,7 +5574,7 @@
   {
     "lang": "es",
     "date": "2026-11-12",
-    "generated_at": "2026-11-13T11:16:45.084Z",
+    "generated_at": "2026-11-13T15:32:16.844Z",
     "has_thumbnail": true,
     "top_description": "youtuber español",
     "spark_width": 100,
@@ -6214,43 +6235,50 @@
           3848,
           5217,
           6685,
-          7689
+          7689,
+          14426
         ],
         "sparkline_bars": [
           {
             "x": 0,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
+          },
+          {
+            "x": 14.57,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
+          },
+          {
+            "x": 29.14,
+            "y": 22,
+            "w": 12.57,
+            "h": 2
+          },
+          {
+            "x": 43.71,
+            "y": 21,
+            "w": 12.57,
+            "h": 3
+          },
+          {
+            "x": 58.29,
             "y": 18,
-            "w": 15,
+            "w": 12.57,
             "h": 6
           },
           {
-            "x": 17,
-            "y": 22,
-            "w": 15,
-            "h": 2
-          },
-          {
-            "x": 34,
-            "y": 22,
-            "w": 15,
-            "h": 2
-          },
-          {
-            "x": 51,
+            "x": 72.86,
             "y": 15,
-            "w": 15,
+            "w": 12.57,
             "h": 9
           },
           {
-            "x": 68,
-            "y": 6,
-            "w": 15,
-            "h": 18
-          },
-          {
-            "x": 85,
+            "x": 87.43,
             "y": 0,
-            "w": 15,
+            "w": 12.57,
             "h": 24
           }
         ]
